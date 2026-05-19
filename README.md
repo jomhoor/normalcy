@@ -27,7 +27,7 @@ These are not platform-specific values; they are the legal-moral minimum floor u
 
 - **Model:** semantic reasoning LLM. MVP may use a smaller open model with the same rubric; once AWS Bedrock integration is enabled for production, the target model is Claude 3.5 Sonnet.
 - **Language:** Persian-native prompt and rubric. User content and relevant convention passages are evaluated in Persian.
-- **Hook point:** pre-publish in the Agora API, after identity/signature checks and before storage/fan-out.
+- **Hook point:** pre-publish in the Taraaz API, after identity/signature checks and before storage/fan-out.
 - **Failure behavior:** if blocked, the author receives a reason and can revise/resubmit; Gate 2 is a revision loop at pre-publish rather than an adjudicated appeal process.
 
 ### What this gate is (and is not)
