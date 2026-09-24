@@ -4,3 +4,4 @@ node_modules/
 .wrangler/
 benchmark/.cache/
 benchmark/.venv/
+__pycache__/
