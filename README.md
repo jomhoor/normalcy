@@ -13,6 +13,31 @@ The human-rights benchmark (متن بالادستی) behind [normalcy.is](https:
 | `POST /check` | async check with callback (bearer `SHARED_SECRET`) |
 | `POST /check-sync` | sync check for integration tests (bearer `SHARED_SECRET`) |
 
+### API v1
+
+| Endpoint | Access | What |
+|---|---|---|
+| `GET /v1/instruments` | public | the instrument index with sources and versions |
+| `GET /v1/provisions/{id}` | public | one article or paragraph, e.g. `ICCPR.19` or `ICCPR.19.3` |
+| `GET /v1/rubrics` | public | the audit scoring guides: checklist, cited provisions, instructions, version |
+| `POST /v1/audit` | client key | `{rubric, documents: [{id, title?, segments: [{id, label?, text}]}], refresh?}` → `202 {job, counts}` |
+| `GET /v1/audit/{job}` | client key | `processing`, or `ended` with a result per document |
+| `POST /v1/check` | Jomhoor key | Gate 2 post moderation; answers `503 not_enabled` until `GATE2_ENABLED = "true"` |
+
+Client keys are the `API_KEYS` secret, `name:key` pairs separated by commas (`constitutions`, `atlas`, `jomhoor`).
+
+**How an audit runs.** Each document is keyed by `sha256(segments + scoring-guide version + benchmark version + model)`. A key already in KV is answered from the cache and never reaches the model. The rest go to the Message Batches API in one batch (half price). Each request carries the guide's instructions and the verbatim text of the provisions its checklist rests on, as a stable system prefix with `cache_control`; only the document changes. The model gives one verdict per checklist item (`guaranteed`, `restricted_clawback`, `contradicted`, `silent`) with the document segments and benchmark provision IDs it rests on, a verbatim quote and a note in English and Persian. When the batch ends, every citation is checked: an unknown provision or segment ID, or a non-silent verdict without a segment, marks that verdict `rejected`; a quote that is not in the document is flagged. Verdicts are not final: the caller publishes them only after human review.
+
+**Scoring guides** (`rubrics/*.json`, built by `benchmark/rubrics.py` into `src/generated/rubrics.json` and `public/data/rubrics.json`; the build fails on any provision ID not in the stored texts):
+
+| Guide | For | Checklist |
+|---|---|---|
+| `audit-constitution` | constitutions, drafts, charters, programmes, treatises | 31 rights across the Tier 1 instruments |
+| `audit-org` | bylaws | 14 items: membership, internal democracy, dissent, discipline, parity, finances, oversight… Tier 1 + Tier 2 |
+| `gate2-post` | forum posts (Jomhoor) | endorsement of violations only (`src/claude.ts`) |
+
+Bylaws are never audited with the constitutional guide, and no two documents are compared with each other here.
+
 ## The benchmark library
 
 `benchmark/build.py` downloads each instrument from its official source, checks it against `benchmark/sources.lock.json` (SHA-256), splits it into provisions and writes `public/data/` and `src/generated/benchmark.json`. Text is stored verbatim: only line breaks, page furniture and line-end hyphenation change. The Genocide Convention's only born-digital source is an OCR'd scan, so its text is in `benchmark/manual/genocide-en.txt`, corrected against the page images (each correction is listed there).
@@ -20,6 +45,7 @@ The human-rights benchmark (متن بالادستی) behind [normalcy.is](https:
 ```sh
 python3 -m venv benchmark/.venv && benchmark/.venv/bin/pip install -r benchmark/requirements.txt
 benchmark/.venv/bin/python benchmark/build.py      # needs poppler (pdftotext) too
+python3 benchmark/rubrics.py                        # after changing the benchmark or rubrics/*.json
 ```
 
 English is authoritative. Persian translations are pending review (`fa_status: pending`); nothing machine-translated is published as text.
@@ -32,6 +58,7 @@ Tier 2 (organisational documents): the OSCE/ODIHR–Venice Commission *Guideline
 npm install
 npx wrangler secret put ANTHROPIC_API_KEY
 npx wrangler secret put SHARED_SECRET
+npx wrangler secret put API_KEYS          # constitutions:<key>,atlas:<key>
 npx wrangler deploy
 ```
 

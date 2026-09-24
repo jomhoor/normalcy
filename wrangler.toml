@@ -1,6 +1,7 @@
 # No secrets here. Set them with:
 #   npx wrangler secret put ANTHROPIC_API_KEY
 #   npx wrangler secret put SHARED_SECRET
+#   npx wrangler secret put API_KEYS              (v1 clients: "constitutions:<key>,atlas:<key>")
 #   npx wrangler secret put TURNSTILE_SECRET      (optional; with TURNSTILE_SITE_KEY below)
 # Local development reads the same names from .dev.vars.
 name = "normalcy"

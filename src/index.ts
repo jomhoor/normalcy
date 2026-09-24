@@ -3,6 +3,7 @@ import { generateUUID, nowISO } from "./utils";
 import { processQueueMessage } from "./consumer";
 import { checkCompliance, MODEL, RUBRIC_VERSION } from "./claude";
 import benchmark from "./generated/benchmark.json";
+import { handleV1 } from "./v1";
 
 export interface Env {
   ANTHROPIC_API_KEY?: string;
@@ -16,6 +17,10 @@ export interface Env {
   // Cloudflare Turnstile; the checker skips the challenge while these are unset
   TURNSTILE_SITE_KEY?: string;
   TURNSTILE_SECRET?: string;
+  // API v1 client keys, "name:key,name:key" (constitutions, atlas, jomhoor)
+  API_KEYS?: string;
+  // Gate 2 post moderation for Jomhoor at /v1/check; "true" to switch it on
+  GATE2_ENABLED?: string;
 }
 
 const MAX_TEXT = 6000;
@@ -191,6 +196,8 @@ export default {
       console.log("[/receive] Callback received:", JSON.stringify(body, null, 2));
       return json({ received: true, payload: body });
     }
+
+    if (url.pathname.startsWith("/v1/")) return handleV1(request, env, url);
 
     if (url.pathname.startsWith("/api/")) return json({ error: "Not Found" }, 404);
 

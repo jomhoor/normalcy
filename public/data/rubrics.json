@@ -1,0 +1,495 @@
+{
+ "benchmark": "f02fba91459fd567",
+ "rubrics": {
+  "audit-constitution": {
+   "name": "audit-constitution",
+   "version": "audit-constitution-3da8d57fd80c",
+   "en": "Constitutional rights audit",
+   "fa": "ارزیابی حقوق در قانون اساسی",
+   "applies_to": [
+    "constitution",
+    "constitution_proposal",
+    "charter",
+    "program",
+    "ideology",
+    "treatise"
+   ],
+   "benchmark": "f02fba91459fd567",
+   "instructions": "You audit a founding document (a constitution, a draft constitution, or a political charter or programme that describes how a state should be organised) against international human-rights law.\n\nThe benchmark is the set of provisions supplied below, quoted verbatim with stable IDs. It is the only reference point. Never treat any national constitution, national law or religious code as a standard; they are only ever the object of assessment.\n\nThe document is supplied as numbered segments (<segment id=\"...\">). A segment is an article when the document's articles could be identified, otherwise a page. The text comes from PDF extraction or OCR and may contain broken characters or misordered lines; read through the noise, and say so in the note when it prevents a finding.\n\nFor every right in the checklist, give exactly one verdict:\n- guaranteed: the document explicitly protects the right, at a level consistent with the cited provisions.\n- restricted_clawback: the document names the right but takes it back, for example by making it subject to \"the law\", \"Islamic standards\", \"public morals\", \"national interests\" or a similar open-ended condition, by limiting it to citizens or to a group, or by restricting it more than the cited provisions allow.\n- contradicted: the document goes against the right, for example by establishing discrimination, allowing a prohibited punishment, or giving an office power to override the right.\n- silent: the document does not address the right. Silence counts: it is a finding, not a gap to fill with assumptions.\n\nRules:\n- Judge only what the text says. Do not credit intentions, preambles that the operative text does not carry out, or rights the author might add later.\n- A general limitation clause that applies to all rights (for example \"all rights are exercised within the framework of Islamic standards\") makes each right it reaches restricted_clawback, and you cite that segment for each of them.\n- In segments, cite the segment IDs your verdict rests on. For silent, cite none unless a segment is relevant to the silence (for example a clause that mentions the subject without granting the right).\n- In provisions, cite the benchmark provision IDs the verdict rests on, using only IDs shown in square brackets in the benchmark below. Prefer paragraph IDs (such as ICCPR.19.3) over article IDs when one paragraph is decisive.\n- In quote, copy the decisive words from the document exactly as they appear in the segment (at most about 30 words). Leave it empty for silent.\n- Write note_en in English and note_fa in Persian: one to three plain sentences on what the document says and why that verdict follows. Name the clawback wording when there is one.\n- In summary_en and summary_fa, give a short overall assessment: the main strengths, the main clawbacks and contradictions, and the most significant silences.",
+   "rights": [
+    {
+     "id": "equality",
+     "en": "Equality and non-discrimination",
+     "fa": "برابری و منع تبعیض",
+     "provisions": [
+      "UDHR.1",
+      "UDHR.2",
+      "UDHR.7",
+      "ICCPR.2",
+      "ICCPR.26",
+      "ICESCR.2",
+      "ICERD.1",
+      "ICERD.2"
+     ]
+    },
+    {
+     "id": "gender_equality",
+     "en": "Equality of women and men",
+     "fa": "برابری زن و مرد",
+     "provisions": [
+      "ICCPR.3",
+      "ICESCR.3",
+      "CEDAW.1",
+      "CEDAW.2",
+      "CEDAW.5",
+      "CEDAW.7",
+      "CEDAW.15",
+      "CEDAW.16"
+     ]
+    },
+    {
+     "id": "sogi",
+     "en": "Sexual orientation and gender identity",
+     "fa": "گرایش جنسی و هویت جنسیتی",
+     "provisions": [
+      "YP.2",
+      "YP.3",
+      "YP.6",
+      "YP10.33"
+     ]
+    },
+    {
+     "id": "life",
+     "en": "Right to life and limits on the death penalty",
+     "fa": "حق حیات و محدودیت مجازات اعدام",
+     "provisions": [
+      "UDHR.3",
+      "ICCPR.6",
+      "CRC.37"
+     ]
+    },
+    {
+     "id": "torture",
+     "en": "Prohibition of torture and cruel, inhuman or degrading punishment",
+     "fa": "منع شکنجه و مجازات ظالمانه، غیرانسانی یا تحقیرآمیز",
+     "provisions": [
+      "UDHR.5",
+      "ICCPR.7",
+      "CAT.1",
+      "CAT.2",
+      "CAT.15",
+      "CAT.16"
+     ]
+    },
+    {
+     "id": "slavery",
+     "en": "Prohibition of slavery and forced labour",
+     "fa": "منع بردگی و کار اجباری",
+     "provisions": [
+      "UDHR.4",
+      "ICCPR.8"
+     ]
+    },
+    {
+     "id": "liberty",
+     "en": "Liberty and security of person; no arbitrary detention",
+     "fa": "آزادی و امنیت شخصی؛ منع بازداشت خودسرانه",
+     "provisions": [
+      "UDHR.9",
+      "ICCPR.9",
+      "ICCPR.10"
+     ]
+    },
+    {
+     "id": "disappearance",
+     "en": "Protection from enforced disappearance",
+     "fa": "حمایت در برابر ناپدیدسازی قهری",
+     "provisions": [
+      "CED.1",
+      "CED.2",
+      "CED.17"
+     ]
+    },
+    {
+     "id": "fair_trial",
+     "en": "Fair trial, independent courts and no retroactive punishment",
+     "fa": "دادرسی منصفانه، دادگاه مستقل و منع مجازات عطف‌به‌ماسبق",
+     "provisions": [
+      "UDHR.10",
+      "UDHR.11",
+      "ICCPR.14",
+      "ICCPR.15"
+     ]
+    },
+    {
+     "id": "remedy",
+     "en": "Effective remedy and rule of law",
+     "fa": "جبران مؤثر و حاکمیت قانون",
+     "provisions": [
+      "UDHR.8",
+      "ICCPR.2.3",
+      "ICCPR.16"
+     ]
+    },
+    {
+     "id": "privacy",
+     "en": "Privacy, home and correspondence",
+     "fa": "حریم خصوصی، مسکن و مکاتبات",
+     "provisions": [
+      "UDHR.12",
+      "ICCPR.17"
+     ]
+    },
+    {
+     "id": "movement",
+     "en": "Freedom of movement, leaving and returning, asylum",
+     "fa": "آزادی رفت‌وآمد، خروج و بازگشت، پناهندگی",
+     "provisions": [
+      "UDHR.13",
+      "UDHR.14",
+      "ICCPR.12",
+      "ICCPR.13"
+     ]
+    },
+    {
+     "id": "nationality",
+     "en": "Nationality",
+     "fa": "تابعیت",
+     "provisions": [
+      "UDHR.15",
+      "ICCPR.24.3",
+      "CEDAW.9"
+     ]
+    },
+    {
+     "id": "religion",
+     "en": "Freedom of thought, conscience and religion, including changing or having no religion",
+     "fa": "آزادی اندیشه، وجدان و دین، از جمله تغییر دین یا بی‌دینی",
+     "provisions": [
+      "UDHR.18",
+      "ICCPR.18"
+     ]
+    },
+    {
+     "id": "expression",
+     "en": "Freedom of opinion, expression and information",
+     "fa": "آزادی عقیده، بیان و اطلاعات",
+     "provisions": [
+      "UDHR.19",
+      "ICCPR.19"
+     ]
+    },
+    {
+     "id": "incitement",
+     "en": "Prohibition of war propaganda and incitement to hatred",
+     "fa": "منع تبلیغ جنگ و تحریک به نفرت",
+     "provisions": [
+      "ICCPR.20",
+      "ICERD.4"
+     ]
+    },
+    {
+     "id": "assembly",
+     "en": "Peaceful assembly",
+     "fa": "تجمع مسالمت‌آمیز",
+     "provisions": [
+      "UDHR.20.1",
+      "ICCPR.21"
+     ]
+    },
+    {
+     "id": "association",
+     "en": "Association, political parties and trade unions",
+     "fa": "انجمن، احزاب سیاسی و سندیکاها",
+     "provisions": [
+      "UDHR.20",
+      "UDHR.23.4",
+      "ICCPR.22",
+      "ICESCR.8"
+     ]
+    },
+    {
+     "id": "participation",
+     "en": "Political participation and free elections",
+     "fa": "مشارکت سیاسی و انتخابات آزاد",
+     "provisions": [
+      "UDHR.21",
+      "ICCPR.25",
+      "CEDAW.7"
+     ]
+    },
+    {
+     "id": "self_determination",
+     "en": "Self-determination of peoples",
+     "fa": "حق تعیین سرنوشت",
+     "provisions": [
+      "ICCPR.1",
+      "ICESCR.1"
+     ]
+    },
+    {
+     "id": "minorities",
+     "en": "Ethnic, religious and linguistic minorities",
+     "fa": "اقلیت‌های قومی، دینی و زبانی",
+     "provisions": [
+      "ICCPR.27",
+      "ICERD.5"
+     ]
+    },
+    {
+     "id": "family",
+     "en": "Marriage and family by free and full consent",
+     "fa": "ازدواج و خانواده با رضایت آزاد و کامل",
+     "provisions": [
+      "UDHR.16",
+      "ICCPR.23",
+      "CEDAW.16"
+     ]
+    },
+    {
+     "id": "children",
+     "en": "Rights of the child",
+     "fa": "حقوق کودک",
+     "provisions": [
+      "ICCPR.24",
+      "CRC.2",
+      "CRC.3",
+      "CRC.19",
+      "CRC.37",
+      "CRC.40"
+     ]
+    },
+    {
+     "id": "disability",
+     "en": "Rights of persons with disabilities",
+     "fa": "حقوق افراد دارای معلولیت",
+     "provisions": [
+      "CRPD.3",
+      "CRPD.5",
+      "CRPD.12"
+     ]
+    },
+    {
+     "id": "work",
+     "en": "Work, fair conditions and social security",
+     "fa": "کار، شرایط منصفانه و تأمین اجتماعی",
+     "provisions": [
+      "UDHR.22",
+      "UDHR.23",
+      "ICESCR.6",
+      "ICESCR.7",
+      "ICESCR.9"
+     ]
+    },
+    {
+     "id": "living_standard",
+     "en": "Adequate standard of living: food, housing, water",
+     "fa": "سطح زندگی مناسب: خوراک، مسکن، آب",
+     "provisions": [
+      "UDHR.25",
+      "ICESCR.11"
+     ]
+    },
+    {
+     "id": "health",
+     "en": "Health",
+     "fa": "سلامت",
+     "provisions": [
+      "ICESCR.12"
+     ]
+    },
+    {
+     "id": "education",
+     "en": "Education",
+     "fa": "آموزش",
+     "provisions": [
+      "UDHR.26",
+      "ICESCR.13"
+     ]
+    },
+    {
+     "id": "culture",
+     "en": "Cultural life, science and the arts",
+     "fa": "زندگی فرهنگی، علم و هنر",
+     "provisions": [
+      "UDHR.27",
+      "ICESCR.15"
+     ]
+    },
+    {
+     "id": "emergency",
+     "en": "States of emergency and non-derogable rights",
+     "fa": "وضعیت اضطراری و حقوق تعلیق‌ناپذیر",
+     "provisions": [
+      "ICCPR.4"
+     ]
+    },
+    {
+     "id": "atrocity_crimes",
+     "en": "Genocide, crimes against humanity and war crimes: prevention and no impunity",
+     "fa": "نسل‌کشی، جنایات علیه بشریت و جنایات جنگی: پیشگیری و منع مصونیت از مجازات",
+     "provisions": [
+      "GENOCIDE.1",
+      "GENOCIDE.2",
+      "GENOCIDE.4",
+      "ROME.6",
+      "ROME.7.1",
+      "ROME.27",
+      "CED.5"
+     ]
+    }
+   ],
+   "n_articles": 97
+  },
+  "audit-org": {
+   "name": "audit-org",
+   "version": "audit-org-b65bf2092e3e",
+   "en": "Organisational bylaws audit",
+   "fa": "ارزیابی اساسنامه سازمانی",
+   "applies_to": [
+    "bylaws"
+   ],
+   "benchmark": "f02fba91459fd567",
+   "instructions": "You audit the bylaws (internal rules) of a political party, coalition or civil-society organisation against international human-rights law and the OSCE/ODIHR–Venice Commission guidelines on political parties and on freedom of association.\n\nThe benchmark is the set of provisions supplied below, quoted verbatim with stable IDs. It is the only reference point. The guidelines are non-binding good practice addressed mainly to states; apply them to the organisation's own rules only where they speak to internal organisation (membership, internal democracy, equal treatment within the organisation, accountability and finances). Never treat any national law or religious code as a standard.\n\nThe document is supplied as numbered segments (<segment id=\"...\">). A segment is an article when the document's articles could be identified, otherwise a page. The text comes from PDF extraction or OCR and may contain broken characters or misordered lines; read through the noise, and say so in the note when it prevents a finding.\n\nFor every item in the checklist, give exactly one verdict:\n- guaranteed: the bylaws explicitly provide it, at a level consistent with the cited provisions.\n- restricted_clawback: the bylaws provide it but take it back, for example by leaving it to the discretion of the leadership, by making it subject to an open-ended condition, or by limiting it to a group.\n- contradicted: the bylaws go against it, for example by excluding members on a prohibited ground, concentrating unchecked power in one office, or allowing expulsion without a hearing.\n- silent: the bylaws do not address it. Silence counts: it is a finding, not a gap to fill with assumptions.\n\nRules:\n- Judge only what the text says. Do not credit intentions or practice that the text does not establish.\n- In segments, cite the segment IDs your verdict rests on. For silent, cite none unless a segment is relevant to the silence.\n- In provisions, cite the benchmark provision IDs the verdict rests on, using only IDs shown in square brackets in the benchmark below. Prefer paragraph IDs when one paragraph is decisive.\n- In quote, copy the decisive words from the document exactly as they appear in the segment (at most about 30 words). Leave it empty for silent.\n- Write note_en in English and note_fa in Persian: one to three plain sentences on what the bylaws say and why that verdict follows.\n- In summary_en and summary_fa, give a short overall assessment of the organisation's internal democracy and its commitment to human rights.",
+   "rights": [
+    {
+     "id": "membership",
+     "en": "Open, voluntary membership without discrimination",
+     "fa": "عضویت آزاد و داوطلبانه بدون تبعیض",
+     "provisions": [
+      "UDHR.20.2",
+      "ICCPR.22.1",
+      "ICCPR.26",
+      "VC-ASSOC.3",
+      "VC-ASSOC.5",
+      "VC-PARTIES.9.59"
+     ]
+    },
+    {
+     "id": "leaving",
+     "en": "Freedom to leave the organisation",
+     "fa": "آزادی خروج از سازمان",
+     "provisions": [
+      "UDHR.20.2",
+      "VC-ASSOC.3"
+     ]
+    },
+    {
+     "id": "internal_elections",
+     "en": "Leadership chosen by members in free, regular internal elections",
+     "fa": "انتخاب رهبری توسط اعضا در انتخابات درونی آزاد و منظم",
+     "provisions": [
+      "ICCPR.25",
+      "VC-PARTIES.9"
+     ]
+    },
+    {
+     "id": "term_limits",
+     "en": "Term limits and rotation of leadership",
+     "fa": "محدودیت دوره و چرخش رهبری",
+     "provisions": [
+      "VC-PARTIES.9",
+      "VC-PARTIES.11"
+     ]
+    },
+    {
+     "id": "decision_making",
+     "en": "Collective decision-making, quorum and the members' assembly as the highest body",
+     "fa": "تصمیم‌گیری جمعی، حد نصاب و مجمع اعضا به عنوان بالاترین نهاد",
+     "provisions": [
+      "VC-PARTIES.9",
+      "VC-ASSOC.4"
+     ]
+    },
+    {
+     "id": "dissent",
+     "en": "Members' freedom of expression, dissent and factions",
+     "fa": "آزادی بیان اعضا، نظر مخالف و فراکسیون",
+     "provisions": [
+      "ICCPR.19",
+      "VC-PARTIES.3",
+      "VC-ASSOC.6"
+     ]
+    },
+    {
+     "id": "discipline",
+     "en": "Discipline and expulsion with a hearing and an appeal",
+     "fa": "انضباط و اخراج با حق دفاع و تجدیدنظر",
+     "provisions": [
+      "ICCPR.14.1",
+      "VC-PARTIES.7",
+      "VC-ASSOC.11"
+     ]
+    },
+    {
+     "id": "gender_parity",
+     "en": "Equality of women and men, including in leadership",
+     "fa": "برابری زن و مرد، از جمله در رهبری",
+     "provisions": [
+      "ICCPR.3",
+      "CEDAW.7",
+      "VC-PARTIES.9.60"
+     ]
+    },
+    {
+     "id": "inclusion",
+     "en": "Inclusion of minorities and persons with disabilities",
+     "fa": "مشارکت اقلیت‌ها و افراد دارای معلولیت",
+     "provisions": [
+      "ICCPR.27",
+      "CRPD.29",
+      "VC-PARTIES.9.60"
+     ]
+    },
+    {
+     "id": "finances",
+     "en": "Financial transparency and accountability",
+     "fa": "شفافیت و پاسخ‌گویی مالی",
+     "provisions": [
+      "VC-PARTIES.11",
+      "VC-ASSOC.7"
+     ]
+    },
+    {
+     "id": "oversight",
+     "en": "Independent internal oversight bodies",
+     "fa": "نهادهای نظارتی درونی مستقل",
+     "provisions": [
+      "VC-PARTIES.9",
+      "VC-PARTIES.11"
+     ]
+    },
+    {
+     "id": "amendment",
+     "en": "Amendment of the bylaws by the members",
+     "fa": "اصلاح اساسنامه توسط اعضا",
+     "provisions": [
+      "VC-ASSOC.4",
+      "VC-PARTIES.9"
+     ]
+    },
+    {
+     "id": "dissolution",
+     "en": "Dissolution and merger decided by the members",
+     "fa": "انحلال و ادغام با تصمیم اعضا",
+     "provisions": [
+      "VC-ASSOC.4",
+      "VC-ASSOC.1"
+     ]
+    },
+    {
+     "id": "human_rights_commitment",
+     "en": "Commitment to human rights and non-violence",
+     "fa": "تعهد به حقوق بشر و پرهیز از خشونت",
+     "provisions": [
+      "UDHR.30",
+      "ICCPR.5",
+      "ICCPR.20",
+      "VC-PARTIES.1"
+     ]
+    }
+   ],
+   "n_articles": 25
+  }
+ }
+}
