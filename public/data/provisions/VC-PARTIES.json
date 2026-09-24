@@ -1,0 +1,281 @@
+{
+ "instrument": {
+  "id": "VC-PARTIES",
+  "tier": 2,
+  "kind": "guidelines",
+  "adopted": "2020-10",
+  "en": "OSCE/ODIHR–Venice Commission Guidelines on Political Party Regulation (2nd ed.)",
+  "fa": "رهنمودهای ODIHR و کمیسیون ونیز درباره تنظیم احزاب سیاسی (ویرایش دوم)",
+  "version": "CDL-AD(2020)032 — Section III, Principles 1–11",
+  "source_url": "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2020)032-e",
+  "source_sha256": "21433fe61e8460f0d73b1dae57e9c94e608f6fa2f57e96ca14acb20ae3900c9d",
+  "fa_status": "pending",
+  "fa_source_url": null,
+  "applies": "parties",
+  "n_provisions": 11,
+  "n_citable": 39
+ },
+ "provisions": [
+  {
+   "id": "VC-PARTIES.1",
+   "number": 1,
+   "heading": "Freedom of Association of Political Parties; Presumption of Lawfulness",
+   "text_en": "35. According to the freedom of association guaranteed in Article 11 ECHR and Article 22 ICCPR, the right of individuals to associate and form political parties should, to the greatest extent possible, be free from interference. Although there are limitations to the right to freedom of association, such limitations must be construed strictly, and only convincing and compelling reasons can justify limitations on freedom of association. Limits must be prescribed by law, necessary in a democratic society, and proportionate in measure. An individual’s association with a political party must be voluntary in nature, and nobody may be forced to join or belong to any association against their will.\n\n36. However, the main subject of these Guidelines is not the individual right to freedom of association, although it will be touched upon here and there. The Guidelines concentrate on the collective dimension of the freedom of association (and related rights), specifically the freedom of association of a particular type, the political party. The freedom of association requires that political parties must be free from unnecessary and disproportionate interference. There should be a presumption in favour of the lawfulness of their establishment, objectives and activities, regardless of the formalities applicable for establishment or official recognition. Only convincing and compelling reasons can justify limitations on the freedom of association of political parties, and such limitations must be construed strictly. Any such limitations must be prescribed by law, pursue a legitimate aim recognised by international standards, necessary in a democratic society, and proportionate in measure and duration (see Principles 5 and 6).\n\n37. The right to freedom of association and the inter-dependent rights to freedom of expression, opinion and assembly (Principle 3) should, insofar as possible, be enjoyed free from state regulation and restriction. Any activities regarding the formation of new political parties and their internal and external functioning that are not expressly forbidden by law, should, therefore, be considered permissible. As specified in paragraph 7.6 of the OSCE Copenhagen Document, the right to establish and participate in and through political parties shall in principle be open to all, free from requirements or undue regulation. States should enact and implement legislation respecting the general presumption in favour of their formation, functioning and protection. States that choose not to enact specific legislation on certain aspects of political party regulation should ensure that the rights of political parties are adequately protected through general constitutional provisions on the freedom of association and regulations applicable to associations.\n\n38. As political parties are integral and essential vehicles for political activity and expression, their formation and functioning should not be limited, nor their dissolution allowed, except in cases as prescribed by law and necessary in a democratic society (Principles 5 and 6). Legal provisions to such effect shall be interpreted narrowly by courts and authorities, and the state shall put in place adequate measures to ensure that the above rights can be enjoyed in practice. In particular, the law should not forbid a political party from advocating a change to the constitutional order of the state, as long as the means used to that end are legal and democratic, and the change proposed is in itself compatible with fundamental democratic principles.\n\n39. While states have a wide margin of appreciation in setting the criteria for an officially recognised party, failure to meet these criteria, including failure to acquire or maintain party registration, by itself is never adequate grounds for banning or dissolution of a party as defined in paragraph 11.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.1.35",
+     "n": 35,
+     "text_en": "According to the freedom of association guaranteed in Article 11 ECHR and Article 22 ICCPR, the right of individuals to associate and form political parties should, to the greatest extent possible, be free from interference. Although there are limitations to the right to freedom of association, such limitations must be construed strictly, and only convincing and compelling reasons can justify limitations on freedom of association. Limits must be prescribed by law, necessary in a democratic society, and proportionate in measure. An individual’s association with a political party must be voluntary in nature, and nobody may be forced to join or belong to any association against their will."
+    },
+    {
+     "id": "VC-PARTIES.1.36",
+     "n": 36,
+     "text_en": "However, the main subject of these Guidelines is not the individual right to freedom of association, although it will be touched upon here and there. The Guidelines concentrate on the collective dimension of the freedom of association (and related rights), specifically the freedom of association of a particular type, the political party. The freedom of association requires that political parties must be free from unnecessary and disproportionate interference. There should be a presumption in favour of the lawfulness of their establishment, objectives and activities, regardless of the formalities applicable for establishment or official recognition. Only convincing and compelling reasons can justify limitations on the freedom of association of political parties, and such limitations must be construed strictly. Any such limitations must be prescribed by law, pursue a legitimate aim recognised by international standards, necessary in a democratic society, and proportionate in measure and duration (see Principles 5 and 6)."
+    },
+    {
+     "id": "VC-PARTIES.1.37",
+     "n": 37,
+     "text_en": "The right to freedom of association and the inter-dependent rights to freedom of expression, opinion and assembly (Principle 3) should, insofar as possible, be enjoyed free from state regulation and restriction. Any activities regarding the formation of new political parties and their internal and external functioning that are not expressly forbidden by law, should, therefore, be considered permissible. As specified in paragraph 7.6 of the OSCE Copenhagen Document, the right to establish and participate in and through political parties shall in principle be open to all, free from requirements or undue regulation. States should enact and implement legislation respecting the general presumption in favour of their formation, functioning and protection. States that choose not to enact specific legislation on certain aspects of political party regulation should ensure that the rights of political parties are adequately protected through general constitutional provisions on the freedom of association and regulations applicable to associations."
+    },
+    {
+     "id": "VC-PARTIES.1.38",
+     "n": 38,
+     "text_en": "As political parties are integral and essential vehicles for political activity and expression, their formation and functioning should not be limited, nor their dissolution allowed, except in cases as prescribed by law and necessary in a democratic society (Principles 5 and 6). Legal provisions to such effect shall be interpreted narrowly by courts and authorities, and the state shall put in place adequate measures to ensure that the above rights can be enjoyed in practice. In particular, the law should not forbid a political party from advocating a change to the constitutional order of the state, as long as the means used to that end are legal and democratic, and the change proposed is in itself compatible with fundamental democratic principles."
+    },
+    {
+     "id": "VC-PARTIES.1.39",
+     "n": 39,
+     "text_en": "While states have a wide margin of appreciation in setting the criteria for an officially recognised party, failure to meet these criteria, including failure to acquire or maintain party registration, by itself is never adequate grounds for banning or dissolution of a party as defined in paragraph 11."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.2",
+   "number": 2,
+   "heading": "Duty to Respect, Protect and Facilitate",
+   "text_en": "40. The state shall not only (passively) respect the exercise of the freedom of association, but shall also actively protect and facilitate this exercise. The state shall protect political parties and individuals in their freedom of association from interference by non-state actors, inter alia by legislative means. The state must ensure that there is adequate protection against violence for candidates and supporters of political parties. While other groups, associations or individuals must have the right to criticise political parties and/or their opinions and demonstrate against them, violence or threats of violence are not permissible. As stated by the ECtHR, “it is incumbent upon public authorities to guarantee the proper functioning of an association or political party, even when they annoy or give offence to persons opposed to the lawful ideas or claims that they are seeking to promote. Their members must be able to hold meetings without having to fear that they will be subjected to physical violence by their opponents. Such a fear would be liable to deter other associations or political parties from openly expressing their opinions on highly controversial issues affecting the community.”\n\n41. Furthermore, it is the responsibility of the state to ensure that relevant general and specific legislation provides for the necessary mechanisms that, in practice, allow the exercise of the right to freely associate and form political parties with others. Other means of facilitating the right to freedom of association may include simplifying regulatory requirements, ensuring that those requirements are not unduly burdensome, facilitating access to resources and taking positive measures to overcome specific challenges confronting disadvantaged or vulnerable persons or groups. Where violations of the right to free association occur, the state bears the responsibility to provide reparation, as appropriate, and to ensure the cessation of the violation.\n\n42. The state’s duty to protect the freedom of association of political parties extends to cases where a party espouses ideas that do not enjoy the support of the majority of society, as long as the promotion of such ideas does not involve or advocate the use of violence or is not aimed at the destruction of democracy. Parties and their supporters shall be able to assemble freely and communicate the party views, and their opinions shall not be summarily blocked from receiving balanced media coverage, especially by state-run media. Further, under paragraph 7.6 of the Copenhagen Document, OSCE participating States have committed themselves to ensure that all parties, including those that present unpopular ideas, are able to compete with one another on an equal footing under law. As such, states may not deny these parties equal opportunities to compete in elections or receive legally prescribed funding.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.2.40",
+     "n": 40,
+     "text_en": "The state shall not only (passively) respect the exercise of the freedom of association, but shall also actively protect and facilitate this exercise. The state shall protect political parties and individuals in their freedom of association from interference by non-state actors, inter alia by legislative means. The state must ensure that there is adequate protection against violence for candidates and supporters of political parties. While other groups, associations or individuals must have the right to criticise political parties and/or their opinions and demonstrate against them, violence or threats of violence are not permissible. As stated by the ECtHR, “it is incumbent upon public authorities to guarantee the proper functioning of an association or political party, even when they annoy or give offence to persons opposed to the lawful ideas or claims that they are seeking to promote. Their members must be able to hold meetings without having to fear that they will be subjected to physical violence by their opponents. Such a fear would be liable to deter other associations or political parties from openly expressing their opinions on highly controversial issues affecting the community.”"
+    },
+    {
+     "id": "VC-PARTIES.2.41",
+     "n": 41,
+     "text_en": "Furthermore, it is the responsibility of the state to ensure that relevant general and specific legislation provides for the necessary mechanisms that, in practice, allow the exercise of the right to freely associate and form political parties with others. Other means of facilitating the right to freedom of association may include simplifying regulatory requirements, ensuring that those requirements are not unduly burdensome, facilitating access to resources and taking positive measures to overcome specific challenges confronting disadvantaged or vulnerable persons or groups. Where violations of the right to free association occur, the state bears the responsibility to provide reparation, as appropriate, and to ensure the cessation of the violation."
+    },
+    {
+     "id": "VC-PARTIES.2.42",
+     "n": 42,
+     "text_en": "The state’s duty to protect the freedom of association of political parties extends to cases where a party espouses ideas that do not enjoy the support of the majority of society, as long as the promotion of such ideas does not involve or advocate the use of violence or is not aimed at the destruction of democracy. Parties and their supporters shall be able to assemble freely and communicate the party views, and their opinions shall not be summarily blocked from receiving balanced media coverage, especially by state-run media. Further, under paragraph 7.6 of the Copenhagen Document, OSCE participating States have committed themselves to ensure that all parties, including those that present unpopular ideas, are able to compete with one another on an equal footing under law. As such, states may not deny these parties equal opportunities to compete in elections or receive legally prescribed funding."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.3",
+   "number": 3,
+   "heading": "Freedom of Expression and Opinion",
+   "text_en": "43. Political parties shall have the right to freedom of expression and opinion (Articles 10 ECHR and 19 ICCPR) in order to pursue their objectives and activities, in addition to the right to free expression and opinion held by the individual member, founders and party functionaries. It is of paramount importance that political parties and their members have the right to participate in political and public debate, regardless of whether the position taken by them is in line with government policy or advocates for legal or societal change or is unpopular or offensive to some groups.\n\n44. The case law of the ECtHR has elaborated on the relationship between the right to freedom of association and the freedom of expression and opinion in a number of judgments by stating that “protection of opinions and the freedom to express them within the meaning of Article 10 of the Convention is one of the objectives of the freedoms of assembly and association as enshrined in Article 11. That applies all the more in relation to political parties in view of their essential role in ensuring pluralism and the proper functioning of democracy.”\n\n45. The freedom of expression and opinion is dependent upon free association in cases in which individuals want to exercise that freedom collectively via an association. As such, guaranteeing freedom of association also ensures that all individuals who wish to exercise their right to freedom of expression and opinion through an association, are able to do so, whether in a collective or individual manner.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.3.43",
+     "n": 43,
+     "text_en": "Political parties shall have the right to freedom of expression and opinion (Articles 10 ECHR and 19 ICCPR) in order to pursue their objectives and activities, in addition to the right to free expression and opinion held by the individual member, founders and party functionaries. It is of paramount importance that political parties and their members have the right to participate in political and public debate, regardless of whether the position taken by them is in line with government policy or advocates for legal or societal change or is unpopular or offensive to some groups."
+    },
+    {
+     "id": "VC-PARTIES.3.44",
+     "n": 44,
+     "text_en": "The case law of the ECtHR has elaborated on the relationship between the right to freedom of association and the freedom of expression and opinion in a number of judgments by stating that “protection of opinions and the freedom to express them within the meaning of Article 10 of the Convention is one of the objectives of the freedoms of assembly and association as enshrined in Article 11. That applies all the more in relation to political parties in view of their essential role in ensuring pluralism and the proper functioning of democracy.”"
+    },
+    {
+     "id": "VC-PARTIES.3.45",
+     "n": 45,
+     "text_en": "The freedom of expression and opinion is dependent upon free association in cases in which individuals want to exercise that freedom collectively via an association. As such, guaranteeing freedom of association also ensures that all individuals who wish to exercise their right to freedom of expression and opinion through an association, are able to do so, whether in a collective or individual manner."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.4",
+   "number": 4,
+   "heading": "Political Pluralism",
+   "text_en": "46. Legislation regulating political parties should aim to facilitate a pluralistic political environment. The ability of individuals to seek, obtain and promote a variety of political viewpoints, including via political party platforms, is commonly recognised as a critical element of a robust democratic society. As evidenced by ECtHR judgments as well as the Copenhagen Document and other OSCE commitments, pluralism – inherent in the fundamental Convention freedoms, as well as Article 3 of Protocol No. 1 to the ECHR and equivalent ICCPR rights - is necessary to ensure that individuals are offered a real choice among political parties. Regulations on political parties should be carefully considered to ensure that they do not impinge upon the principle of political pluralism.\n\n47. Political pluralism is critical to ensuring effective democratic governance and providing citizens with a genuine opportunity to choose how they will be governed. Legislation regarding political parties should promote pluralism as a means of guaranteeing participation by all persons and groups, including minorities, in public life, which should also allow for the expression of opposition viewpoints and for democratic transitions of power.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.4.46",
+     "n": 46,
+     "text_en": "Legislation regulating political parties should aim to facilitate a pluralistic political environment. The ability of individuals to seek, obtain and promote a variety of political viewpoints, including via political party platforms, is commonly recognised as a critical element of a robust democratic society. As evidenced by ECtHR judgments as well as the Copenhagen Document and other OSCE commitments, pluralism – inherent in the fundamental Convention freedoms, as well as Article 3 of Protocol No. 1 to the ECHR and equivalent ICCPR rights - is necessary to ensure that individuals are offered a real choice among political parties. Regulations on political parties should be carefully considered to ensure that they do not impinge upon the principle of political pluralism."
+    },
+    {
+     "id": "VC-PARTIES.4.47",
+     "n": 47,
+     "text_en": "Political pluralism is critical to ensuring effective democratic governance and providing citizens with a genuine opportunity to choose how they will be governed. Legislation regarding political parties should promote pluralism as a means of guaranteeing participation by all persons and groups, including minorities, in public life, which should also allow for the expression of opposition viewpoints and for democratic transitions of power."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.5",
+   "number": 5,
+   "heading": "Legality and Legitimacy of Restrictions",
+   "text_en": "48. Any limitation imposed on the right of individuals to freedom of association and on the fundamental rights of associations such as political parties shall be in compliance with international standards. In particular, any restriction must be prescribed by law and must have a legitimate aim recognised by international standards. Furthermore, the law concerned must be precise, certain and foreseeable, in particular in the case of provisions that grant discretion to state authorities, and must be formulated in terms that provide a reasonable indication as to how these provisions will be interpreted and applied. Therefore, the restrictions must be clear, easy to comprehend, and uniformly applicable to ensure that all individual members and political parties are able to understand them, and anticipate what the consequences will be in case they breach these rules. Full protection of rights must be assumed in all cases lacking specific restrictions; if such protection is not granted, then states will be in violation of their obligations under international human rights law. To ensure that restrictions are not unduly applied and that remedies of review are effective (see Principle 7), legislation must be carefully constructed to be neither too detailed nor too vague. Legislation shall be adopted through a democratic process that ensures public participation and review, and shall be made widely accessible so that individuals and political parties are aware of their rights and are able to keep their conduct and activities in conformity with the law.\n\n49. Any limitations on political parties that restrict their right and their members’ right to free association must be justified by the specific aims pursued by the authorities in line with Article 11(2) of the ECHR (namely, “in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others”). Article 22(2) of the ICCPR contains a similar provision. This list of aims is exhaustive. Pursuant to these provisions, as well as Article 18 of the ECHR, states shall not apply other restrictions on the right to freedom of association than those that are based in these clauses. The scope of these legitimate aims shall be narrowly interpreted.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.5.48",
+     "n": 48,
+     "text_en": "Any limitation imposed on the right of individuals to freedom of association and on the fundamental rights of associations such as political parties shall be in compliance with international standards. In particular, any restriction must be prescribed by law and must have a legitimate aim recognised by international standards. Furthermore, the law concerned must be precise, certain and foreseeable, in particular in the case of provisions that grant discretion to state authorities, and must be formulated in terms that provide a reasonable indication as to how these provisions will be interpreted and applied. Therefore, the restrictions must be clear, easy to comprehend, and uniformly applicable to ensure that all individual members and political parties are able to understand them, and anticipate what the consequences will be in case they breach these rules. Full protection of rights must be assumed in all cases lacking specific restrictions; if such protection is not granted, then states will be in violation of their obligations under international human rights law. To ensure that restrictions are not unduly applied and that remedies of review are effective (see Principle 7), legislation must be carefully constructed to be neither too detailed nor too vague. Legislation shall be adopted through a democratic process that ensures public participation and review, and shall be made widely accessible so that individuals and political parties are aware of their rights and are able to keep their conduct and activities in conformity with the law."
+    },
+    {
+     "id": "VC-PARTIES.5.49",
+     "n": 49,
+     "text_en": "Any limitations on political parties that restrict their right and their members’ right to free association must be justified by the specific aims pursued by the authorities in line with Article 11(2) of the ECHR (namely, “in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others”). Article 22(2) of the ICCPR contains a similar provision. This list of aims is exhaustive. Pursuant to these provisions, as well as Article 18 of the ECHR, states shall not apply other restrictions on the right to freedom of association than those that are based in these clauses. The scope of these legitimate aims shall be narrowly interpreted."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.6",
+   "number": 6,
+   "heading": "Necessity and Proportionality of Restrictions",
+   "text_en": "50. According to Article 11 ECHR and Article 22 ICCPR, any limitation imposed on the rights of political parties must be necessary in a democratic society, proportionate in nature and time, and effective in achieving its specified purpose. The need for restrictions shall be carefully weighed. The limitation chosen shall be proportionate and the least intrusive means to achieve the respective objective. Particularly in the case of political parties, given their fundamental role in the democratic process, prohibitive measures shall be narrowly applied and shall never completely extinguish the right or encroach on its essence. For instance, prohibiting the establishment of a political party or dissolving a political party are sanctions of last resort and shall only be imposed in exceptional cases under strict conditions.\n\n51. Any action taken to achieve a legitimate aim must be necessary in a democratic society. The state needs to prove the existence of a “pressing social need” and of “relevant and sufficient” reasons. Regulations of political parties should be introduced and implemented with restraint, acknowledging that permissible limitations to the right to free association for political parties have been narrowly interpreted by the ECtHR: “exceptions to the rule of freedom of association are to be construed strictly and only convincing and compelling reasons can justify restrictions on that freedom.”\n\n52. Moreover, any limitation on the formation or regulation of the activities of political parties must be proportionate in nature. For instance, dissolution shall only be applied as an instrument of last resort, when the legitimate aim cannot be reached using less restrictive means of regulation. It is the most severe sanction available and should be considered proportionate only when imposed in extreme cases of the most grave violations. In Resolution 1308 (2002) of the Parliamentary Assembly of the Council of Europe (PACE), stated in paragraph 11 that, “a political party should be banned or dissolved only as a last resort” and “in accordance with the procedures which provide all the necessary guarantees to a fair trial.”",
+   "paras": [
+    {
+     "id": "VC-PARTIES.6.50",
+     "n": 50,
+     "text_en": "According to Article 11 ECHR and Article 22 ICCPR, any limitation imposed on the rights of political parties must be necessary in a democratic society, proportionate in nature and time, and effective in achieving its specified purpose. The need for restrictions shall be carefully weighed. The limitation chosen shall be proportionate and the least intrusive means to achieve the respective objective. Particularly in the case of political parties, given their fundamental role in the democratic process, prohibitive measures shall be narrowly applied and shall never completely extinguish the right or encroach on its essence. For instance, prohibiting the establishment of a political party or dissolving a political party are sanctions of last resort and shall only be imposed in exceptional cases under strict conditions."
+    },
+    {
+     "id": "VC-PARTIES.6.51",
+     "n": 51,
+     "text_en": "Any action taken to achieve a legitimate aim must be necessary in a democratic society. The state needs to prove the existence of a “pressing social need” and of “relevant and sufficient” reasons. Regulations of political parties should be introduced and implemented with restraint, acknowledging that permissible limitations to the right to free association for political parties have been narrowly interpreted by the ECtHR: “exceptions to the rule of freedom of association are to be construed strictly and only convincing and compelling reasons can justify restrictions on that freedom.”"
+    },
+    {
+     "id": "VC-PARTIES.6.52",
+     "n": 52,
+     "text_en": "Moreover, any limitation on the formation or regulation of the activities of political parties must be proportionate in nature. For instance, dissolution shall only be applied as an instrument of last resort, when the legitimate aim cannot be reached using less restrictive means of regulation. It is the most severe sanction available and should be considered proportionate only when imposed in extreme cases of the most grave violations. In Resolution 1308 (2002) of the Parliamentary Assembly of the Council of Europe (PACE), stated in paragraph 11 that, “a political party should be banned or dissolved only as a last resort” and “in accordance with the procedures which provide all the necessary guarantees to a fair trial.”"
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.7",
+   "number": 7,
+   "heading": "Effective Remedy",
+   "text_en": "53. The ECHR generally guarantees the availability at national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they may happen to be secured in the domestic legal order. The effect of this principle, according to the case law concerning Article 13 ECHR, is therefore to require the provision of a domestic remedy to deal with the substance of the Convention rights and to grant appropriate relief. Moreover, the “authority” referred to in Article 13 ECHR does not necessarily have to be a judicial authority; but if it is not, its powers and the guarantees which it affords are relevant in determining whether the remedy before it is effective. In addition, in its case law, the ECtHR has not yet expanded the protection of Article 6(1) to cases concerning the dissolution of a political party, as they concern a political right, not a civil right. An exception was recognised only where the proceedings also concerned the transfer of assets following dissolution; in this situation, the party’s or members’ ownership rights were affected. However, the Venice Commission and ODIHR take the view that, given the importance of political parties as vital instruments of the freedom of association and fundamental for the democratic process and the important consequences that the restrictions imposed on political parties may have, any restriction on political party freedoms must be capable of being submitted to review by an independent and impartial court, at least in the final instance. Moreover, the prohibition/dissolution of a political party must always be decided by an independent court. To ensure an effective remedy, it is imperative for the procedure, before the tribunal, including appeal and review, to be in accordance with fair trial standards. The procedure shall be clear and affordable. Proper, timely and effective redress shall be available to parties if a violation is found to have occurred. The principle of effectiveness requires that some remedies be granted expeditiously. Remedies that are not provided in a timely fashion may not satisfy the requirement that a remedy be effective.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.7.53",
+     "n": 53,
+     "text_en": "The ECHR generally guarantees the availability at national level of a remedy to enforce the substance of the Convention rights and freedoms in whatever form they may happen to be secured in the domestic legal order. The effect of this principle, according to the case law concerning Article 13 ECHR, is therefore to require the provision of a domestic remedy to deal with the substance of the Convention rights and to grant appropriate relief. Moreover, the “authority” referred to in Article 13 ECHR does not necessarily have to be a judicial authority; but if it is not, its powers and the guarantees which it affords are relevant in determining whether the remedy before it is effective. In addition, in its case law, the ECtHR has not yet expanded the protection of Article 6(1) to cases concerning the dissolution of a political party, as they concern a political right, not a civil right. An exception was recognised only where the proceedings also concerned the transfer of assets following dissolution; in this situation, the party’s or members’ ownership rights were affected. However, the Venice Commission and ODIHR take the view that, given the importance of political parties as vital instruments of the freedom of association and fundamental for the democratic process and the important consequences that the restrictions imposed on political parties may have, any restriction on political party freedoms must be capable of being submitted to review by an independent and impartial court, at least in the final instance. Moreover, the prohibition/dissolution of a political party must always be decided by an independent court. To ensure an effective remedy, it is imperative for the procedure, before the tribunal, including appeal and review, to be in accordance with fair trial standards. The procedure shall be clear and affordable. Proper, timely and effective redress shall be available to parties if a violation is found to have occurred. The principle of effectiveness requires that some remedies be granted expeditiously. Remedies that are not provided in a timely fashion may not satisfy the requirement that a remedy be effective."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.8",
+   "number": 8,
+   "heading": "Equal Treatment of Political Parties",
+   "text_en": "54. All individuals and groups that seek to establish a political party must be able to do so on the basis of equal treatment before the law. No individual or group wishing to associate as a political party shall be advantaged or disadvantaged in this endeavour by the state. In particular, state regulations on political parties may not discriminate against individuals or groups on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.\n\n55. The state shall not discriminate among political parties on the basis of their political programmes or membership. However, some kinds of differentiation can be justified, based on objective grounds. It is permissible, for instance, to require that parties demonstrate a well identified level of support before receiving specific benefits accruing from the status of being a “party”. And it is also permissible to tailor both the stringency of enforcement of regulations and the penalties for violations to the size and resources of parties, so as not to unduly burden new or small parties while still having sufficient punitive or deterrent impact on larger parties.\n\n56. State authorities shall treat political parties on an equal basis and, as such, remain impartial with regard to the establishment, registration and activities of political parties. Authorities should refrain from any measures that could be seen as intended to privilege some favoured political parties and disadvantage others. This holds good insofar as these parties are in similar positions with respect to size and influence. Thus, parties that are already in parliament may receive higher levels of state support than parties that are not (yet) in parliament but may then also be subjected to stricter reporting obligations (see also para. 136). All political parties should be given opportunities to participate in elections free from distinction or unequal treatment by authorities.\n\n57. While states have broad freedom to establish criteria for entry into the category of officially recognised party, and for distinguishing between major parties and other official recognised parties, these criteria must be objective, and applied neutrally to all political parties.\n\n58. Within the political realm, requirements for equality may be interpreted to be absolute or may be made on a proportional or “equitable” basis (they may, for instance, be determined by the number of seats a party holds in parliament). Such difference in treatment should not be considered discriminatory as long as it is based on objective and reasonable grounds.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.8.54",
+     "n": 54,
+     "text_en": "All individuals and groups that seek to establish a political party must be able to do so on the basis of equal treatment before the law. No individual or group wishing to associate as a political party shall be advantaged or disadvantaged in this endeavour by the state. In particular, state regulations on political parties may not discriminate against individuals or groups on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status."
+    },
+    {
+     "id": "VC-PARTIES.8.55",
+     "n": 55,
+     "text_en": "The state shall not discriminate among political parties on the basis of their political programmes or membership. However, some kinds of differentiation can be justified, based on objective grounds. It is permissible, for instance, to require that parties demonstrate a well identified level of support before receiving specific benefits accruing from the status of being a “party”. And it is also permissible to tailor both the stringency of enforcement of regulations and the penalties for violations to the size and resources of parties, so as not to unduly burden new or small parties while still having sufficient punitive or deterrent impact on larger parties."
+    },
+    {
+     "id": "VC-PARTIES.8.56",
+     "n": 56,
+     "text_en": "State authorities shall treat political parties on an equal basis and, as such, remain impartial with regard to the establishment, registration and activities of political parties. Authorities should refrain from any measures that could be seen as intended to privilege some favoured political parties and disadvantage others. This holds good insofar as these parties are in similar positions with respect to size and influence. Thus, parties that are already in parliament may receive higher levels of state support than parties that are not (yet) in parliament but may then also be subjected to stricter reporting obligations (see also para. 136). All political parties should be given opportunities to participate in elections free from distinction or unequal treatment by authorities."
+    },
+    {
+     "id": "VC-PARTIES.8.57",
+     "n": 57,
+     "text_en": "While states have broad freedom to establish criteria for entry into the category of officially recognised party, and for distinguishing between major parties and other official recognised parties, these criteria must be objective, and applied neutrally to all political parties."
+    },
+    {
+     "id": "VC-PARTIES.8.58",
+     "n": 58,
+     "text_en": "Within the political realm, requirements for equality may be interpreted to be absolute or may be made on a proportional or “equitable” basis (they may, for instance, be determined by the number of seats a party holds in parliament). Such difference in treatment should not be considered discriminatory as long as it is based on objective and reasonable grounds."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.9",
+   "number": 9,
+   "heading": "Equal Treatment by and within Political Parties, Special Measures, Internal Democracy",
+   "text_en": "59. The right to freedom of association generally entitles those forming an association or belonging to one to choose with whom they form an association or whom to admit as members. A political party therefore is not required to accept individuals as members or candidates who do not share its core beliefs and values. However, this freedom of choice is not unlimited as this aspect of the right to association is also subject to the prohibition on discrimination, so that any differential treatment of persons with respect to the formation or membership of an association that is based on a personal characteristic or status must have a reasonable and objective justification. When the distinction in question operates on grounds such as colour or ethnic origin, or in the intimate sphere of an individual’s private life – for example, where a difference of treatment is based on sex or sexual orientation – particularly “weighty reasons” need to be advanced to justify the measure. Political parties may justify the use of restrictive membership criteria where the objective of the association is to tackle discrimination faced by its members or to seek to redress specific instances of historical exclusion and oppression by the majority, for example, for endangered indigenous groups or marginalised groups.\n\n60. The principle of equal treatment by and within political parties does not exclude that, in order to ensure equal access to political life and eliminate structural historical inequalities, temporary special measures are introduced aimed at promoting de facto equality within political parties for women, persons with disabilities and ethnic, racial or other minorities subjected to past discrimination. Furthermore, because political parties contribute to the expression of political opinions and are dominant in the process of presentation of candidates in elections, some kind of regulation of internal party activities might be considered necessary for the proper functioning of a democratic society.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.9.59",
+     "n": 59,
+     "text_en": "The right to freedom of association generally entitles those forming an association or belonging to one to choose with whom they form an association or whom to admit as members. A political party therefore is not required to accept individuals as members or candidates who do not share its core beliefs and values. However, this freedom of choice is not unlimited as this aspect of the right to association is also subject to the prohibition on discrimination, so that any differential treatment of persons with respect to the formation or membership of an association that is based on a personal characteristic or status must have a reasonable and objective justification. When the distinction in question operates on grounds such as colour or ethnic origin, or in the intimate sphere of an individual’s private life – for example, where a difference of treatment is based on sex or sexual orientation – particularly “weighty reasons” need to be advanced to justify the measure. Political parties may justify the use of restrictive membership criteria where the objective of the association is to tackle discrimination faced by its members or to seek to redress specific instances of historical exclusion and oppression by the majority, for example, for endangered indigenous groups or marginalised groups."
+    },
+    {
+     "id": "VC-PARTIES.9.60",
+     "n": 60,
+     "text_en": "The principle of equal treatment by and within political parties does not exclude that, in order to ensure equal access to political life and eliminate structural historical inequalities, temporary special measures are introduced aimed at promoting de facto equality within political parties for women, persons with disabilities and ethnic, racial or other minorities subjected to past discrimination. Furthermore, because political parties contribute to the expression of political opinions and are dominant in the process of presentation of candidates in elections, some kind of regulation of internal party activities might be considered necessary for the proper functioning of a democratic society."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.10",
+   "number": 10,
+   "heading": "Good Administration",
+   "text_en": "61. The implementation of legislation, policies and practices relevant to political parties shall be undertaken by competent state authorities, including government bodies and courts that act in an impartial manner and are free from partisan influence, both in law and in practice. Such authorities shall also ensure that political parties, as well as the public at large, have relevant information as to their procedures and functioning, which shall be easy to understand and comply with. The scope of the powers of the competent authorities shall be clearly and foreseeably defined in law, and all staff employed by them should be appropriately qualified and properly supervised. The decisions and acts of public authorities shall be open to independent review. The staff of public authorities shall perform their tasks diligently, and any failings shall be rectified, and abuses sanctioned. Also, timeliness is an important element of good administration. Decisions affecting the rights of political parties shall be made in an expeditious manner, particularly where they relate to time-sensitive processes, such as elections.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.10.61",
+     "n": 61,
+     "text_en": "The implementation of legislation, policies and practices relevant to political parties shall be undertaken by competent state authorities, including government bodies and courts that act in an impartial manner and are free from partisan influence, both in law and in practice. Such authorities shall also ensure that political parties, as well as the public at large, have relevant information as to their procedures and functioning, which shall be easy to understand and comply with. The scope of the powers of the competent authorities shall be clearly and foreseeably defined in law, and all staff employed by them should be appropriately qualified and properly supervised. The decisions and acts of public authorities shall be open to independent review. The staff of public authorities shall perform their tasks diligently, and any failings shall be rectified, and abuses sanctioned. Also, timeliness is an important element of good administration. Decisions affecting the rights of political parties shall be made in an expeditious manner, particularly where they relate to time-sensitive processes, such as elections."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-PARTIES.11",
+   "number": 11,
+   "heading": "Accountability",
+   "text_en": "62. Political parties may obtain certain legal privileges that are not available to other associations due to their participation in elections and government. While this is particularly common in the areas of political finance and with respect to access to media resources during election campaigns, these are not the only areas in which political parties may have a privileged status. As a consequence of having privileges not granted to other associations, and due to the role that they play in the public discourse, and may play as a result of elections, it is appropriate to place certain special obligations on political parties. These may take the form of reporting requirements, transparency in financial arrangements, restrictions on the use of special media access or regulations to ensure equal opportunities for the participation of certain underrepresented groups. In each case, the additional obligations imposed shall be directly related and proportional to the special privileges of political parties, and legislation shall provide specific details on the relevant rights and responsibilities that accompany the establishment of a political party and its participation in elections. For instance, political parties, when benefiting from their granted privileges, may be required to act in light of the obligations imposed by international human rights instruments, including those pertaining to the political representation of women, national minorities and persons with disabilities.",
+   "paras": [
+    {
+     "id": "VC-PARTIES.11.62",
+     "n": 62,
+     "text_en": "Political parties may obtain certain legal privileges that are not available to other associations due to their participation in elections and government. While this is particularly common in the areas of political finance and with respect to access to media resources during election campaigns, these are not the only areas in which political parties may have a privileged status. As a consequence of having privileges not granted to other associations, and due to the role that they play in the public discourse, and may play as a result of elections, it is appropriate to place certain special obligations on political parties. These may take the form of reporting requirements, transparency in financial arrangements, restrictions on the use of special media access or regulations to ensure equal opportunities for the participation of certain underrepresented groups. In each case, the additional obligations imposed shall be directly related and proportional to the special privileges of political parties, and legislation shall provide specific details on the relevant rights and responsibilities that accompany the establishment of a political party and its participation in elections. For instance, political parties, when benefiting from their granted privileges, may be required to act in light of the obligations imposed by international human rights instruments, including those pertaining to the political representation of women, national minorities and persons with disabilities."
+    }
+   ],
+   "instrument": "VC-PARTIES",
+   "text_fa": null,
+   "fa_status": "pending"
+  }
+ ]
+}

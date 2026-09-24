@@ -1,0 +1,979 @@
+{
+ "instrument": {
+  "id": "YP",
+  "tier": 1,
+  "kind": "principles",
+  "adopted": "2006-11",
+  "en": "The Yogyakarta Principles",
+  "fa": "اصول یوگیاکارتا",
+  "version": "2007 publication",
+  "source_url": "https://yogyakartaprinciples.org/wp-content/uploads/2016/08/principles_en.pdf",
+  "source_sha256": "8dba449e1f53ef69b476891d141901132916cbbcc9230efec3def939b8fda2c8",
+  "fa_status": "pending",
+  "fa_source_url": null,
+  "applies": "all",
+  "n_provisions": 29,
+  "n_citable": 157
+ },
+ "provisions": [
+  {
+   "id": "YP.1",
+   "number": 1,
+   "heading": "The Right to the Universal Enjoyment of Human Rights",
+   "text_en": "All human beings are born free and equal in dignity and rights. Human beings of all sexual orientations and gender identities are entitled to the full enjoyment of all human rights. States shall:\n\nA. Embody the principles of the universality, interrelatedness, interdependence and indivisibility of all human rights in their national constitutions or other appropriate legislation and ensure the practical realisation of the universal enjoyment of all human rights;\nB. Amend any legislation, including criminal law, to ensure its consistency with the universal enjoyment of all human rights;\nC. Undertake programmes of education and awareness to promote and enhance the full enjoyment of all human rights by all persons, irrespective of sexual orientation or gender identity;\nD. Integrate within State policy and decision-making a pluralistic approach that recognises and affirms the interrelatedness and indivisibility of all aspects of human identity including sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.1.A",
+     "n": "A",
+     "text_en": "Embody the principles of the universality, interrelatedness, interdependence and indivisibility of all human rights in their national constitutions or other appropriate legislation and ensure the practical realisation of the universal enjoyment of all human rights;"
+    },
+    {
+     "id": "YP.1.B",
+     "n": "B",
+     "text_en": "Amend any legislation, including criminal law, to ensure its consistency with the universal enjoyment of all human rights;"
+    },
+    {
+     "id": "YP.1.C",
+     "n": "C",
+     "text_en": "Undertake programmes of education and awareness to promote and enhance the full enjoyment of all human rights by all persons, irrespective of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.1.D",
+     "n": "D",
+     "text_en": "Integrate within State policy and decision-making a pluralistic approach that recognises and affirms the interrelatedness and indivisibility of all aspects of human identity including sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.2",
+   "number": 2,
+   "heading": "The Rights to Equality and Non-Discrimination",
+   "text_en": "Everyone is entitled to enjoy all human rights without discrimination on the basis of sexual orientation or gender identity. Everyone is entitled to equality before the law and the equal protection of the law without any such discrimination whether or not the enjoyment of another human right is also affected. The law shall prohibit any such discrimination and guarantee to all persons equal and effective protection against any such discrimination. Discrimination on the basis of sexual orientation or gender identity includes any distinction, exclusion, restriction or preference based on sexual orientation or gender identity which has the purpose or effect of nullifying or impairing equality before the law or the equal protection of the law, or the recognition, enjoyment or exercise, on an equal basis, of all human rights and fundamental freedoms. Discrimination based on sexual orientation or gender identity may be, and commonly is, compounded by discrimination on other grounds including gender, race, age, religion, disability, health and economic status. States shall:\n\nA. Embody the principles of equality and non-discrimination on the basis of sexual orientation and gender identity in their national constitutions or other appropriate legislation, if not yet incorporated therein, including by means of amendment and interpretation, and ensure the effective realisation of these principles;\nB. Repeal criminal and other legal provisions that prohibit or are, in effect, employed to prohibit consensual sexual activity among people of the same sex who are over the age of consent, and ensure that an equal age of consent applies to both same-sex and differentsex sexual activity;\nC. Adopt appropriate legislative and other measures to prohibit and eliminate discrimination in the public and private spheres on the basis of sexual orientation and gender identity;\nD. Take appropriate measures to secure adequate advancement of persons of diverse sexual orientations and gender identities as may be necessary to ensure such groups or individuals equal enjoyment or exercise of human rights. Such measures shall not be deemed to be discriminatory;\nE. In all their responses to discrimination on the basis of sexual orientation or gender identity, take account of the manner in which such discrimination may intersect with other forms of discrimination;\nF. Take all appropriate action, including programmes of education and training, with a view to achieving the elimination of prejudicial or discriminatory attitudes or behaviours which are related to the idea of the inferiority or the superiority of any sexual orientation or gender identity or gender expression.",
+   "paras": [
+    {
+     "id": "YP.2.A",
+     "n": "A",
+     "text_en": "Embody the principles of equality and non-discrimination on the basis of sexual orientation and gender identity in their national constitutions or other appropriate legislation, if not yet incorporated therein, including by means of amendment and interpretation, and ensure the effective realisation of these principles;"
+    },
+    {
+     "id": "YP.2.B",
+     "n": "B",
+     "text_en": "Repeal criminal and other legal provisions that prohibit or are, in effect, employed to prohibit consensual sexual activity among people of the same sex who are over the age of consent, and ensure that an equal age of consent applies to both same-sex and differentsex sexual activity;"
+    },
+    {
+     "id": "YP.2.C",
+     "n": "C",
+     "text_en": "Adopt appropriate legislative and other measures to prohibit and eliminate discrimination in the public and private spheres on the basis of sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.2.D",
+     "n": "D",
+     "text_en": "Take appropriate measures to secure adequate advancement of persons of diverse sexual orientations and gender identities as may be necessary to ensure such groups or individuals equal enjoyment or exercise of human rights. Such measures shall not be deemed to be discriminatory;"
+    },
+    {
+     "id": "YP.2.E",
+     "n": "E",
+     "text_en": "In all their responses to discrimination on the basis of sexual orientation or gender identity, take account of the manner in which such discrimination may intersect with other forms of discrimination;"
+    },
+    {
+     "id": "YP.2.F",
+     "n": "F",
+     "text_en": "Take all appropriate action, including programmes of education and training, with a view to achieving the elimination of prejudicial or discriminatory attitudes or behaviours which are related to the idea of the inferiority or the superiority of any sexual orientation or gender identity or gender expression."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.3",
+   "number": 3,
+   "heading": "The Right to Recognition before the Law",
+   "text_en": "Everyone has the right to recognition everywhere as a person before the law. Persons of diverse sexual orientations and gender identities shall enjoy legal capacity in all aspects of life. Each person’s self-defined sexual orientation and gender identity is integral to their personality and is one of the most basic aspects of self-determination, dignity and freedom. No one shall be forced to undergo medical procedures, including sex reassignment surgery, sterilisation or hormonal therapy, as a requirement for legal recognition of their gender identity. No status, such as marriage or parenthood, may be invoked as such to prevent the legal recognition of a person’s gender identity. No one shall be subjected to pressure to conceal, suppress or deny their sexual orientation or gender identity. States shall:\n\nA. Ensure that all persons are accorded legal capacity in civil matters, without discrimination on the basis of sexual orientation or gender identity, and the opportunity to exercise that capacity, including equal rights to conclude contracts, and to administer, own, acquire (including through inheritance), manage, enjoy and dispose of property;\nB. Take all necessary legislative, administrative and other measures to fully respect and legally recognise each person’s self-defined gender identity;\nC. Take all necessary legislative, administrative and other measures to ensure that procedures exist whereby all State-issued identity papers which indicate a person’s gender/sex — including birth certificates, passports, electoral records and other documents — reflect the person’s profound self-defined gender identity;\nD. Ensure that such procedures are efficient, fair and non-discriminatory, and respect the dignity and privacy of the person concerned;\nE. Ensure that changes to identity documents will be recognised in all contexts where the identification or disaggregation of persons by gender is required by law or policy;\nF. Undertake targeted programmes to provide social support for all persons experiencing gender transitioning or reassignment.",
+   "paras": [
+    {
+     "id": "YP.3.A",
+     "n": "A",
+     "text_en": "Ensure that all persons are accorded legal capacity in civil matters, without discrimination on the basis of sexual orientation or gender identity, and the opportunity to exercise that capacity, including equal rights to conclude contracts, and to administer, own, acquire (including through inheritance), manage, enjoy and dispose of property;"
+    },
+    {
+     "id": "YP.3.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative, administrative and other measures to fully respect and legally recognise each person’s self-defined gender identity;"
+    },
+    {
+     "id": "YP.3.C",
+     "n": "C",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that procedures exist whereby all State-issued identity papers which indicate a person’s gender/sex — including birth certificates, passports, electoral records and other documents — reflect the person’s profound self-defined gender identity;"
+    },
+    {
+     "id": "YP.3.D",
+     "n": "D",
+     "text_en": "Ensure that such procedures are efficient, fair and non-discriminatory, and respect the dignity and privacy of the person concerned;"
+    },
+    {
+     "id": "YP.3.E",
+     "n": "E",
+     "text_en": "Ensure that changes to identity documents will be recognised in all contexts where the identification or disaggregation of persons by gender is required by law or policy;"
+    },
+    {
+     "id": "YP.3.F",
+     "n": "F",
+     "text_en": "Undertake targeted programmes to provide social support for all persons experiencing gender transitioning or reassignment."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.4",
+   "number": 4,
+   "heading": "The Right to Life",
+   "text_en": "Everyone has the right to life. No one shall be arbitrarily deprived of life, including by reference to considerations of sexual orientation or gender identity. The death penalty shall not be imposed on any person on the basis of consensual sexual activity among persons who are over the age of consent or on the basis of sexual orientation or gender identity. States shall:\n\nA. Repeal all forms of crime that have the purpose or effect of prohibiting consensual sexual activity among persons of the same sex who are over the age of consent and, until such provisions are repealed, never impose the death penalty on any person convicted under them;\nB. Remit sentences of death and release all those currently awaiting execution for crimes relating to consensual sexual activity among persons who are over the age of consent;\nC. Cease any State-sponsored or State-condoned attacks on the lives of persons based on sexual orientation or gender identity, and ensure that all such attacks, whether by government officials or by any individual or group, are vigorously investigated, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished.",
+   "paras": [
+    {
+     "id": "YP.4.A",
+     "n": "A",
+     "text_en": "Repeal all forms of crime that have the purpose or effect of prohibiting consensual sexual activity among persons of the same sex who are over the age of consent and, until such provisions are repealed, never impose the death penalty on any person convicted under them;"
+    },
+    {
+     "id": "YP.4.B",
+     "n": "B",
+     "text_en": "Remit sentences of death and release all those currently awaiting execution for crimes relating to consensual sexual activity among persons who are over the age of consent;"
+    },
+    {
+     "id": "YP.4.C",
+     "n": "C",
+     "text_en": "Cease any State-sponsored or State-condoned attacks on the lives of persons based on sexual orientation or gender identity, and ensure that all such attacks, whether by government officials or by any individual or group, are vigorously investigated, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.5",
+   "number": 5,
+   "heading": "The Right to Security of the Person",
+   "text_en": "Everyone, regardless of sexual orientation or gender identity, has the right to security of the person and to protection by the State against violence or bodily harm, whether inflicted by government officials or by any individual or group. States shall:\n\nA. Take all necessary policing and other measures to prevent and provide protection from all forms of violence and harassment related to sexual orientation and gender identity;\nB. Take all necessary legislative measures to impose appropriate criminal penalties for violence, threats of violence, incitement to violence and related harassment, based on the sexual orientation or gender identity of any person or group of persons, in all spheres of life, including the family;\nC. Take all necessary legislative, administrative and other measures to ensure that the sexual orientation or gender identity of the victim may not be advanced to justify, excuse or mitigate such violence;\nD. Ensure that perpetration of such violence is vigorously investigated, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished, and that victims are provided with appropriate remedies and redress, including compensation;\nE. Undertake campaigns of awareness-raising, directed to the general public as well as to actual and potential perpetrators of violence, in order to combat the prejudices that underlie violence related to sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.5.A",
+     "n": "A",
+     "text_en": "Take all necessary policing and other measures to prevent and provide protection from all forms of violence and harassment related to sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.5.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative measures to impose appropriate criminal penalties for violence, threats of violence, incitement to violence and related harassment, based on the sexual orientation or gender identity of any person or group of persons, in all spheres of life, including the family;"
+    },
+    {
+     "id": "YP.5.C",
+     "n": "C",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that the sexual orientation or gender identity of the victim may not be advanced to justify, excuse or mitigate such violence;"
+    },
+    {
+     "id": "YP.5.D",
+     "n": "D",
+     "text_en": "Ensure that perpetration of such violence is vigorously investigated, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished, and that victims are provided with appropriate remedies and redress, including compensation;"
+    },
+    {
+     "id": "YP.5.E",
+     "n": "E",
+     "text_en": "Undertake campaigns of awareness-raising, directed to the general public as well as to actual and potential perpetrators of violence, in order to combat the prejudices that underlie violence related to sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.6",
+   "number": 6,
+   "heading": "The Right to Privacy",
+   "text_en": "Everyone, regardless of sexual orientation or gender identity, is entitled to the enjoyment of privacy without arbitrary or unlawful interference, including with regard to their family, home or correspondence as well as to protection from unlawful attacks on their honour and reputation. The right to privacy ordinarily includes the choice to disclose or not to disclose information relating to one’s sexual orientation or gender identity, as well as decisions and choices regarding both one’s own body and consensual sexual and other relations with others. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure the right of each person, regardless of sexual orientation or gender identity, to enjoy the private sphere, intimate decisions, and human relations, including consensual sexual activity among persons who are over the age of consent, without arbitrary interference;\nB. Repeal all laws that criminalise consensual sexual activity among persons of the same sex who are over the age of consent, and ensure that an equal age of consent applies to both same-sex and different-sex sexual activity;\nC. Ensure that criminal and other legal provisions of general application are not applied to de facto criminalise consensual sexual activity among persons of the same sex who are over the age of consent;\nD. Repeal any law that prohibits or criminalises the expression of gender identity, including through dress, speech or mannerisms, or that denies to individuals the opportunity to change their bodies as a means of expressing their gender identity;\nE. Release all those held on remand or on the basis of a criminal conviction, if their detention is related to consensual sexual activity among persons who are over the age of consent, or is related to gender identity;\nF. Ensure the right of all persons ordinarily to choose when, to whom and how to disclose information pertaining to their sexual orientation or gender identity, and protect all persons from arbitrary or unwanted disclosure, or threat of disclosure of such information by others.",
+   "paras": [
+    {
+     "id": "YP.6.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure the right of each person, regardless of sexual orientation or gender identity, to enjoy the private sphere, intimate decisions, and human relations, including consensual sexual activity among persons who are over the age of consent, without arbitrary interference;"
+    },
+    {
+     "id": "YP.6.B",
+     "n": "B",
+     "text_en": "Repeal all laws that criminalise consensual sexual activity among persons of the same sex who are over the age of consent, and ensure that an equal age of consent applies to both same-sex and different-sex sexual activity;"
+    },
+    {
+     "id": "YP.6.C",
+     "n": "C",
+     "text_en": "Ensure that criminal and other legal provisions of general application are not applied to de facto criminalise consensual sexual activity among persons of the same sex who are over the age of consent;"
+    },
+    {
+     "id": "YP.6.D",
+     "n": "D",
+     "text_en": "Repeal any law that prohibits or criminalises the expression of gender identity, including through dress, speech or mannerisms, or that denies to individuals the opportunity to change their bodies as a means of expressing their gender identity;"
+    },
+    {
+     "id": "YP.6.E",
+     "n": "E",
+     "text_en": "Release all those held on remand or on the basis of a criminal conviction, if their detention is related to consensual sexual activity among persons who are over the age of consent, or is related to gender identity;"
+    },
+    {
+     "id": "YP.6.F",
+     "n": "F",
+     "text_en": "Ensure the right of all persons ordinarily to choose when, to whom and how to disclose information pertaining to their sexual orientation or gender identity, and protect all persons from arbitrary or unwanted disclosure, or threat of disclosure of such information by others."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.7",
+   "number": 7,
+   "heading": "The Right to Freedom from Arbitrary Deprivation of Liberty",
+   "text_en": "No one shall be subjected to arbitrary arrest or detention. Arrest or detention on the basis of sexual orientation or gender identity, whether pursuant to a court order or otherwise, is arbitrary. All persons under arrest, regardless of their sexual orientation or gender identity, are entitled, on the basis of equality, to be informed of the reasons for arrest and the nature of any charges against them, to be brought promptly before a judicial officer and to bring court proceedings to determine the lawfulness of detention, whether or not charged with any offence. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure that sexual orientation or gender identity may under no circumstances be the basis for arrest or detention, including the elimination of vaguely worded criminal law provisions that invite discriminatory application or otherwise provide scope for arrests based on prejudice;\nB. Take all necessary legislative, administrative and other measures to ensure that all persons under arrest, regardless of their sexual orientation or gender identity, are entitled, on the basis of equality, to be informed of the reasons for arrest and the nature of any charges against them, and whether charged or not, to be brought promptly before a judicial officer and to bring court proceedings to determine the lawfulness of detention;\nC. Undertake programmes of training and awareness-raising to educate police and other law enforcement personnel regarding the arbitrariness of arrest and detention based on a person’s sexual orientation or gender identity;\nD. Maintain accurate and up to date records of all arrests and detentions, indicating the date, location and reason for detention, and ensure independent oversight of all places of detention by bodies that are adequately mandated and equipped to identify arrests and detentions that may be motivated by the sexual orientation or gender identity of a person.",
+   "paras": [
+    {
+     "id": "YP.7.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that sexual orientation or gender identity may under no circumstances be the basis for arrest or detention, including the elimination of vaguely worded criminal law provisions that invite discriminatory application or otherwise provide scope for arrests based on prejudice;"
+    },
+    {
+     "id": "YP.7.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that all persons under arrest, regardless of their sexual orientation or gender identity, are entitled, on the basis of equality, to be informed of the reasons for arrest and the nature of any charges against them, and whether charged or not, to be brought promptly before a judicial officer and to bring court proceedings to determine the lawfulness of detention;"
+    },
+    {
+     "id": "YP.7.C",
+     "n": "C",
+     "text_en": "Undertake programmes of training and awareness-raising to educate police and other law enforcement personnel regarding the arbitrariness of arrest and detention based on a person’s sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.7.D",
+     "n": "D",
+     "text_en": "Maintain accurate and up to date records of all arrests and detentions, indicating the date, location and reason for detention, and ensure independent oversight of all places of detention by bodies that are adequately mandated and equipped to identify arrests and detentions that may be motivated by the sexual orientation or gender identity of a person."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.8",
+   "number": 8,
+   "heading": "The Right to a Fair Trial",
+   "text_en": "Everyone is entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law, in the determination of their rights and obligations in a suit at law and of any criminal charge against them, without prejudice or discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to prohibit and eliminate prejudicial treatment on the basis of sexual orientation or gender identity at every stage of the judicial process, in civil and criminal proceedings and all other judicial and administrative proceedings which determine rights and obligations, and to ensure that no one’s credibility or character as a party, witness, advocate or decision-maker is impugned by reason of their sexual orientation or gender identity;\nB. Take all necessary and reasonable steps to protect persons from criminal prosecutions or civil proceedings that are motivated wholly or in part by prejudice regarding sexual orientation or gender identity;\nC. Undertake programmes of training and awareness-raising for judges, court personnel, prosecutors, lawyers and others regarding international human rights standards and principles of equality and non-discrimination, including in relation to sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.8.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to prohibit and eliminate prejudicial treatment on the basis of sexual orientation or gender identity at every stage of the judicial process, in civil and criminal proceedings and all other judicial and administrative proceedings which determine rights and obligations, and to ensure that no one’s credibility or character as a party, witness, advocate or decision-maker is impugned by reason of their sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.8.B",
+     "n": "B",
+     "text_en": "Take all necessary and reasonable steps to protect persons from criminal prosecutions or civil proceedings that are motivated wholly or in part by prejudice regarding sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.8.C",
+     "n": "C",
+     "text_en": "Undertake programmes of training and awareness-raising for judges, court personnel, prosecutors, lawyers and others regarding international human rights standards and principles of equality and non-discrimination, including in relation to sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.9",
+   "number": 9,
+   "heading": "The Right to Treatment with Humanity while in Detention",
+   "text_en": "Everyone deprived of liberty shall be treated with humanity and with respect for the inherent dignity of the human person. Sexual orientation and gender identity are integral to each person’s dignity. States shall:\n\nA. Ensure that placement in detention avoids further marginalising persons on the basis of sexual orientation or gender identity or subjecting them to risk of violence, ill-treatment or physical, mental or sexual abuse;\nB. Provide adequate access to medical care and counselling appropriate to the needs of those in custody, recognising any particular needs of persons on the basis of their sexual orientation or gender identity, including with regard to reproductive health, access to HIV/AIDS information and therapy and access to hormonal or other therapy as well as to gender-reassignment treatments where desired;\nC. Ensure, to the extent possible, that all prisoners participate in decisions regarding the place of detention appropriate to their sexual orientation and gender identity;\nD. Put protective measures in place for all prisoners vulnerable to violence or abuse on the basis of their sexual orientation, gender identity or gender expression and ensure, so far as is reasonably practicable, that such protective measures involve no greater restriction of their rights than is experienced by the general prison population;\nE. Ensure that conjugal visits, where permitted, are granted on an equal basis to all prisoners and detainees, regardless of the gender of their partner;\nF. Provide for the independent monitoring of detention facilities by the State as well as by non-governmental organisations including organisations working in the spheres of sexual orientation and gender identity;\nG. Undertake programmes of training and awareness-raising for prison personnel and all other officials in the public and private sector who are engaged in detention facilities, regarding international human rights standards and principles of equality and nondiscrimination, including in relation to sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.9.A",
+     "n": "A",
+     "text_en": "Ensure that placement in detention avoids further marginalising persons on the basis of sexual orientation or gender identity or subjecting them to risk of violence, ill-treatment or physical, mental or sexual abuse;"
+    },
+    {
+     "id": "YP.9.B",
+     "n": "B",
+     "text_en": "Provide adequate access to medical care and counselling appropriate to the needs of those in custody, recognising any particular needs of persons on the basis of their sexual orientation or gender identity, including with regard to reproductive health, access to HIV/AIDS information and therapy and access to hormonal or other therapy as well as to gender-reassignment treatments where desired;"
+    },
+    {
+     "id": "YP.9.C",
+     "n": "C",
+     "text_en": "Ensure, to the extent possible, that all prisoners participate in decisions regarding the place of detention appropriate to their sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.9.D",
+     "n": "D",
+     "text_en": "Put protective measures in place for all prisoners vulnerable to violence or abuse on the basis of their sexual orientation, gender identity or gender expression and ensure, so far as is reasonably practicable, that such protective measures involve no greater restriction of their rights than is experienced by the general prison population;"
+    },
+    {
+     "id": "YP.9.E",
+     "n": "E",
+     "text_en": "Ensure that conjugal visits, where permitted, are granted on an equal basis to all prisoners and detainees, regardless of the gender of their partner;"
+    },
+    {
+     "id": "YP.9.F",
+     "n": "F",
+     "text_en": "Provide for the independent monitoring of detention facilities by the State as well as by non-governmental organisations including organisations working in the spheres of sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.9.G",
+     "n": "G",
+     "text_en": "Undertake programmes of training and awareness-raising for prison personnel and all other officials in the public and private sector who are engaged in detention facilities, regarding international human rights standards and principles of equality and nondiscrimination, including in relation to sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.10",
+   "number": 10,
+   "heading": "The Right to Freedom from Torture and Cruel, Inhuman or Degrading Treatment or Punishment",
+   "text_en": "Everyone has the right to be free from torture and from cruel, inhuman or degrading treatment or punishment, including for reasons relating to sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to prevent and provide protection from torture and cruel, inhuman or degrading treatment or punishment, perpetrated for reasons relating to the sexual orientation or gender identity of the victim, as well as the incitement of such acts;\nB. Take all reasonable steps to identify victims of torture and cruel, inhuman or degrading treatment or punishment, perpetrated for reasons relating to sexual orientation or gender identity, and offer appropriate remedies including redress and reparation and, where appropriate, medical and psychological support;\nC. Undertake programmes of training and awareness-raising for police, prison personnel and all other officials in the public and private sector who are in a position to perpetrate or to prevent such acts.",
+   "paras": [
+    {
+     "id": "YP.10.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to prevent and provide protection from torture and cruel, inhuman or degrading treatment or punishment, perpetrated for reasons relating to the sexual orientation or gender identity of the victim, as well as the incitement of such acts;"
+    },
+    {
+     "id": "YP.10.B",
+     "n": "B",
+     "text_en": "Take all reasonable steps to identify victims of torture and cruel, inhuman or degrading treatment or punishment, perpetrated for reasons relating to sexual orientation or gender identity, and offer appropriate remedies including redress and reparation and, where appropriate, medical and psychological support;"
+    },
+    {
+     "id": "YP.10.C",
+     "n": "C",
+     "text_en": "Undertake programmes of training and awareness-raising for police, prison personnel and all other officials in the public and private sector who are in a position to perpetrate or to prevent such acts."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.11",
+   "number": 11,
+   "heading": "The Right to Protection from all Forms of Exploitation, Sale and Trafficking of Human Beings",
+   "text_en": "Everyone is entitled to protection from trafficking, sale and all forms of exploitation, including but not limited to sexual exploitation, on the grounds of actual or perceived sexual orientation or gender identity. Measures designed to prevent trafficking shall address the factors that increase vulnerability, including various forms of inequality and discrimination on the grounds of actual or perceived sexual orientation or gender identity, or the expression of these or other identities. Such measures must not be inconsistent with the human rights of persons at risk of being trafficked. States shall:\n\nA. Take all necessary legislative, administrative and other measures of a preventive and protective nature regarding the trafficking, sale and all forms of exploitation of human beings, including but not limited to sexual exploitation, on the grounds of actual or perceived sexual orientation or gender identity;\nB. Ensure that any such legislation or measures do not criminalise the behaviour of, stigmatise, or in any other way, exacerbate the disadvantage of those vulnerable to such practices;\nC. Establish legal, educational and social measures, services and programmes to address factors that increase vulnerability to trafficking, sale and all forms of exploitation, including but not limited to sexual exploitation, on the grounds of actual or perceived sexual orientation or gender identity, including such factors as social exclusion, discrimination, rejection by families or cultural communities, lack of financial independence, homelessness, discriminatory social attitudes leading to low self-esteem, and lack of protection from discrimination in access to housing, accommodation, employment and social services.",
+   "paras": [
+    {
+     "id": "YP.11.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures of a preventive and protective nature regarding the trafficking, sale and all forms of exploitation of human beings, including but not limited to sexual exploitation, on the grounds of actual or perceived sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.11.B",
+     "n": "B",
+     "text_en": "Ensure that any such legislation or measures do not criminalise the behaviour of, stigmatise, or in any other way, exacerbate the disadvantage of those vulnerable to such practices;"
+    },
+    {
+     "id": "YP.11.C",
+     "n": "C",
+     "text_en": "Establish legal, educational and social measures, services and programmes to address factors that increase vulnerability to trafficking, sale and all forms of exploitation, including but not limited to sexual exploitation, on the grounds of actual or perceived sexual orientation or gender identity, including such factors as social exclusion, discrimination, rejection by families or cultural communities, lack of financial independence, homelessness, discriminatory social attitudes leading to low self-esteem, and lack of protection from discrimination in access to housing, accommodation, employment and social services."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.12",
+   "number": 12,
+   "heading": "The Right to Work",
+   "text_en": "Everyone has the right to decent and productive work, to just and favourable conditions of work and to protection against unemployment, without discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to eliminate and prohibit discrimination on the basis of sexual orientation and gender identity in public and private employment, including in relation to vocational training, recruitment, promotion, dismissal, conditions of employment and remuneration;\nB. Eliminate any discrimination on the basis of sexual orientation or gender identity to ensure equal employment and advancement opportunities in all areas of public service, including all levels of government service and employment in public functions, including serving in the police and military, and provide appropriate training and awareness-raising programmes to counter discriminatory attitudes.",
+   "paras": [
+    {
+     "id": "YP.12.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to eliminate and prohibit discrimination on the basis of sexual orientation and gender identity in public and private employment, including in relation to vocational training, recruitment, promotion, dismissal, conditions of employment and remuneration;"
+    },
+    {
+     "id": "YP.12.B",
+     "n": "B",
+     "text_en": "Eliminate any discrimination on the basis of sexual orientation or gender identity to ensure equal employment and advancement opportunities in all areas of public service, including all levels of government service and employment in public functions, including serving in the police and military, and provide appropriate training and awareness-raising programmes to counter discriminatory attitudes."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.13",
+   "number": 13,
+   "heading": "The Right to Social Security and to Other Social Protection Measures",
+   "text_en": "Everyone has the right to social security and other social protection measures, without discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure equal access, without discrimination on the basis of sexual orientation or gender identity, to social security and other social protection measures, including employment benefits, parental leave, unemployment benefits, health insurance or care or benefits (including for body modifications related to gender identity), other social insurance, family benefits, funeral benefits, pensions and benefits with regard to the loss of support for spouses or partners as the result of illness or death;\nB. Ensure that children are not subject to any form of discriminatory treatment within the social security system or in the provision of social or welfare benefits on the basis of their sexual orientation or gender identity, or that of any member of their family;\nC. Take all necessary legislative, administrative and other measures to ensure access to poverty reduction strategies and programmes, without discrimination on the basis of sexual orientation or gender identity.",
+   "paras": [
+    {
+     "id": "YP.13.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure equal access, without discrimination on the basis of sexual orientation or gender identity, to social security and other social protection measures, including employment benefits, parental leave, unemployment benefits, health insurance or care or benefits (including for body modifications related to gender identity), other social insurance, family benefits, funeral benefits, pensions and benefits with regard to the loss of support for spouses or partners as the result of illness or death;"
+    },
+    {
+     "id": "YP.13.B",
+     "n": "B",
+     "text_en": "Ensure that children are not subject to any form of discriminatory treatment within the social security system or in the provision of social or welfare benefits on the basis of their sexual orientation or gender identity, or that of any member of their family;"
+    },
+    {
+     "id": "YP.13.C",
+     "n": "C",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure access to poverty reduction strategies and programmes, without discrimination on the basis of sexual orientation or gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.14",
+   "number": 14,
+   "heading": "The Right to an Adequate Standard of Living",
+   "text_en": "Everyone has the right to an adequate standard of living, including adequate food, safe drinking water, adequate sanitation and clothing, and to the continuous improvement of living conditions, without discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure equal access, without discrimination on the basis of sexual orientation or gender identity, to adequate food, safe drinking water, adequate sanitation and clothing.",
+   "paras": [
+    {
+     "id": "YP.14.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure equal access, without discrimination on the basis of sexual orientation or gender identity, to adequate food, safe drinking water, adequate sanitation and clothing."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.15",
+   "number": 15,
+   "heading": "The Right to Adequate Housing",
+   "text_en": "Everyone has the right to adequate housing, including protection from eviction, without discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure security of tenure and access to affordable, habitable, accessible, culturally appropriate and safe housing, including shelters and other emergency accommodation, without discrimination on the basis of sexual orientation, gender identity or marital or family status;\nB. Take all necessary legislative, administrative and other measures to prohibit the execution of evictions that are not in conformity with their international human rights obligations, and ensure that adequate and effective legal or other appropriate remedies are available to any person claiming that a right to protection against forced evictions has been violated or is under threat of violation, including the right to resettlement, which includes the right to alternative land of better or equal quality and to adequate housing, without discrimination on the basis of sexual orientation, gender identity or marital or family status;\nC. Ensure equal rights to land and home ownership and inheritance without discrimination on the basis of sexual orientation or gender identity;\nD. Establish social programmes, including support programmes, to address factors relating to sexual orientation and gender identity that increase vulnerability to homelessness, especially for children and young people, including social exclusion, domestic and other forms of violence, discrimination, lack of financial independence, and rejection by families or cultural communities, as well as to promote schemes of neighbourhood support and security;\nE. Provide training and awareness-raising programmes to ensure that all relevant agencies are aware of and sensitive to the needs of those facing homelessness or social disadvantage as a result of sexual orientation or gender identity.",
+   "paras": [
+    {
+     "id": "YP.15.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure security of tenure and access to affordable, habitable, accessible, culturally appropriate and safe housing, including shelters and other emergency accommodation, without discrimination on the basis of sexual orientation, gender identity or marital or family status;"
+    },
+    {
+     "id": "YP.15.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative, administrative and other measures to prohibit the execution of evictions that are not in conformity with their international human rights obligations, and ensure that adequate and effective legal or other appropriate remedies are available to any person claiming that a right to protection against forced evictions has been violated or is under threat of violation, including the right to resettlement, which includes the right to alternative land of better or equal quality and to adequate housing, without discrimination on the basis of sexual orientation, gender identity or marital or family status;"
+    },
+    {
+     "id": "YP.15.C",
+     "n": "C",
+     "text_en": "Ensure equal rights to land and home ownership and inheritance without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.15.D",
+     "n": "D",
+     "text_en": "Establish social programmes, including support programmes, to address factors relating to sexual orientation and gender identity that increase vulnerability to homelessness, especially for children and young people, including social exclusion, domestic and other forms of violence, discrimination, lack of financial independence, and rejection by families or cultural communities, as well as to promote schemes of neighbourhood support and security;"
+    },
+    {
+     "id": "YP.15.E",
+     "n": "E",
+     "text_en": "Provide training and awareness-raising programmes to ensure that all relevant agencies are aware of and sensitive to the needs of those facing homelessness or social disadvantage as a result of sexual orientation or gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.16",
+   "number": 16,
+   "heading": "The Right to Education",
+   "text_en": "Everyone has the right to education, without discrimination on the basis of, and taking into account, their sexual orientation and gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure equal access to education, and equal treatment of students, staff and teachers within the education system, without discrimination on the basis of sexual orientation or gender identity;\nB. Ensure that education is directed to the development of each student’s personality, talents, and mental and physical abilities to their fullest potential, and responds to the needs of students of all sexual orientations and gender identities;\nC. Ensure that education is directed to the development of respect for human rights, and of respect for each child’s parents and family members, cultural identity, language and values, in a spirit of understanding, peace, tolerance and equality, taking into account and respecting diverse sexual orientations and gender identities;\nD. Ensure that education methods, curricula and resources serve to enhance understanding of and respect for, inter alia, diverse sexual orientations and gender identities, including the particular needs of students, their parents and family members related to these grounds;\nE. Ensure that laws and policies provide adequate protection for students, staff and teachers of different sexual orientations and gender identities against all forms of social exclusion and violence within the school environment, including bullying and harassment;\nF. Ensure that students subjected to such exclusion or violence are not marginalised or segregated for reasons of protection, and that their best interests are identified and respected in a participatory manner;\nG. Take all necessary legislative, administrative and other measures to ensure that discipline in educational institutions is administered in a manner consistent with human dignity, without discrimination or penalty on the basis of a student’s sexual orientation or gender identity, or the expression thereof;\nH. Ensure that everyone has access to opportunities and resources for lifelong learning without discrimination on the basis of sexual orientation or gender identity, including adults who have already suffered such forms of discrimination in the educational system.",
+   "paras": [
+    {
+     "id": "YP.16.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure equal access to education, and equal treatment of students, staff and teachers within the education system, without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.16.B",
+     "n": "B",
+     "text_en": "Ensure that education is directed to the development of each student’s personality, talents, and mental and physical abilities to their fullest potential, and responds to the needs of students of all sexual orientations and gender identities;"
+    },
+    {
+     "id": "YP.16.C",
+     "n": "C",
+     "text_en": "Ensure that education is directed to the development of respect for human rights, and of respect for each child’s parents and family members, cultural identity, language and values, in a spirit of understanding, peace, tolerance and equality, taking into account and respecting diverse sexual orientations and gender identities;"
+    },
+    {
+     "id": "YP.16.D",
+     "n": "D",
+     "text_en": "Ensure that education methods, curricula and resources serve to enhance understanding of and respect for, inter alia, diverse sexual orientations and gender identities, including the particular needs of students, their parents and family members related to these grounds;"
+    },
+    {
+     "id": "YP.16.E",
+     "n": "E",
+     "text_en": "Ensure that laws and policies provide adequate protection for students, staff and teachers of different sexual orientations and gender identities against all forms of social exclusion and violence within the school environment, including bullying and harassment;"
+    },
+    {
+     "id": "YP.16.F",
+     "n": "F",
+     "text_en": "Ensure that students subjected to such exclusion or violence are not marginalised or segregated for reasons of protection, and that their best interests are identified and respected in a participatory manner;"
+    },
+    {
+     "id": "YP.16.G",
+     "n": "G",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that discipline in educational institutions is administered in a manner consistent with human dignity, without discrimination or penalty on the basis of a student’s sexual orientation or gender identity, or the expression thereof;"
+    },
+    {
+     "id": "YP.16.H",
+     "n": "H",
+     "text_en": "Ensure that everyone has access to opportunities and resources for lifelong learning without discrimination on the basis of sexual orientation or gender identity, including adults who have already suffered such forms of discrimination in the educational system."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.17",
+   "number": 17,
+   "heading": "The Right to the Highest Attainable Standard of Health",
+   "text_en": "Everyone has the right to the highest attainable standard of physical and mental health, without discrimination on the basis of sexual orientation or gender identity. Sexual and reproductive health is a fundamental aspect of this right. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure enjoyment of the right to the highest attainable standard of health, without discrimination on the basis of sexual orientation or gender identity;\nB. Take all necessary legislative, administrative and other measures to ensure that all persons have access to healthcare facilities, goods and services, including in relation to sexual and reproductive health, and to their own medical records, without discrimination on the basis of sexual orientation or gender identity;\nC. Ensure that healthcare facilities, goods and services are designed to improve the health status of, and respond to the needs of, all persons without discrimination on the basis of, and taking into account, sexual orientation and gender identity, and that medical records in this respect are treated with confidentiality;\nD. Develop and implement programmes to address discrimination, prejudice and other social factors which undermine the health of persons because of their sexual orientation or gender identity;\nE. Ensure that all persons are informed and empowered to make their own decisions regarding medical treatment and care, on the basis of genuinely informed consent, without discrimination on the basis of sexual orientation or gender identity;\nF. Ensure that all sexual and reproductive health, education, prevention, care and treatment programmes and services respect the diversity of sexual orientations and gender identities, and are equally available to all without discrimination;\nG. Facilitate access by those seeking body modifications related to gender reassignment to competent, non-discriminatory treatment, care and support;\nH. Ensure that all health service providers treat clients and their partners without discrimination on the basis of sexual orientation or gender identity, including with regard to recognition as next of kin;\nI. Adopt the policies, and programmes of education and training, necessary to enable persons working in the healthcare sector to deliver the highest attainable standard of healthcare to all persons, with full respect for each person’s sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.17.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure enjoyment of the right to the highest attainable standard of health, without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.17.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that all persons have access to healthcare facilities, goods and services, including in relation to sexual and reproductive health, and to their own medical records, without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.17.C",
+     "n": "C",
+     "text_en": "Ensure that healthcare facilities, goods and services are designed to improve the health status of, and respond to the needs of, all persons without discrimination on the basis of, and taking into account, sexual orientation and gender identity, and that medical records in this respect are treated with confidentiality;"
+    },
+    {
+     "id": "YP.17.D",
+     "n": "D",
+     "text_en": "Develop and implement programmes to address discrimination, prejudice and other social factors which undermine the health of persons because of their sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.17.E",
+     "n": "E",
+     "text_en": "Ensure that all persons are informed and empowered to make their own decisions regarding medical treatment and care, on the basis of genuinely informed consent, without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.17.F",
+     "n": "F",
+     "text_en": "Ensure that all sexual and reproductive health, education, prevention, care and treatment programmes and services respect the diversity of sexual orientations and gender identities, and are equally available to all without discrimination;"
+    },
+    {
+     "id": "YP.17.G",
+     "n": "G",
+     "text_en": "Facilitate access by those seeking body modifications related to gender reassignment to competent, non-discriminatory treatment, care and support;"
+    },
+    {
+     "id": "YP.17.H",
+     "n": "H",
+     "text_en": "Ensure that all health service providers treat clients and their partners without discrimination on the basis of sexual orientation or gender identity, including with regard to recognition as next of kin;"
+    },
+    {
+     "id": "YP.17.I",
+     "n": "I",
+     "text_en": "Adopt the policies, and programmes of education and training, necessary to enable persons working in the healthcare sector to deliver the highest attainable standard of healthcare to all persons, with full respect for each person’s sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.18",
+   "number": 18,
+   "heading": "Protection from Medical Abuses",
+   "text_en": "No person may be forced to undergo any form of medical or psychological treatment, procedure, testing, or be confined to a medical facility, based on sexual orientation or gender identity. Notwithstanding any classifications to the contrary, a person’s sexual orientation and gender identity are not, in and of themselves, medical conditions and are not to be treated, cured or suppressed. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure full protection against harmful medical practices based on sexual orientation or gender identity, including on the basis of stereotypes, whether derived from culture or otherwise, regarding conduct, physical appearance or perceived gender norms;\nB. Take all necessary legislative, administrative and other measures to ensure that no child’s body is irreversibly altered by medical procedures in an attempt to impose a gender identity without the full, free and informed consent of the child in accordance with the age and maturity of the child and guided by the principle that in all actions concerning children, the best interests of the child shall be a primary consideration;\nC. Establish child protection mechanisms whereby no child is at risk of, or subjected to, medical abuse;\nD. Ensure protection of persons of diverse sexual orientations and gender identities against unethical or involuntary medical procedures or research, including in relation to vaccines, treatments or microbicides for HIV/AIDS or other diseases;\nE. Review and amend any health funding provisions or programmes, including those of a development-assistance nature, which may promote, facilitate or in any other way render possible such abuses;\nF. Ensure that any medical or psychological treatment or counselling does not, explicitly or implicitly, treat sexual orientation and gender identity as medical conditions to be treated, cured or suppressed.",
+   "paras": [
+    {
+     "id": "YP.18.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure full protection against harmful medical practices based on sexual orientation or gender identity, including on the basis of stereotypes, whether derived from culture or otherwise, regarding conduct, physical appearance or perceived gender norms;"
+    },
+    {
+     "id": "YP.18.B",
+     "n": "B",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that no child’s body is irreversibly altered by medical procedures in an attempt to impose a gender identity without the full, free and informed consent of the child in accordance with the age and maturity of the child and guided by the principle that in all actions concerning children, the best interests of the child shall be a primary consideration;"
+    },
+    {
+     "id": "YP.18.C",
+     "n": "C",
+     "text_en": "Establish child protection mechanisms whereby no child is at risk of, or subjected to, medical abuse;"
+    },
+    {
+     "id": "YP.18.D",
+     "n": "D",
+     "text_en": "Ensure protection of persons of diverse sexual orientations and gender identities against unethical or involuntary medical procedures or research, including in relation to vaccines, treatments or microbicides for HIV/AIDS or other diseases;"
+    },
+    {
+     "id": "YP.18.E",
+     "n": "E",
+     "text_en": "Review and amend any health funding provisions or programmes, including those of a development-assistance nature, which may promote, facilitate or in any other way render possible such abuses;"
+    },
+    {
+     "id": "YP.18.F",
+     "n": "F",
+     "text_en": "Ensure that any medical or psychological treatment or counselling does not, explicitly or implicitly, treat sexual orientation and gender identity as medical conditions to be treated, cured or suppressed."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.19",
+   "number": 19,
+   "heading": "The Right to Freedom of Opinion and Expression",
+   "text_en": "Everyone has the right to freedom of opinion and expression, regardless of sexual orientation or gender identity. This includes the expression of identity or personhood through speech, deportment, dress, bodily characteristics, choice of name, or any other means, as well as the freedom to seek, receive and impart information and ideas of all kinds, including with regard to human rights, sexual orientation and gender identity, through any medium and regardless of frontiers. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure full enjoyment of freedom of opinion and expression, while respecting the rights and freedoms of others, without discrimination on the basis of sexual orientation or gender identity, including the receipt and imparting of information and ideas concerning sexual orientation and gender identity, as well as related advocacy for legal rights, publication of materials, broadcasting, organisation of or participation in conferences, and dissemination of and access to safersex information;\nB. Ensure that the outputs and the organisation of media that is State-regulated is pluralistic and non-discriminatory in respect of issues of sexual orientation and gender identity and that the personnel recruitment and promotion policies of such organisations are nondiscriminatory on the basis of sexual orientation or gender identity;\nC. Take all necessary legislative, administrative and other measures to ensure the full enjoyment of the right to express identity or personhood, including through speech, deportment, dress, bodily characteristics, choice of name or any other means;\nD. Ensure that notions of public order, public morality, public health and public security are not employed to restrict, in a discriminatory manner, any exercise of freedom of opinion and expression that affirms diverse sexual orientations or gender identities;\nE. Ensure that the exercise of freedom of opinion and expression does not violate the rights and freedoms of persons of diverse sexual orientations and gender identities;\nF. Ensure that all persons, regardless of sexual orientation or gender identity, enjoy equal access to information and ideas, as well as to participation in public debate.",
+   "paras": [
+    {
+     "id": "YP.19.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure full enjoyment of freedom of opinion and expression, while respecting the rights and freedoms of others, without discrimination on the basis of sexual orientation or gender identity, including the receipt and imparting of information and ideas concerning sexual orientation and gender identity, as well as related advocacy for legal rights, publication of materials, broadcasting, organisation of or participation in conferences, and dissemination of and access to safersex information;"
+    },
+    {
+     "id": "YP.19.B",
+     "n": "B",
+     "text_en": "Ensure that the outputs and the organisation of media that is State-regulated is pluralistic and non-discriminatory in respect of issues of sexual orientation and gender identity and that the personnel recruitment and promotion policies of such organisations are nondiscriminatory on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.19.C",
+     "n": "C",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure the full enjoyment of the right to express identity or personhood, including through speech, deportment, dress, bodily characteristics, choice of name or any other means;"
+    },
+    {
+     "id": "YP.19.D",
+     "n": "D",
+     "text_en": "Ensure that notions of public order, public morality, public health and public security are not employed to restrict, in a discriminatory manner, any exercise of freedom of opinion and expression that affirms diverse sexual orientations or gender identities;"
+    },
+    {
+     "id": "YP.19.E",
+     "n": "E",
+     "text_en": "Ensure that the exercise of freedom of opinion and expression does not violate the rights and freedoms of persons of diverse sexual orientations and gender identities;"
+    },
+    {
+     "id": "YP.19.F",
+     "n": "F",
+     "text_en": "Ensure that all persons, regardless of sexual orientation or gender identity, enjoy equal access to information and ideas, as well as to participation in public debate."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.20",
+   "number": 20,
+   "heading": "The Right to Freedom of Peaceful Assembly and Association",
+   "text_en": "Everyone has the right to freedom of peaceful assembly and association, including for the purposes of peaceful demonstrations, regardless of sexual orientation or gender identity. Persons may form and have recognised, without discrimination, associations based on sexual orientation or gender identity, and associations that distribute information to or about, facilitate communication among, or advocate for the rights of, persons of diverse sexual orientations and gender identities. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure the rights to peacefully organise, associate, assemble and advocate around issues of sexual orientation and gender identity, and to obtain legal recognition for such associations and groups, without discrimination on the basis of sexual orientation or gender identity;\nB. Ensure in particular that notions of public order, public morality, public health and public security are not employed to restrict any exercise of the rights to peaceful assembly and association solely on the basis that it affirms diverse sexual orientations or gender identities;\nC. Under no circumstances impede the exercise of the rights to peaceful assembly and association on grounds relating to sexual orientation or gender identity, and ensure that adequate police and other physical protection against violence or harassment is afforded to persons exercising these rights;\nD. Provide training and awareness-raising programmes to law enforcement authorities and other relevant officials to enable them to provide such protection;\nE. Ensure that information disclosure rules for voluntary associations and groups do not, in practice, have discriminatory effects for such associations and groups addressing issues of sexual orientation or gender identity, or for their members.",
+   "paras": [
+    {
+     "id": "YP.20.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure the rights to peacefully organise, associate, assemble and advocate around issues of sexual orientation and gender identity, and to obtain legal recognition for such associations and groups, without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.20.B",
+     "n": "B",
+     "text_en": "Ensure in particular that notions of public order, public morality, public health and public security are not employed to restrict any exercise of the rights to peaceful assembly and association solely on the basis that it affirms diverse sexual orientations or gender identities;"
+    },
+    {
+     "id": "YP.20.C",
+     "n": "C",
+     "text_en": "Under no circumstances impede the exercise of the rights to peaceful assembly and association on grounds relating to sexual orientation or gender identity, and ensure that adequate police and other physical protection against violence or harassment is afforded to persons exercising these rights;"
+    },
+    {
+     "id": "YP.20.D",
+     "n": "D",
+     "text_en": "Provide training and awareness-raising programmes to law enforcement authorities and other relevant officials to enable them to provide such protection;"
+    },
+    {
+     "id": "YP.20.E",
+     "n": "E",
+     "text_en": "Ensure that information disclosure rules for voluntary associations and groups do not, in practice, have discriminatory effects for such associations and groups addressing issues of sexual orientation or gender identity, or for their members."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.21",
+   "number": 21,
+   "heading": "The Right to Freedom of Thought, Conscience and Religion",
+   "text_en": "Everyone has the right to freedom of thought, conscience and religion, regardless of sexual orientation or gender identity. These rights may not be invoked by the State to justify laws, policies or practices which deny equal protection of the law, or discriminate, on the basis of sexual orientation or gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure the right of persons, regardless of sexual orientation or gender identity, to hold and practise religious and non-religious beliefs, alone or in association with others, to be free from interference with their beliefs and to be free from coercion or the imposition of beliefs;\nB. Ensure that the expression, practice and promotion of different opinions, convictions and beliefs with regard to issues of sexual orientation or gender identity is not undertaken in a manner incompatible with human rights.",
+   "paras": [
+    {
+     "id": "YP.21.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure the right of persons, regardless of sexual orientation or gender identity, to hold and practise religious and non-religious beliefs, alone or in association with others, to be free from interference with their beliefs and to be free from coercion or the imposition of beliefs;"
+    },
+    {
+     "id": "YP.21.B",
+     "n": "B",
+     "text_en": "Ensure that the expression, practice and promotion of different opinions, convictions and beliefs with regard to issues of sexual orientation or gender identity is not undertaken in a manner incompatible with human rights."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.22",
+   "number": 22,
+   "heading": "The Right to Freedom of Movement",
+   "text_en": "Everyone lawfully within a State has the right to freedom of movement and residence within the borders of the State, regardless of sexual orientation or gender identity. Sexual orientation and gender identity may never be invoked to limit or impede a person’s entry, egress or return to or from any State, including that person’s own State. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure that the right to freedom of movement and residence is guaranteed regardless of sexual orientation or gender identity.",
+   "paras": [
+    {
+     "id": "YP.22.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that the right to freedom of movement and residence is guaranteed regardless of sexual orientation or gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.23",
+   "number": 23,
+   "heading": "The Right to Seek Asylum",
+   "text_en": "Everyone has the right to seek and enjoy in other countries asylum from persecution, including persecution related to sexual orientation or gender identity. A State may not remove, expel or extradite a person to any State where that person may face a well-founded fear of torture, persecution, or any other form of cruel, inhuman or degrading treatment or punishment, on the basis of sexual orientation or gender identity. States shall:\n\nA. Review, amend and enact legislation to ensure that a well-founded fear of persecution on the basis of sexual orientation or gender identity is accepted as a ground for the recognition of refugee status and asylum;\nB. Ensure that no policy or practice discriminates against asylum seekers on the basis of sexual orientation or gender identity;\nC. Ensure that no person is removed, expelled or extradited to any State where that person may face a well-founded fear of torture, persecution, or any other form of cruel, inhuman or degrading treatment or punishment, on the basis of that person’s sexual orientation or gender identity.",
+   "paras": [
+    {
+     "id": "YP.23.A",
+     "n": "A",
+     "text_en": "Review, amend and enact legislation to ensure that a well-founded fear of persecution on the basis of sexual orientation or gender identity is accepted as a ground for the recognition of refugee status and asylum;"
+    },
+    {
+     "id": "YP.23.B",
+     "n": "B",
+     "text_en": "Ensure that no policy or practice discriminates against asylum seekers on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.23.C",
+     "n": "C",
+     "text_en": "Ensure that no person is removed, expelled or extradited to any State where that person may face a well-founded fear of torture, persecution, or any other form of cruel, inhuman or degrading treatment or punishment, on the basis of that person’s sexual orientation or gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.24",
+   "number": 24,
+   "heading": "The Right to Found a Family",
+   "text_en": "Everyone has the right to found a family, regardless of sexual orientation or gender identity. Families exist in diverse forms. No family may be subjected to discrimination on the basis of the sexual orientation or gender identity of any of its members. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure the right to found a family, including through access to adoption or assisted procreation (including donor insemination), without discrimination on the basis of sexual orientation or gender identity;\nB. Ensure that laws and policies recognise the diversity of family forms, including those not defined by descent or marriage, and take all necessary legislative, administrative and other measures to ensure that no family may be subjected to discrimination on the basis of the sexual orientation or gender identity of any of its members, including with regard to family-related social welfare and other public benefits, employment, and immigration;\nC. Take all necessary legislative, administrative and other measures to ensure that in all actions or decisions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration, and that the sexual orientation or gender identity of the child or of any family member or other person may not be considered incompatible with such best interests;\nD. In all actions or decisions concerning children, ensure that a child who is capable of forming personal views can exercise the right to express those views freely, and that such views are given due weight in accordance with the age and maturity of the child;\nE. Take all necessary legislative, administrative and other measures to ensure that in States that recognise same-sex marriages or registered partnerships, any entitlement, privilege, obligation or benefit available to different-sex married or registered partners is equally available to same-sex married or registered partners;\nF. Take all necessary legislative, administrative and other measures to ensure that any obligation, entitlement, privilege, obligation or benefit available to different-sex unmarried partners is equally available to same-sex unmarried partners;\nG. Ensure that marriages and other legally-recognised partnerships may be entered into only with the free and full consent of the intending spouses or partners.",
+   "paras": [
+    {
+     "id": "YP.24.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure the right to found a family, including through access to adoption or assisted procreation (including donor insemination), without discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.24.B",
+     "n": "B",
+     "text_en": "Ensure that laws and policies recognise the diversity of family forms, including those not defined by descent or marriage, and take all necessary legislative, administrative and other measures to ensure that no family may be subjected to discrimination on the basis of the sexual orientation or gender identity of any of its members, including with regard to family-related social welfare and other public benefits, employment, and immigration;"
+    },
+    {
+     "id": "YP.24.C",
+     "n": "C",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that in all actions or decisions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration, and that the sexual orientation or gender identity of the child or of any family member or other person may not be considered incompatible with such best interests;"
+    },
+    {
+     "id": "YP.24.D",
+     "n": "D",
+     "text_en": "In all actions or decisions concerning children, ensure that a child who is capable of forming personal views can exercise the right to express those views freely, and that such views are given due weight in accordance with the age and maturity of the child;"
+    },
+    {
+     "id": "YP.24.E",
+     "n": "E",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that in States that recognise same-sex marriages or registered partnerships, any entitlement, privilege, obligation or benefit available to different-sex married or registered partners is equally available to same-sex married or registered partners;"
+    },
+    {
+     "id": "YP.24.F",
+     "n": "F",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure that any obligation, entitlement, privilege, obligation or benefit available to different-sex unmarried partners is equally available to same-sex unmarried partners;"
+    },
+    {
+     "id": "YP.24.G",
+     "n": "G",
+     "text_en": "Ensure that marriages and other legally-recognised partnerships may be entered into only with the free and full consent of the intending spouses or partners."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.25",
+   "number": 25,
+   "heading": "The Right to Participate in Public Life",
+   "text_en": "Every citizen has the right to take part in the conduct of public affairs, including the right to stand for elected office, to participate in the formulation of policies affecting their welfare, and to have equal access to all levels of public service and employment in public functions, including serving in the police and military, without discrimination on the basis of sexual orientation or gender identity. States shall:\n\nA. Review, amend and enact legislation to ensure the full enjoyment of the right to participate in public and political life and affairs, embracing all levels of government service and employment in public functions, including serving in the police and military, without discrimination on the basis of, and with full respect for, each person’s sexual orientation and gender identity;\nB. Take all appropriate measures to eliminate stereotypes and prejudices regarding sexual orientation and gender identity that prevent or restrict participation in public life;\nC. Ensure the right of each person to participate in the formulation of policies affecting their welfare, without discrimination on the basis of, and with full respect for, their sexual orientation and gender identity.",
+   "paras": [
+    {
+     "id": "YP.25.A",
+     "n": "A",
+     "text_en": "Review, amend and enact legislation to ensure the full enjoyment of the right to participate in public and political life and affairs, embracing all levels of government service and employment in public functions, including serving in the police and military, without discrimination on the basis of, and with full respect for, each person’s sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.25.B",
+     "n": "B",
+     "text_en": "Take all appropriate measures to eliminate stereotypes and prejudices regarding sexual orientation and gender identity that prevent or restrict participation in public life;"
+    },
+    {
+     "id": "YP.25.C",
+     "n": "C",
+     "text_en": "Ensure the right of each person to participate in the formulation of policies affecting their welfare, without discrimination on the basis of, and with full respect for, their sexual orientation and gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.26",
+   "number": 26,
+   "heading": "The Right to Participate in Cultural Life",
+   "text_en": "Everyone has the right to participate freely in cultural life, regardless of sexual orientation or gender identity, and to express, through cultural participation, the diversity of sexual orientation and gender identity. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure opportunities for the participation in cultural life of all persons, regardless of, and with full respect for, their sexual orientations and gender identities;\nB. Foster dialogue between, and mutual respect among, proponents of the various cultural groups present within the State, including among groups that hold different views on matters of sexual orientation and gender identity, consistently with respect for the human rights referred to in these Principles.",
+   "paras": [
+    {
+     "id": "YP.26.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure opportunities for the participation in cultural life of all persons, regardless of, and with full respect for, their sexual orientations and gender identities;"
+    },
+    {
+     "id": "YP.26.B",
+     "n": "B",
+     "text_en": "Foster dialogue between, and mutual respect among, proponents of the various cultural groups present within the State, including among groups that hold different views on matters of sexual orientation and gender identity, consistently with respect for the human rights referred to in these Principles."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.27",
+   "number": 27,
+   "heading": "The Right to Promote Human Rights",
+   "text_en": "Everyone has the right, individually and in association with others, to promote the protection and realisation of human rights at the national and international levels, without discrimination on the basis of sexual orientation or gender identity. This includes activities directed towards the promotion and protection of the rights of persons of diverse sexual orientations and gender identities, as well as the right to develop and discuss new human rights norms and to advocate their acceptance. States shall:\n\nA. Take all necessary legislative, administrative and other measures to ensure a favourable environment for activities directed towards the promotion, protection and realisation of human rights, including rights relevant to sexual orientation and gender identity;\nB. Take all appropriate measures to combat actions or campaigns targeting human rights defenders working on issues of sexual orientation and gender identity, as well as those targeting human rights defenders of diverse sexual orientations and gender identities;\nC. Ensure that human rights defenders, regardless of their sexual orientation or gender identity, and regardless of the human rights issues they advocate, enjoy non-discriminatory access to, participation in, and communication with, national and international human rights organisations and bodies;\nD. Ensure the protection of human rights defenders, working on issues of sexual orientation and gender identity, against any violence, threat, retaliation, de facto or de jure discrimination, pressure, or any other arbitrary action perpetrated by the State, or by nonState actors, in response to their human rights activities. The same protection should be ensured, to human rights defenders working on any issue, against any such treatment based on their sexual orientation or gender identity;\nE. Support the recognition and accreditation of organisations that promote and protect the human rights of persons of diverse sexual orientations and gender identities at the national and international levels.",
+   "paras": [
+    {
+     "id": "YP.27.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative and other measures to ensure a favourable environment for activities directed towards the promotion, protection and realisation of human rights, including rights relevant to sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.27.B",
+     "n": "B",
+     "text_en": "Take all appropriate measures to combat actions or campaigns targeting human rights defenders working on issues of sexual orientation and gender identity, as well as those targeting human rights defenders of diverse sexual orientations and gender identities;"
+    },
+    {
+     "id": "YP.27.C",
+     "n": "C",
+     "text_en": "Ensure that human rights defenders, regardless of their sexual orientation or gender identity, and regardless of the human rights issues they advocate, enjoy non-discriminatory access to, participation in, and communication with, national and international human rights organisations and bodies;"
+    },
+    {
+     "id": "YP.27.D",
+     "n": "D",
+     "text_en": "Ensure the protection of human rights defenders, working on issues of sexual orientation and gender identity, against any violence, threat, retaliation, de facto or de jure discrimination, pressure, or any other arbitrary action perpetrated by the State, or by nonState actors, in response to their human rights activities. The same protection should be ensured, to human rights defenders working on any issue, against any such treatment based on their sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.27.E",
+     "n": "E",
+     "text_en": "Support the recognition and accreditation of organisations that promote and protect the human rights of persons of diverse sexual orientations and gender identities at the national and international levels."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.28",
+   "number": 28,
+   "heading": "The Right to Effective Remedies and Redress",
+   "text_en": "Every victim of a human rights violation, including of a violation based on sexual orientation or gender identity, has the right to effective, adequate and appropriate remedies. Measures taken for the purpose of providing reparation to, or securing adequate advancement of, persons of diverse sexual orientations and gender identities are integral to the right to effective remedies and redress. States shall:\n\nA. Establish the necessary legal procedures, including through the revision of legislation and policies, to ensure that victims of human rights violations on the basis of sexual orientation or gender identity have access to full redress through restitution, compensation, rehabilitation, satisfaction, guarantee of non-repetition, and/or any other means as appropriate;\nB. Ensure that remedies are enforced and implemented in a timely manner;\nC. Ensure that effective institutions and standards for the provision of remedies and redress are established, and that all personnel are trained in issues of human rights violations based on sexual orientation and gender identity;\nD. Ensure that all persons have access to all necessary information about the processes for seeking remedies and redress;\nE. Ensure that financial aid is provided to those who are unable to afford the cost of securing redress, and that any other obstacles to securing such redress, financial or otherwise, are removed;\nF. Ensure training and awareness-raising programmes, including measures aimed at teachers and students at all levels of public education, at professional bodies, and at potential violators of human rights, to promote respect for and adherence to international human rights standards in accordance with these Principles, as well as to counter discriminatory attitudes based on sexual orientation or gender identity.",
+   "paras": [
+    {
+     "id": "YP.28.A",
+     "n": "A",
+     "text_en": "Establish the necessary legal procedures, including through the revision of legislation and policies, to ensure that victims of human rights violations on the basis of sexual orientation or gender identity have access to full redress through restitution, compensation, rehabilitation, satisfaction, guarantee of non-repetition, and/or any other means as appropriate;"
+    },
+    {
+     "id": "YP.28.B",
+     "n": "B",
+     "text_en": "Ensure that remedies are enforced and implemented in a timely manner;"
+    },
+    {
+     "id": "YP.28.C",
+     "n": "C",
+     "text_en": "Ensure that effective institutions and standards for the provision of remedies and redress are established, and that all personnel are trained in issues of human rights violations based on sexual orientation and gender identity;"
+    },
+    {
+     "id": "YP.28.D",
+     "n": "D",
+     "text_en": "Ensure that all persons have access to all necessary information about the processes for seeking remedies and redress;"
+    },
+    {
+     "id": "YP.28.E",
+     "n": "E",
+     "text_en": "Ensure that financial aid is provided to those who are unable to afford the cost of securing redress, and that any other obstacles to securing such redress, financial or otherwise, are removed;"
+    },
+    {
+     "id": "YP.28.F",
+     "n": "F",
+     "text_en": "Ensure training and awareness-raising programmes, including measures aimed at teachers and students at all levels of public education, at professional bodies, and at potential violators of human rights, to promote respect for and adherence to international human rights standards in accordance with these Principles, as well as to counter discriminatory attitudes based on sexual orientation or gender identity."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP.29",
+   "number": 29,
+   "heading": "Accountability",
+   "text_en": "Everyone whose human rights, including rights addressed in these Principles, are violated is entitled to have those directly or indirectly responsible for the violation, whether they are government officials or not, held accountable for their actions in a manner that is proportionate to the seriousness of the violation. There should be no impunity for perpetrators of human rights violations related to sexual orientation or gender identity. States shall:\n\nA. Establish appropriate, accessible and effective criminal, civil, administrative and other procedures, as well as monitoring mechanisms, to ensure the accountability of perpetrators for human rights violations related to sexual orientation or gender identity;\nB. Ensure that all allegations of crimes perpetrated on the basis of the actual or perceived sexual orientation or gender identity of the victim, including such crimes described in these Principles, are investigated promptly and thoroughly, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished;\nC. Establish independent and effective institutions and procedures to monitor the formulation and enforcement of laws and policies to ensure the elimination of discrimination on the basis of sexual orientation or gender identity;\nD. Remove any obstacles preventing persons responsible for human rights violations based on sexual orientation or gender identity from being held accountable.",
+   "paras": [
+    {
+     "id": "YP.29.A",
+     "n": "A",
+     "text_en": "Establish appropriate, accessible and effective criminal, civil, administrative and other procedures, as well as monitoring mechanisms, to ensure the accountability of perpetrators for human rights violations related to sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.29.B",
+     "n": "B",
+     "text_en": "Ensure that all allegations of crimes perpetrated on the basis of the actual or perceived sexual orientation or gender identity of the victim, including such crimes described in these Principles, are investigated promptly and thoroughly, and that, where appropriate evidence is found, those responsible are prosecuted, tried and duly punished;"
+    },
+    {
+     "id": "YP.29.C",
+     "n": "C",
+     "text_en": "Establish independent and effective institutions and procedures to monitor the formulation and enforcement of laws and policies to ensure the elimination of discrimination on the basis of sexual orientation or gender identity;"
+    },
+    {
+     "id": "YP.29.D",
+     "n": "D",
+     "text_en": "Remove any obstacles preventing persons responsible for human rights violations based on sexual orientation or gender identity from being held accountable."
+    }
+   ],
+   "instrument": "YP",
+   "text_fa": null,
+   "fa_status": "pending"
+  }
+ ]
+}

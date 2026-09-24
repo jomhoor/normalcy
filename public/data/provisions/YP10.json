@@ -1,0 +1,842 @@
+{
+ "instrument": {
+  "id": "YP10",
+  "tier": 1,
+  "kind": "principles",
+  "adopted": "2017-11-10",
+  "en": "The Yogyakarta Principles plus 10",
+  "fa": "اصول یوگیاکارتا به‌علاوه ۱۰",
+  "version": "2017 publication",
+  "source_url": "https://yogyakartaprinciples.org/wp-content/uploads/2017/11/A5_yogyakartaWEB-2.pdf",
+  "source_sha256": "8d6a3c39fe78e68c978fa1645fed6ec4c50ef2b9c54739ceae5d2369ec61f05a",
+  "fa_status": "pending",
+  "fa_source_url": null,
+  "applies": "all",
+  "n_provisions": 21,
+  "n_citable": 132
+ },
+ "provisions": [
+  {
+   "id": "YP10.30",
+   "number": 30,
+   "heading": "The Right to State Protection",
+   "text_en": "Everyone, regardless of sexual orientation, gender identity, gender expression or sex characteristics, has the right to State protection from violence, discrimination and other harm, whether by government officials or by any individual or group. STATES SHALL:\n\nA. Exercise due diligence to prevent, investigate, prosecute, punish and provide remedies for discrimination, violence and other harm, whether committed by State or non-State actors;\nB. Take appropriate and effective measures to eradicate all forms of violence, discrimination and other harm, including any advocacy of hatred that constitutes incitement to discrimination, hostility, or violence on grounds of sexual orientation, gender identity, gender expression or sex characteristics, whether by public or private actors;\nC. Compile statistics and research on the extent, causes and effects of violence, discrimination and other harm, and on the effectiveness of measures to prevent, prosecute and provide reparation for such harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics;\nD. Identify the nature and extent of attitudes, beliefs, customs and practices that perpetuate violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics, and report on the measures undertaken, and their effectiveness, in eradicating such harm;\nE. Develop, implement and support education and public information programmes to promote human rights and to eliminate prejudices on grounds of sexual orientation, gender identity, gender expression and sex characteristics;\nF. Ensure sensitivity training of judicial and law enforcement officers and other public officials on issues relating to sexual orientation, gender identity, gender expression and sex characteristics;\nG. Ensure that laws against rape, sexual assault and sexual harassment protect all persons regardless of their sexual orientation, gender identity, gender expression and sex characteristics;\nH. Establish support services for victims of rape, sexual assault and harassment, and other forms of violence and harm on grounds of sexual orientation, gender identity, gender expression, and sex characteristics;\nI. Ensure that human rights violations are vigorously investigated and, where evidence is found, those responsible are prosecuted and, if convicted, punished as appropriate;\nJ. Ensure access to effective complaints procedures and remedies, including reparation, for victims of violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.30.A",
+     "n": "A",
+     "text_en": "Exercise due diligence to prevent, investigate, prosecute, punish and provide remedies for discrimination, violence and other harm, whether committed by State or non-State actors;"
+    },
+    {
+     "id": "YP10.30.B",
+     "n": "B",
+     "text_en": "Take appropriate and effective measures to eradicate all forms of violence, discrimination and other harm, including any advocacy of hatred that constitutes incitement to discrimination, hostility, or violence on grounds of sexual orientation, gender identity, gender expression or sex characteristics, whether by public or private actors;"
+    },
+    {
+     "id": "YP10.30.C",
+     "n": "C",
+     "text_en": "Compile statistics and research on the extent, causes and effects of violence, discrimination and other harm, and on the effectiveness of measures to prevent, prosecute and provide reparation for such harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.30.D",
+     "n": "D",
+     "text_en": "Identify the nature and extent of attitudes, beliefs, customs and practices that perpetuate violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics, and report on the measures undertaken, and their effectiveness, in eradicating such harm;"
+    },
+    {
+     "id": "YP10.30.E",
+     "n": "E",
+     "text_en": "Develop, implement and support education and public information programmes to promote human rights and to eliminate prejudices on grounds of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.30.F",
+     "n": "F",
+     "text_en": "Ensure sensitivity training of judicial and law enforcement officers and other public officials on issues relating to sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.30.G",
+     "n": "G",
+     "text_en": "Ensure that laws against rape, sexual assault and sexual harassment protect all persons regardless of their sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.30.H",
+     "n": "H",
+     "text_en": "Establish support services for victims of rape, sexual assault and harassment, and other forms of violence and harm on grounds of sexual orientation, gender identity, gender expression, and sex characteristics;"
+    },
+    {
+     "id": "YP10.30.I",
+     "n": "I",
+     "text_en": "Ensure that human rights violations are vigorously investigated and, where evidence is found, those responsible are prosecuted and, if convicted, punished as appropriate;"
+    },
+    {
+     "id": "YP10.30.J",
+     "n": "J",
+     "text_en": "Ensure access to effective complaints procedures and remedies, including reparation, for victims of violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression and sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.31",
+   "number": 31,
+   "heading": "The Right to Legal Recognition",
+   "text_en": "Everyone has the right to legal recognition without reference to, or requiring assignment or disclosure of, sex, gender, sexual orientation, gender identity, gender expression or sex characteristics. Everyone has the right to obtain identity documents, including birth certificates, regardless of sexual orientation, gender identity, gender expression or sex characteristics. Everyone has the right to change gendered information in such documents while gendered information is included in them. STATES SHALL:\n\nA. Ensure that official identity documents only include personal information that is relevant, reasonable and necessary as required by the law for a legitimate purpose, and thereby end the registration of the sex and gender of the person in identity documents such as birth certificates, identification cards, passports and driver licences, and as part of their legal personality;\nB. Ensure access to a quick, transparent and accessible mechanism to change names, including to gender-neutral names, based on the self-determination of the person;\nC. While sex or gender continues to be registered: i. \u0007Ensure a quick, transparent, and accessible mechanism that legally recognises and affirms each person’s self-defined gender identity; ii. \u0007Make available a multiplicity of gender marker options; iii. \u0007Ensure that no eligibility criteria, such as medical or psychological interventions, a psycho-medical diagnosis, minimum or maximum age, economic status, health, marital or parental status, or any other third party opinion, shall be a prerequisite to change one’s name, legal sex or gender; iv. \u0007Ensure that a person’s criminal record, immigration status or other status is not used to prevent a change of name, legal sex or gender.",
+   "paras": [
+    {
+     "id": "YP10.31.A",
+     "n": "A",
+     "text_en": "Ensure that official identity documents only include personal information that is relevant, reasonable and necessary as required by the law for a legitimate purpose, and thereby end the registration of the sex and gender of the person in identity documents such as birth certificates, identification cards, passports and driver licences, and as part of their legal personality;"
+    },
+    {
+     "id": "YP10.31.B",
+     "n": "B",
+     "text_en": "Ensure access to a quick, transparent and accessible mechanism to change names, including to gender-neutral names, based on the self-determination of the person;"
+    },
+    {
+     "id": "YP10.31.C",
+     "n": "C",
+     "text_en": "While sex or gender continues to be registered: i. \u0007Ensure a quick, transparent, and accessible mechanism that legally recognises and affirms each person’s self-defined gender identity; ii. \u0007Make available a multiplicity of gender marker options; iii. \u0007Ensure that no eligibility criteria, such as medical or psychological interventions, a psycho-medical diagnosis, minimum or maximum age, economic status, health, marital or parental status, or any other third party opinion, shall be a prerequisite to change one’s name, legal sex or gender; iv. \u0007Ensure that a person’s criminal record, immigration status or other status is not used to prevent a change of name, legal sex or gender."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.32",
+   "number": 32,
+   "heading": "The Right to Bodily and Mental Integrity",
+   "text_en": "Everyone has the right to bodily and mental integrity, autonomy and selfdetermination irrespective of sexual orientation, gender identity, gender expression or sex characteristics. Everyone has the right to be free from torture and cruel, inhuman and degrading treatment or punishment on the basis of sexual orientation, gender identity, gender expression and sex characteristics. No one shall be subjected to invasive or irreversible medical procedures that modify sex characteristics without their free, prior and informed consent, unless necessary to avoid serious, urgent and irreparable harm to the concerned person. STATES SHALL:\n\nA. Guarantee and protect the rights of everyone, including all children, to bodily and mental integrity, autonomy and self-determination;\nB. Ensure that legislation protects everyone, including all children, from all forms of forced, coercive or otherwise involuntary modification of their sex characteristics;\nC. Take measures to address stigma, discrimination and stereotypes based on sex and gender, and combat the use of such stereotypes, as well as marriage prospects and other social, religious and cultural rationales, to justify modifications to sex characteristics, including of children;\nD. Bearing in mind the child’s right to life, non-discrimination, the best interests of the child, and respect for the child’s views, ensure that children are fully consulted and informed regarding any modifications to their sex characteristics necessary to avoid or remedy proven, serious physical harm, and ensure that any such modifications are consented to by the child concerned in a manner consistent with the child’s evolving capacity;\nE. Ensure that the concept of the best interest of the child is not manipulated to justify practices that conflict with the child’s right to bodily integrity;\nF. Provide adequate, independent counselling and support to victims of violations, their families and communities, to enable victims to exercise and affirm rights to bodily and mental integrity, autonomy and self-determination;\nG. Prohibit the use of anal and genital examinations in legal and administrative proceedings and criminal prosecutions unless required by law, as relevant, reasonable, and necessary for a legitimate purpose.",
+   "paras": [
+    {
+     "id": "YP10.32.A",
+     "n": "A",
+     "text_en": "Guarantee and protect the rights of everyone, including all children, to bodily and mental integrity, autonomy and self-determination;"
+    },
+    {
+     "id": "YP10.32.B",
+     "n": "B",
+     "text_en": "Ensure that legislation protects everyone, including all children, from all forms of forced, coercive or otherwise involuntary modification of their sex characteristics;"
+    },
+    {
+     "id": "YP10.32.C",
+     "n": "C",
+     "text_en": "Take measures to address stigma, discrimination and stereotypes based on sex and gender, and combat the use of such stereotypes, as well as marriage prospects and other social, religious and cultural rationales, to justify modifications to sex characteristics, including of children;"
+    },
+    {
+     "id": "YP10.32.D",
+     "n": "D",
+     "text_en": "Bearing in mind the child’s right to life, non-discrimination, the best interests of the child, and respect for the child’s views, ensure that children are fully consulted and informed regarding any modifications to their sex characteristics necessary to avoid or remedy proven, serious physical harm, and ensure that any such modifications are consented to by the child concerned in a manner consistent with the child’s evolving capacity;"
+    },
+    {
+     "id": "YP10.32.E",
+     "n": "E",
+     "text_en": "Ensure that the concept of the best interest of the child is not manipulated to justify practices that conflict with the child’s right to bodily integrity;"
+    },
+    {
+     "id": "YP10.32.F",
+     "n": "F",
+     "text_en": "Provide adequate, independent counselling and support to victims of violations, their families and communities, to enable victims to exercise and affirm rights to bodily and mental integrity, autonomy and self-determination;"
+    },
+    {
+     "id": "YP10.32.G",
+     "n": "G",
+     "text_en": "Prohibit the use of anal and genital examinations in legal and administrative proceedings and criminal prosecutions unless required by law, as relevant, reasonable, and necessary for a legitimate purpose."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.33",
+   "number": 33,
+   "heading": "\u0007The Right to Freedom from Criminalisation and Sanction on the Basis of Sexual Orientation, Gender Identity, Gender Expression or Sex Characteristics",
+   "text_en": "Everyone has the right to be free from criminalisation and any form of sanction arising directly or indirectly from that person’s actual or perceived sexual orientation, gender identity, gender expression or sex characteristics. STATES SHALL:\n\nA. Ensure that legal provisions, including in customary, religious and indigenous laws, whether explicit provisions, or the application of general punitive provisions such as acts against nature, morality, public decency, vagrancy, sodomy and propaganda laws, do not criminalise sexual orientation, gender identity and expression, or establish any form of sanction relating to them;\nB. Repeal other forms of criminalisation and sanction impacting on rights and freedoms on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including the criminalisation of sex work, abortion, unintentional transmission of HIV, adultery, nuisance, loitering and begging;\nC. Pending repeal, cease to apply discriminatory laws criminalising or applying general punitive sanctions on the basis of sexual orientation, gender identity, gender expression or sex characteristics;\nD. Expunge any convictions and erase any criminal records for past offences associated with laws arbitrarily criminalising persons on the basis of sexual orientation, gender identity, gender expression and sex characteristics;\nE. Ensure training for the judiciary, law enforcement officers and healthcare providers in relation to their human rights obligations regarding sexual orientation, gender identity, gender expression and sex characteristics;\nF. Ensure that law enforcement officers and other individuals and groups are held accountable for any act of violence, intimidation or abuse based on the criminalisation of sexual orientation, gender identity, gender expression and sex characteristics;\nG. Ensure effective access to legal support systems, justice and remedies for those who are affected by criminalisation and penalisation on grounds of sexual orientation, gender identity, gender expression and sex characteristics;\nH. Decriminalise body modification procedures and treatments that are carried out with prior, free and informed consent of the person.",
+   "paras": [
+    {
+     "id": "YP10.33.A",
+     "n": "A",
+     "text_en": "Ensure that legal provisions, including in customary, religious and indigenous laws, whether explicit provisions, or the application of general punitive provisions such as acts against nature, morality, public decency, vagrancy, sodomy and propaganda laws, do not criminalise sexual orientation, gender identity and expression, or establish any form of sanction relating to them;"
+    },
+    {
+     "id": "YP10.33.B",
+     "n": "B",
+     "text_en": "Repeal other forms of criminalisation and sanction impacting on rights and freedoms on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including the criminalisation of sex work, abortion, unintentional transmission of HIV, adultery, nuisance, loitering and begging;"
+    },
+    {
+     "id": "YP10.33.C",
+     "n": "C",
+     "text_en": "Pending repeal, cease to apply discriminatory laws criminalising or applying general punitive sanctions on the basis of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.33.D",
+     "n": "D",
+     "text_en": "Expunge any convictions and erase any criminal records for past offences associated with laws arbitrarily criminalising persons on the basis of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.33.E",
+     "n": "E",
+     "text_en": "Ensure training for the judiciary, law enforcement officers and healthcare providers in relation to their human rights obligations regarding sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.33.F",
+     "n": "F",
+     "text_en": "Ensure that law enforcement officers and other individuals and groups are held accountable for any act of violence, intimidation or abuse based on the criminalisation of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.33.G",
+     "n": "G",
+     "text_en": "Ensure effective access to legal support systems, justice and remedies for those who are affected by criminalisation and penalisation on grounds of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.33.H",
+     "n": "H",
+     "text_en": "Decriminalise body modification procedures and treatments that are carried out with prior, free and informed consent of the person."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.34",
+   "number": 34,
+   "heading": "The Right to Protection from Poverty",
+   "text_en": "Everyone has the right to protection from all forms of poverty and social exclusion associated with sexual orientation, gender identity, gender expression and sex characteristics. Poverty is incompatible with respect for the equal rights and dignity of all persons, and can be compounded by discrimination on the grounds of sexual orientation, gender identity, gender expression and sex characteristics. STATES SHALL:\n\nA. Take all necessary legislative, administrative, budgetary and other measures, including economic policies, to ensure the progressive reduction and elimination of all forms of poverty associated with or exacerbated by sexual orientation, gender identity, gender expression or sex characteristics;\nB. Promote social and economic inclusion of persons marginalised on the basis of sexual orientation, gender identity, gender expression and sex characteristics;\nC. Ensure the participation and inclusion of those experiencing poverty on grounds of sexual orientation, gender identity, gender expression and sex characteristics in the adoption and implementation of legislative, administrative, budgetary and other measures to combat poverty;\nD. Ensure appropriate institutional arrangements and data collection with the view to reduce poverty and social exclusion related to sexual orientation, gender identity, gender expression and sex characteristics;\nE. Ensure access to effective remedies for violations of human rights, including those caused by non-State actors, that result in poverty and exclusion, and that adversely affect persons on the grounds of sexual orientation, gender identity, gender expression and sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.34.A",
+     "n": "A",
+     "text_en": "Take all necessary legislative, administrative, budgetary and other measures, including economic policies, to ensure the progressive reduction and elimination of all forms of poverty associated with or exacerbated by sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.34.B",
+     "n": "B",
+     "text_en": "Promote social and economic inclusion of persons marginalised on the basis of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.34.C",
+     "n": "C",
+     "text_en": "Ensure the participation and inclusion of those experiencing poverty on grounds of sexual orientation, gender identity, gender expression and sex characteristics in the adoption and implementation of legislative, administrative, budgetary and other measures to combat poverty;"
+    },
+    {
+     "id": "YP10.34.D",
+     "n": "D",
+     "text_en": "Ensure appropriate institutional arrangements and data collection with the view to reduce poverty and social exclusion related to sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.34.E",
+     "n": "E",
+     "text_en": "Ensure access to effective remedies for violations of human rights, including those caused by non-State actors, that result in poverty and exclusion, and that adversely affect persons on the grounds of sexual orientation, gender identity, gender expression and sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.35",
+   "number": 35,
+   "heading": "The Right to Sanitation",
+   "text_en": "Everyone has the right to equitable, adequate, safe and secure sanitation and hygiene, in circumstances that are consistent with human dignity, without discrimination, including on the basis of sexual orientation, gender identity, gender expression or sex characteristics. STATES SHALL:\n\nA. Ensure that there are adequate public sanitation facilities which can be accessed safely and with dignity by all persons regardless of their sexual orientation, gender identity, gender expression or sex characteristics;\nB. Ensure that all schools and other institutional settings provide safe access to sanitation facilities to staff, students and visitors without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nC. Ensure that both public and private employers provide safe access to sanitation without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nD. Ensure that entities offering services to the public provide adequate sanitation without discrimination, including on grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nE. Ensure that places of detention have adequate sanitation facilities which can be accessed safely and with dignity by all detainees, staff and visitors without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.35.A",
+     "n": "A",
+     "text_en": "Ensure that there are adequate public sanitation facilities which can be accessed safely and with dignity by all persons regardless of their sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.35.B",
+     "n": "B",
+     "text_en": "Ensure that all schools and other institutional settings provide safe access to sanitation facilities to staff, students and visitors without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.35.C",
+     "n": "C",
+     "text_en": "Ensure that both public and private employers provide safe access to sanitation without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.35.D",
+     "n": "D",
+     "text_en": "Ensure that entities offering services to the public provide adequate sanitation without discrimination, including on grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.35.E",
+     "n": "E",
+     "text_en": "Ensure that places of detention have adequate sanitation facilities which can be accessed safely and with dignity by all detainees, staff and visitors without discrimination on grounds of sexual orientation, gender identity, gender expression or sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.36",
+   "number": 36,
+   "heading": "\u0007The Right to the Enjoyment of Human Rights in Relation to Information and Communication Technologies",
+   "text_en": "Everyone is entitled to the same protection of rights online as they are offline. Everyone has the right to access and use information and communication technologies, including the internet, without violence, discrimination or other harm based on sexual orientation, gender identity, gender expression or sex characteristics. Secure digital communications, including the use of encryption, anonymity and pseudonymity tools are essential for the full realisation of human rights, in particular the rights to life, bodily and mental integrity, health, privacy, due process, freedom of opinion and expression, peaceful assembly and association. STATES SHALL:\n\nA. Take all necessary measures to ensure that all persons enjoy universal, affordable, open, safe, secure and equal access to information and communication technologies, including the internet, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics;\nB. Ensure the right of all individuals, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics, to seek, receive and impart information and ideas of all kinds, including those concerning sexual orientation, gender identity, gender expression and sex characteristics, through information and communication technologies;\nC. Ensure that any restrictions to the right to access and use information and communication technologies and the internet are provided for by law and are necessary and proportionate to protect the human dignity, equality and freedoms of others, without discrimination on the basis of sexual orientation, gender identity, gender expression or sex characteristics;\nD. Respect and protect the privacy and security of digital communications, including the use by individuals of encryption, pseudonyms and anonymity technology;\nE. Ensure that any restrictions on the right to privacy, including through mass or targeted surveillance, requests for access to personal data, or through limitations on the use of encryption, pseudonymity and anonymity tools, are on a case specific basis, and are reasonable, necessary and proportionate as required by the law for a legitimate purpose and ordered by a court;\nF. Take measures to ensure that the processing of personal data for individual profiling is consistent with relevant human rights standards including personal data protection and does not lead to discrimination, including on the grounds of sexual orientation, gender identity, gender expression and sex characteristics;\nG. Take all necessary legislative, administrative, technical and other measures, including ensuring private sector accountability, as outlined by relevant international standards, in consultation with relevant stakeholders, to seek to prevent, remedy and eliminate online hate speech, harassment and technology-related violence against persons on the basis of sexual orientation, gender identity, gender expression or sex characteristics under the framework of international human rights law.",
+   "paras": [
+    {
+     "id": "YP10.36.A",
+     "n": "A",
+     "text_en": "Take all necessary measures to ensure that all persons enjoy universal, affordable, open, safe, secure and equal access to information and communication technologies, including the internet, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.36.B",
+     "n": "B",
+     "text_en": "Ensure the right of all individuals, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics, to seek, receive and impart information and ideas of all kinds, including those concerning sexual orientation, gender identity, gender expression and sex characteristics, through information and communication technologies;"
+    },
+    {
+     "id": "YP10.36.C",
+     "n": "C",
+     "text_en": "Ensure that any restrictions to the right to access and use information and communication technologies and the internet are provided for by law and are necessary and proportionate to protect the human dignity, equality and freedoms of others, without discrimination on the basis of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.36.D",
+     "n": "D",
+     "text_en": "Respect and protect the privacy and security of digital communications, including the use by individuals of encryption, pseudonyms and anonymity technology;"
+    },
+    {
+     "id": "YP10.36.E",
+     "n": "E",
+     "text_en": "Ensure that any restrictions on the right to privacy, including through mass or targeted surveillance, requests for access to personal data, or through limitations on the use of encryption, pseudonymity and anonymity tools, are on a case specific basis, and are reasonable, necessary and proportionate as required by the law for a legitimate purpose and ordered by a court;"
+    },
+    {
+     "id": "YP10.36.F",
+     "n": "F",
+     "text_en": "Take measures to ensure that the processing of personal data for individual profiling is consistent with relevant human rights standards including personal data protection and does not lead to discrimination, including on the grounds of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.36.G",
+     "n": "G",
+     "text_en": "Take all necessary legislative, administrative, technical and other measures, including ensuring private sector accountability, as outlined by relevant international standards, in consultation with relevant stakeholders, to seek to prevent, remedy and eliminate online hate speech, harassment and technology-related violence against persons on the basis of sexual orientation, gender identity, gender expression or sex characteristics under the framework of international human rights law."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.37",
+   "number": 37,
+   "heading": "The Right to Truth",
+   "text_en": "Every victim of a human rights violation on the basis of sexual orientation, gender identity, gender expression or sex characteristics has the right to know the truth about the facts, circumstances and reasons why the violation occurred. The right to truth includes effective, independent and impartial investigation to establish the facts, and includes all forms of reparation recognised by international law. The right to truth is not subject to statute of limitations and its application must bear in mind its dual nature as an individual right and the right of the society at large to know the truth about past events. STATES SHALL:\n\nA. Adopt legal provisions to provide redress to victims of violations on the basis of sexual orientation, gender identity, gender expression and sex characteristics, including public apology, expungement of relevant criminal convictions and records, rehabilitation and recovery services, adequate compensation and guarantees of non-recurrence;\nB. Ensure, in cases of violations of the right to mental and bodily integrity, effective access to remedies, redress, reparation and, where appropriate, psychological support and restorative treatments;\nC. Protect individuals’ right to know the truth about their medical histories, including through full access to accurate medical records;\nD. Adopt and fully implement procedures to establish the truth concerning violations based on sexual orientation, gender identity, gender expression and sex characteristics;\nE. Establish a truth-seeking mechanism and process in regard to human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics;\nF. Ensure that, in addition to individual victims and their families, communities and society at large can realise the right to the truth about systemic human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics, while respecting and protecting the right to privacy of individuals;\nG. Preserve documentary evidence of human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics, and ensure adequate access to archives with information on violations based on sexual orientation, gender identity, gender expression and sex characteristics;\nH. Ensure that the facts and truth of the history, causes, nature and consequences of discrimination and violence on grounds of sexual orientation, gender identity, gender expression and sex characteristics are disseminated and added to educational curricula with a view to achieving a comprehensive and objective awareness of past treatment of persons on grounds of sexual orientation, gender identity, gender expression and sex characteristics;\nI. \u0007Commemorate the suffering of victims of violations on the basis of sexual orientation, gender identity, gender expression and sex characteristics through public events, museums and other social and cultural activities.",
+   "paras": [
+    {
+     "id": "YP10.37.A",
+     "n": "A",
+     "text_en": "Adopt legal provisions to provide redress to victims of violations on the basis of sexual orientation, gender identity, gender expression and sex characteristics, including public apology, expungement of relevant criminal convictions and records, rehabilitation and recovery services, adequate compensation and guarantees of non-recurrence;"
+    },
+    {
+     "id": "YP10.37.B",
+     "n": "B",
+     "text_en": "Ensure, in cases of violations of the right to mental and bodily integrity, effective access to remedies, redress, reparation and, where appropriate, psychological support and restorative treatments;"
+    },
+    {
+     "id": "YP10.37.C",
+     "n": "C",
+     "text_en": "Protect individuals’ right to know the truth about their medical histories, including through full access to accurate medical records;"
+    },
+    {
+     "id": "YP10.37.D",
+     "n": "D",
+     "text_en": "Adopt and fully implement procedures to establish the truth concerning violations based on sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.37.E",
+     "n": "E",
+     "text_en": "Establish a truth-seeking mechanism and process in regard to human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.37.F",
+     "n": "F",
+     "text_en": "Ensure that, in addition to individual victims and their families, communities and society at large can realise the right to the truth about systemic human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics, while respecting and protecting the right to privacy of individuals;"
+    },
+    {
+     "id": "YP10.37.G",
+     "n": "G",
+     "text_en": "Preserve documentary evidence of human rights violations based on sexual orientation, gender identity, gender expression and sex characteristics, and ensure adequate access to archives with information on violations based on sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.37.H",
+     "n": "H",
+     "text_en": "Ensure that the facts and truth of the history, causes, nature and consequences of discrimination and violence on grounds of sexual orientation, gender identity, gender expression and sex characteristics are disseminated and added to educational curricula with a view to achieving a comprehensive and objective awareness of past treatment of persons on grounds of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.37.I",
+     "n": "I",
+     "text_en": "\u0007Commemorate the suffering of victims of violations on the basis of sexual orientation, gender identity, gender expression and sex characteristics through public events, museums and other social and cultural activities."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.38",
+   "number": 38,
+   "heading": "\u0007The Right to Practise, Protect, Preserve and Revive Cultural Diversity",
+   "text_en": "Everyone, individually or in association with others, where consistent with the provisions of international human rights law, has the right to practise, protect, preserve and revive cultures, traditions, languages, rituals and festivals, and protect cultural sites of significance, associated with sexual orientation, gender identity, gender expression and sex characteristics. Everyone, individually or in association with others, has the right to manifest cultural diversity through artistic creation, production, dissemination, distribution and enjoyment, whatever the means and technologies used, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics. Everyone, individually or in association with others, has the right to seek, receive, provide and utilise resources for these purposes without discrimination on the basis of sexual orientation, gender identity, gender expression or sex characteristics. STATES SHALL:\n\nA. Ensure the right to practice, protect, preserve and revive the diversity of cultural expressions of persons of all sexual orientations, gender identities, gender expressions and sex characteristics on the basis of the equal dignity of and respect for all.",
+   "paras": [
+    {
+     "id": "YP10.38.A",
+     "n": "A",
+     "text_en": "Ensure the right to practice, protect, preserve and revive the diversity of cultural expressions of persons of all sexual orientations, gender identities, gender expressions and sex characteristics on the basis of the equal dignity of and respect for all."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.2",
+   "number": "ASO.2",
+   "heading": "Additional State Obligations relating to the rights to equality and non-discrimination (Principle 2)",
+   "extends": [
+    "YP.2"
+   ],
+   "text_en": "STATES SHALL:\n\nG. Take all appropriate steps to ensure that reasonable accommodation is provided, where needed, in order to promote equality and eliminate discrimination on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including in education, employment, and access to services;\nH. Ensure that HIV status is not used as a pretext to isolate, marginalise or exclude persons of diverse sexual orientations, gender identities, gender expressions or sex characteristics, or prevent them from accessing goods, commodities and services;\nI. Ensure that all individuals can participate in sport in line with the gender with which they identify, subject only to reasonable, proportionate and non-arbitrary requirements;\nJ. Ensure that all individuals can participate in sport without discrimination on the grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nK. Adopt legislative, policy and other measures in line with international human rights norms and standards to eliminate bullying and discriminatory behaviour at all levels of sports, on the basis of sexual orientation, gender identity, gender expression and sex characteristics;\nL. Combat the practice of prenatal selection on the basis of sex characteristics, including by addressing the root causes of discrimination against persons on the basis of sex, gender, sexual orientation, gender identity, gender expression and sex characteristics, and by carrying out awareness-raising activities on the detrimental impact of prenatal selection on these grounds;\nM. Take measures to address discriminatory attitudes and practices on the basis of sex, gender, sexual orientation, gender identity, gender expression and sex characteristics in relation to the application of prenatal treatments and genetic modification technologies.",
+   "paras": [
+    {
+     "id": "YP10.ASO.2.G",
+     "n": "G",
+     "text_en": "Take all appropriate steps to ensure that reasonable accommodation is provided, where needed, in order to promote equality and eliminate discrimination on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including in education, employment, and access to services;"
+    },
+    {
+     "id": "YP10.ASO.2.H",
+     "n": "H",
+     "text_en": "Ensure that HIV status is not used as a pretext to isolate, marginalise or exclude persons of diverse sexual orientations, gender identities, gender expressions or sex characteristics, or prevent them from accessing goods, commodities and services;"
+    },
+    {
+     "id": "YP10.ASO.2.I",
+     "n": "I",
+     "text_en": "Ensure that all individuals can participate in sport in line with the gender with which they identify, subject only to reasonable, proportionate and non-arbitrary requirements;"
+    },
+    {
+     "id": "YP10.ASO.2.J",
+     "n": "J",
+     "text_en": "Ensure that all individuals can participate in sport without discrimination on the grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.2.K",
+     "n": "K",
+     "text_en": "Adopt legislative, policy and other measures in line with international human rights norms and standards to eliminate bullying and discriminatory behaviour at all levels of sports, on the basis of sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.2.L",
+     "n": "L",
+     "text_en": "Combat the practice of prenatal selection on the basis of sex characteristics, including by addressing the root causes of discrimination against persons on the basis of sex, gender, sexual orientation, gender identity, gender expression and sex characteristics, and by carrying out awareness-raising activities on the detrimental impact of prenatal selection on these grounds;"
+    },
+    {
+     "id": "YP10.ASO.2.M",
+     "n": "M",
+     "text_en": "Take measures to address discriminatory attitudes and practices on the basis of sex, gender, sexual orientation, gender identity, gender expression and sex characteristics in relation to the application of prenatal treatments and genetic modification technologies."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.6",
+   "number": "ASO.6",
+   "heading": "Additional State Obligations relating to the right to privacy (Principle 6)",
+   "extends": [
+    "YP.6"
+   ],
+   "text_en": "STATES SHALL:\n\nG. Ensure that requirements for individuals to provide information on their sex or gender are relevant, reasonable and necessary as required by the law for a legitimate purpose in the circumstances where it is sought, and that such requirements respect all persons’ right to self-determination of gender;\nH. Ensure that changes of the name or gender marker, as long as the latter exists, is not disclosed without the prior, free, and informed consent of the person concerned, unless ordered by a court.",
+   "paras": [
+    {
+     "id": "YP10.ASO.6.G",
+     "n": "G",
+     "text_en": "Ensure that requirements for individuals to provide information on their sex or gender are relevant, reasonable and necessary as required by the law for a legitimate purpose in the circumstances where it is sought, and that such requirements respect all persons’ right to self-determination of gender;"
+    },
+    {
+     "id": "YP10.ASO.6.H",
+     "n": "H",
+     "text_en": "Ensure that changes of the name or gender marker, as long as the latter exists, is not disclosed without the prior, free, and informed consent of the person concerned, unless ordered by a court."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.9",
+   "number": "ASO.9",
+   "heading": "Additional State Obligations relating to the right to treatment with humanity while in detention (Principle 9)",
+   "extends": [
+    "YP.9"
+   ],
+   "text_en": "STATES SHALL:\n\nH. Adopt and implement policies to combat violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression or sex characteristics faced by persons who are deprived of their liberty, including with respect to such issues as placement, body or other searches, items to express gender, access to and continuation of gender affirming treatment and medical care, and “protective” solitary confinement;\nI. Adopt and implement policies on placement and treatment of persons who are deprived of their liberty that reflect the needs and rights of persons of all sexual orientations, gender identities, gender expressions, and sex characteristics and ensure that persons are able to participate in decisions regarding the facilities in which they are placed;\nJ. Provide for effective oversight of detention facilities, both with regard to public and private custodial care, with a view to ensuring the safety and security of all persons, and addressing the specific vulnerabilities associated with sexual orientation, gender identity, gender expression and sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.ASO.9.H",
+     "n": "H",
+     "text_en": "Adopt and implement policies to combat violence, discrimination and other harm on grounds of sexual orientation, gender identity, gender expression or sex characteristics faced by persons who are deprived of their liberty, including with respect to such issues as placement, body or other searches, items to express gender, access to and continuation of gender affirming treatment and medical care, and “protective” solitary confinement;"
+    },
+    {
+     "id": "YP10.ASO.9.I",
+     "n": "I",
+     "text_en": "Adopt and implement policies on placement and treatment of persons who are deprived of their liberty that reflect the needs and rights of persons of all sexual orientations, gender identities, gender expressions, and sex characteristics and ensure that persons are able to participate in decisions regarding the facilities in which they are placed;"
+    },
+    {
+     "id": "YP10.ASO.9.J",
+     "n": "J",
+     "text_en": "Provide for effective oversight of detention facilities, both with regard to public and private custodial care, with a view to ensuring the safety and security of all persons, and addressing the specific vulnerabilities associated with sexual orientation, gender identity, gender expression and sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.10",
+   "number": "ASO.10",
+   "heading": "Additional State Obligations relating to the right to freedom from torture and cruel, inhuman or degrading treatment or punishment (Principle 10)",
+   "extends": [
+    "YP.10"
+   ],
+   "text_en": "STATES SHALL:\n\nD. Recognise that forced, coercive and otherwise involuntary modification of a person’s sex characteristics may amount to torture, or other cruel, inhuman or degrading treatment;\nE. Prohibit any practice, and repeal any laws and policies, allowing intrusive and irreversible treatments on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including forced genital-normalising surgery, involuntary sterilisation, unethical experimentation, medical display, “reparative” or “conversion” therapies, when enforced or administered without the free, prior, and informed consent of the person concerned.",
+   "paras": [
+    {
+     "id": "YP10.ASO.10.D",
+     "n": "D",
+     "text_en": "Recognise that forced, coercive and otherwise involuntary modification of a person’s sex characteristics may amount to torture, or other cruel, inhuman or degrading treatment;"
+    },
+    {
+     "id": "YP10.ASO.10.E",
+     "n": "E",
+     "text_en": "Prohibit any practice, and repeal any laws and policies, allowing intrusive and irreversible treatments on the basis of sexual orientation, gender identity, gender expression or sex characteristics, including forced genital-normalising surgery, involuntary sterilisation, unethical experimentation, medical display, “reparative” or “conversion” therapies, when enforced or administered without the free, prior, and informed consent of the person concerned."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.16",
+   "number": "ASO.16",
+   "heading": "Additional State Obligations relating to the right to education (Principle 16)",
+   "extends": [
+    "YP.16"
+   ],
+   "text_en": "STATES SHALL:\n\nI. Ensure inclusion of comprehensive, affirmative and accurate material on sexual, biological, physical and psychological diversity, and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics, in curricula, taking into consideration the evolving capacity of the child;\nJ. Ensure inclusion of comprehensive, affirmative and accurate material on sexual, biological, physical and psychological diversity, and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics, in teacher training and continuing professional development programmes.",
+   "paras": [
+    {
+     "id": "YP10.ASO.16.I",
+     "n": "I",
+     "text_en": "Ensure inclusion of comprehensive, affirmative and accurate material on sexual, biological, physical and psychological diversity, and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics, in curricula, taking into consideration the evolving capacity of the child;"
+    },
+    {
+     "id": "YP10.ASO.16.J",
+     "n": "J",
+     "text_en": "Ensure inclusion of comprehensive, affirmative and accurate material on sexual, biological, physical and psychological diversity, and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics, in teacher training and continuing professional development programmes."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.17",
+   "number": "ASO.17",
+   "heading": "Additional State Obligations relating to the right to the highest attainable standard of health (Principle 17)",
+   "extends": [
+    "YP.17"
+   ],
+   "text_en": "STATES SHALL:\n\nJ. Protect all persons from discrimination, violence and other harm on the basis of sexual orientation, gender identity, gender expression and sex characteristics in healthcare settings;\nK. Ensure access to the highest attainable standard of gender affirming healthcare, on the basis of an individual’s free, prior and informed consent;\nL. Ensure that gender affirming healthcare is provided by the public health system or, if not so provided, that the costs are covered or reimbursable under private and public health insurance schemes;\nM. Take all necessary measures to eliminate all forms of sexual and reproductive violence on the basis of sexual orientation, gender identity, gender expression and sex characteristics, including forced marriage, rape and forced pregnancy;\nN. Ensure access, without discrimination on the grounds of sexual orientation, gender identity, gender expression, or sex characteristics, to pre and post-exposure prophylaxis (PrEP and PEP);\nO. Ensure access to a range of safe, affordable and effective contraceptives, including emergency contraception, and to information and education on family planning and sexual and reproductive health, without discrimination based on sexual orientation, gender identity, gender expression and sex characteristics;\nP. Take all necessary legislative and other measures to ensure access to quality post abortion care, and remove any barriers that may hinder timely access to affordable and quality abortion services, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics;\nQ. Prevent the disclosure of HIV status, as well as personal health and medical information related to sexual orientation, gender identity, gender expression and sex characteristics, such as gender affirming treatment, without the free, prior and informed consent of the person;\nR. Ensure that legal provisions, regulations or any other administrative measures on the donation of blood, gametes, embryos, organs, cells or other tissues do not discriminate on grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nS. Ensure inclusion of affirmative material on sexual, biological, physical and psychological diversity and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics in medical curricula and continuing professional development programmes.",
+   "paras": [
+    {
+     "id": "YP10.ASO.17.J",
+     "n": "J",
+     "text_en": "Protect all persons from discrimination, violence and other harm on the basis of sexual orientation, gender identity, gender expression and sex characteristics in healthcare settings;"
+    },
+    {
+     "id": "YP10.ASO.17.K",
+     "n": "K",
+     "text_en": "Ensure access to the highest attainable standard of gender affirming healthcare, on the basis of an individual’s free, prior and informed consent;"
+    },
+    {
+     "id": "YP10.ASO.17.L",
+     "n": "L",
+     "text_en": "Ensure that gender affirming healthcare is provided by the public health system or, if not so provided, that the costs are covered or reimbursable under private and public health insurance schemes;"
+    },
+    {
+     "id": "YP10.ASO.17.M",
+     "n": "M",
+     "text_en": "Take all necessary measures to eliminate all forms of sexual and reproductive violence on the basis of sexual orientation, gender identity, gender expression and sex characteristics, including forced marriage, rape and forced pregnancy;"
+    },
+    {
+     "id": "YP10.ASO.17.N",
+     "n": "N",
+     "text_en": "Ensure access, without discrimination on the grounds of sexual orientation, gender identity, gender expression, or sex characteristics, to pre and post-exposure prophylaxis (PrEP and PEP);"
+    },
+    {
+     "id": "YP10.ASO.17.O",
+     "n": "O",
+     "text_en": "Ensure access to a range of safe, affordable and effective contraceptives, including emergency contraception, and to information and education on family planning and sexual and reproductive health, without discrimination based on sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.17.P",
+     "n": "P",
+     "text_en": "Take all necessary legislative and other measures to ensure access to quality post abortion care, and remove any barriers that may hinder timely access to affordable and quality abortion services, without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.17.Q",
+     "n": "Q",
+     "text_en": "Prevent the disclosure of HIV status, as well as personal health and medical information related to sexual orientation, gender identity, gender expression and sex characteristics, such as gender affirming treatment, without the free, prior and informed consent of the person;"
+    },
+    {
+     "id": "YP10.ASO.17.R",
+     "n": "R",
+     "text_en": "Ensure that legal provisions, regulations or any other administrative measures on the donation of blood, gametes, embryos, organs, cells or other tissues do not discriminate on grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.17.S",
+     "n": "S",
+     "text_en": "Ensure inclusion of affirmative material on sexual, biological, physical and psychological diversity and the human rights of people of diverse sexual orientations, gender identities, gender expressions and sex characteristics in medical curricula and continuing professional development programmes."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.19",
+   "number": "ASO.19",
+   "heading": "Additional State Obligations relating to the right to information (Principle 19)",
+   "extends": [
+    "YP.19"
+   ],
+   "text_en": "STATES SHALL:\n\nG. Take legislative, administrative, and other appropriate measures to ensure that all persons have access to information about their civil, political, economic, social and cultural rights, including how these rights apply in relation to sexual orientation, gender identity, gender expression and sex characteristics;\nH. Make freely available and accessible, both online and otherwise, international and regional treaties and instruments; the national constitution, national laws and regulations; research studies, reports, data, archives; reports and information submitted by the State to international and regional bodies and mechanisms; and all other information as may be necessary to secure or enable the exercise of any human rights or fundamental freedoms or access to remedy for a violation of any such right;\nI. Recognise that the needs, characteristics and human rights situations of populations of diverse sexual orientations, gender identities, gender expressions and sex characteristics are distinct from each other, and ensure that data on each population is collected and managed in a manner consistent with ethical, scientific and human rights standards and made available in a disaggregated form.",
+   "paras": [
+    {
+     "id": "YP10.ASO.19.G",
+     "n": "G",
+     "text_en": "Take legislative, administrative, and other appropriate measures to ensure that all persons have access to information about their civil, political, economic, social and cultural rights, including how these rights apply in relation to sexual orientation, gender identity, gender expression and sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.19.H",
+     "n": "H",
+     "text_en": "Make freely available and accessible, both online and otherwise, international and regional treaties and instruments; the national constitution, national laws and regulations; research studies, reports, data, archives; reports and information submitted by the State to international and regional bodies and mechanisms; and all other information as may be necessary to secure or enable the exercise of any human rights or fundamental freedoms or access to remedy for a violation of any such right;"
+    },
+    {
+     "id": "YP10.ASO.19.I",
+     "n": "I",
+     "text_en": "Recognise that the needs, characteristics and human rights situations of populations of diverse sexual orientations, gender identities, gender expressions and sex characteristics are distinct from each other, and ensure that data on each population is collected and managed in a manner consistent with ethical, scientific and human rights standards and made available in a disaggregated form."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.20",
+   "number": "ASO.20",
+   "heading": "Additional State Obligations relating to the right to the freedom of peaceful assembly and association (Principle 20)",
+   "extends": [
+    "YP.20"
+   ],
+   "text_en": "STATES SHALL:\n\nF. Respect, protect and facilitate the formation of associations for the purpose of promoting the rights of all persons, including on the basis of sexual orientation, gender identity, gender expression or sex characteristics;\nG. Ensure that associations which seek to promote human rights related to sexual orientation, gender identity, gender expression or sex characteristics can seek, receive and use funding and other resources from individuals, associations, foundations or other civil society organisations, governments, aid agencies, the private sector, the United Nations and other entities, domestic or foreign;\nH. Ensure that requirements and procedures to register associations, where they exist, are not burdensome or impose unjustifiable limitations, including on grounds of morality and public order;\nI. Ensure that the right to freedom of association applies equally to associations that are not registered, including associations working on issues related to sexual orientation, gender identity, gender expression or sex characteristics;\nJ. Take positive measures, including affirmative action measures, to overcome specific challenges to the enjoyment of the freedom of association of groups that are marginalised and made vulnerable on grounds of sexual orientation, gender identity, gender expression or sex characteristics;\nK. Take positive measures to protect the right to association of service providers working with those discriminated against on grounds of sexual orientation, gender identity, gender expression or sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.ASO.20.F",
+     "n": "F",
+     "text_en": "Respect, protect and facilitate the formation of associations for the purpose of promoting the rights of all persons, including on the basis of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.20.G",
+     "n": "G",
+     "text_en": "Ensure that associations which seek to promote human rights related to sexual orientation, gender identity, gender expression or sex characteristics can seek, receive and use funding and other resources from individuals, associations, foundations or other civil society organisations, governments, aid agencies, the private sector, the United Nations and other entities, domestic or foreign;"
+    },
+    {
+     "id": "YP10.ASO.20.H",
+     "n": "H",
+     "text_en": "Ensure that requirements and procedures to register associations, where they exist, are not burdensome or impose unjustifiable limitations, including on grounds of morality and public order;"
+    },
+    {
+     "id": "YP10.ASO.20.I",
+     "n": "I",
+     "text_en": "Ensure that the right to freedom of association applies equally to associations that are not registered, including associations working on issues related to sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.20.J",
+     "n": "J",
+     "text_en": "Take positive measures, including affirmative action measures, to overcome specific challenges to the enjoyment of the freedom of association of groups that are marginalised and made vulnerable on grounds of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.20.K",
+     "n": "K",
+     "text_en": "Take positive measures to protect the right to association of service providers working with those discriminated against on grounds of sexual orientation, gender identity, gender expression or sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.23",
+   "number": "ASO.23",
+   "heading": "Additional State Obligations relating to the right to seek asylum (Principle 23)",
+   "extends": [
+    "YP.23"
+   ],
+   "text_en": "STATES SHALL:\n\nD. Ensure that a well-founded fear of persecution on the basis of sexual orientation, gender identity, gender expression or sex characteristics is accepted as a ground for the recognition of refugee status, including where sexual orientation, gender identity, gender expression or sex characteristics are criminalised and such laws, directly or indirectly, create or contribute to an oppressive environment of intolerance and a climate of discrimination and violence;\nE. Ensure that persons seeking asylum are protected from violence, discrimination and other harm committed on grounds of sexual orientation, gender identity, gender expression or sex characteristics, including during the determination of their claims and in reception conditions;\nF. Ensure that no person is denied asylum on the basis that a person may conceal or change their sexual orientation, gender identity, gender expression or sex characteristics in order to avoid persecution;\nG. Accept the self-identification of a person seeking asylum on the basis of sexual orientation, gender identity, gender expression or sexual characteristics as the starting point for consideration of their asylum claim;\nH. Ensure that persons seeking asylum are not refused asylum because they did not set out their sexual orientation, gender identity, gender expression or sexual characteristics as a ground for persecution on the first occasion they were given to do so;\nI. Ensure sensitive and culturally appropriate guidelines and training on sexual orientation, gender identity, gender expression and sexual characteristics for agents involved in the process of determination of refugee status and in managing reception conditions;\nJ. Ensure respect for the dignity and privacy of persons seeking asylum at all times, including by recording information about a person’s sexual orientation, gender identity, gender expression and sex characteristics only where it is lawful, reasonable, necessary and proportionate to do so, by storing it securely and by prohibiting its release to any person other than a person directly involved in the refugee determination process;\nK. Develop and implement guidelines on assessing credibility in relation to establishing a person’s sexual orientation, gender identity, gender expression and sex characteristics when seeking asylum, and ensure such assessments are determined in an objective and sensitive manner, unhindered by stereotyping and cultural bias;\nL. Ensure that inappropriate, invasive, unnecessary or coercive medical or psychological testing or evidence is not utilised to assess a person’s self-declared sexual orientation, gender identity, gender expression or sex characteristics when seeking asylum;\nM. Provide access to medical care and counselling appropriate to those seeking asylum, recognising any particular needs of persons on the basis of their sexual orientation, gender identity, gender expression or sex characteristics, including with regard to reproductive health, HIV information and therapy, hormonal or other therapy, and gender affirming treatment;\nN. Ensure that the detention of asylum seekers is avoided, and is only used as a measure of last resort and for the shortest possible time;\nO. Ensure that placement in detention, where used, avoids further marginalising persons on the basis of sexual orientation, gender identity, gender expression or sex characteristics or subjecting them to violence, discrimination or other harm;\nP. Ensure that solitary confinement is not used to manage or to protect persons at risk of discrimination, violence or other harm on the basis of sexual orientation, gender identity, gender expression or sex characteristics, and release or refer asylum seekers to alternatives to detention, if effective protection cannot be provided.",
+   "paras": [
+    {
+     "id": "YP10.ASO.23.D",
+     "n": "D",
+     "text_en": "Ensure that a well-founded fear of persecution on the basis of sexual orientation, gender identity, gender expression or sex characteristics is accepted as a ground for the recognition of refugee status, including where sexual orientation, gender identity, gender expression or sex characteristics are criminalised and such laws, directly or indirectly, create or contribute to an oppressive environment of intolerance and a climate of discrimination and violence;"
+    },
+    {
+     "id": "YP10.ASO.23.E",
+     "n": "E",
+     "text_en": "Ensure that persons seeking asylum are protected from violence, discrimination and other harm committed on grounds of sexual orientation, gender identity, gender expression or sex characteristics, including during the determination of their claims and in reception conditions;"
+    },
+    {
+     "id": "YP10.ASO.23.F",
+     "n": "F",
+     "text_en": "Ensure that no person is denied asylum on the basis that a person may conceal or change their sexual orientation, gender identity, gender expression or sex characteristics in order to avoid persecution;"
+    },
+    {
+     "id": "YP10.ASO.23.G",
+     "n": "G",
+     "text_en": "Accept the self-identification of a person seeking asylum on the basis of sexual orientation, gender identity, gender expression or sexual characteristics as the starting point for consideration of their asylum claim;"
+    },
+    {
+     "id": "YP10.ASO.23.H",
+     "n": "H",
+     "text_en": "Ensure that persons seeking asylum are not refused asylum because they did not set out their sexual orientation, gender identity, gender expression or sexual characteristics as a ground for persecution on the first occasion they were given to do so;"
+    },
+    {
+     "id": "YP10.ASO.23.I",
+     "n": "I",
+     "text_en": "Ensure sensitive and culturally appropriate guidelines and training on sexual orientation, gender identity, gender expression and sexual characteristics for agents involved in the process of determination of refugee status and in managing reception conditions;"
+    },
+    {
+     "id": "YP10.ASO.23.J",
+     "n": "J",
+     "text_en": "Ensure respect for the dignity and privacy of persons seeking asylum at all times, including by recording information about a person’s sexual orientation, gender identity, gender expression and sex characteristics only where it is lawful, reasonable, necessary and proportionate to do so, by storing it securely and by prohibiting its release to any person other than a person directly involved in the refugee determination process;"
+    },
+    {
+     "id": "YP10.ASO.23.K",
+     "n": "K",
+     "text_en": "Develop and implement guidelines on assessing credibility in relation to establishing a person’s sexual orientation, gender identity, gender expression and sex characteristics when seeking asylum, and ensure such assessments are determined in an objective and sensitive manner, unhindered by stereotyping and cultural bias;"
+    },
+    {
+     "id": "YP10.ASO.23.L",
+     "n": "L",
+     "text_en": "Ensure that inappropriate, invasive, unnecessary or coercive medical or psychological testing or evidence is not utilised to assess a person’s self-declared sexual orientation, gender identity, gender expression or sex characteristics when seeking asylum;"
+    },
+    {
+     "id": "YP10.ASO.23.M",
+     "n": "M",
+     "text_en": "Provide access to medical care and counselling appropriate to those seeking asylum, recognising any particular needs of persons on the basis of their sexual orientation, gender identity, gender expression or sex characteristics, including with regard to reproductive health, HIV information and therapy, hormonal or other therapy, and gender affirming treatment;"
+    },
+    {
+     "id": "YP10.ASO.23.N",
+     "n": "N",
+     "text_en": "Ensure that the detention of asylum seekers is avoided, and is only used as a measure of last resort and for the shortest possible time;"
+    },
+    {
+     "id": "YP10.ASO.23.O",
+     "n": "O",
+     "text_en": "Ensure that placement in detention, where used, avoids further marginalising persons on the basis of sexual orientation, gender identity, gender expression or sex characteristics or subjecting them to violence, discrimination or other harm;"
+    },
+    {
+     "id": "YP10.ASO.23.P",
+     "n": "P",
+     "text_en": "Ensure that solitary confinement is not used to manage or to protect persons at risk of discrimination, violence or other harm on the basis of sexual orientation, gender identity, gender expression or sex characteristics, and release or refer asylum seekers to alternatives to detention, if effective protection cannot be provided."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.24",
+   "number": "ASO.24",
+   "heading": "Additional State Obligations relating to the right to found a family (Principle 24)",
+   "extends": [
+    "YP.24"
+   ],
+   "text_en": "STATES SHALL:\n\nH. Protect children from discrimination, violence or other harm due to the sexual orientation, gender identity, gender expression or sex characteristics of their parents, guardians, or other family members;\nI. Issue birth certificates for children upon birth that reflect the self-defined gender identity of the parents;\nJ. Enable access to methods to preserve fertility, such as the preservation of gametes and tissues for any person without discrimination on grounds of sexual orientation, gender identity, gender expression, or sex characteristics, including before hormonal treatment or surgeries;\nK. Ensure that surrogacy, where legal, is provided without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.ASO.24.H",
+     "n": "H",
+     "text_en": "Protect children from discrimination, violence or other harm due to the sexual orientation, gender identity, gender expression or sex characteristics of their parents, guardians, or other family members;"
+    },
+    {
+     "id": "YP10.ASO.24.I",
+     "n": "I",
+     "text_en": "Issue birth certificates for children upon birth that reflect the self-defined gender identity of the parents;"
+    },
+    {
+     "id": "YP10.ASO.24.J",
+     "n": "J",
+     "text_en": "Enable access to methods to preserve fertility, such as the preservation of gametes and tissues for any person without discrimination on grounds of sexual orientation, gender identity, gender expression, or sex characteristics, including before hormonal treatment or surgeries;"
+    },
+    {
+     "id": "YP10.ASO.24.K",
+     "n": "K",
+     "text_en": "Ensure that surrogacy, where legal, is provided without discrimination based on sexual orientation, gender identity, gender expression or sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.25",
+   "number": "ASO.25",
+   "heading": "Additional State Obligations relating to the right to participate in public life (Principle 25)",
+   "extends": [
+    "YP.25"
+   ],
+   "text_en": "STATES SHALL:\n\nD. Take measures to ensure that sexual orientation, gender identity, gender expression and sex characteristics are not used as grounds to prevent a person from exercising their right to vote;\nE. Develop and implement affirmative action programmes to promote public and political participation for persons marginalised on the basis of sexual orientation, gender identity, gender expression or sex characteristics.",
+   "paras": [
+    {
+     "id": "YP10.ASO.25.D",
+     "n": "D",
+     "text_en": "Take measures to ensure that sexual orientation, gender identity, gender expression and sex characteristics are not used as grounds to prevent a person from exercising their right to vote;"
+    },
+    {
+     "id": "YP10.ASO.25.E",
+     "n": "E",
+     "text_en": "Develop and implement affirmative action programmes to promote public and political participation for persons marginalised on the basis of sexual orientation, gender identity, gender expression or sex characteristics."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "YP10.ASO.27",
+   "number": "ASO.27",
+   "heading": "Additional State Obligations relating to the right to promote human rights (Principle 27)",
+   "extends": [
+    "YP.27"
+   ],
+   "text_en": "STATES SHALL:\n\nF. Enact a law, including to establish, designate or maintain an adequately resourced mechanism, for the protection of defenders of the rights of persons who experience or are at risk of violations on the basis of sexual orientation, gender identity, gender expression or sex characteristics;\nG. Ensure the participation of individuals and organisations working on human rights issues related to sexual orientation, gender identity, gender expression or sex characteristics in public and political decision-making processes that affect them.",
+   "paras": [
+    {
+     "id": "YP10.ASO.27.F",
+     "n": "F",
+     "text_en": "Enact a law, including to establish, designate or maintain an adequately resourced mechanism, for the protection of defenders of the rights of persons who experience or are at risk of violations on the basis of sexual orientation, gender identity, gender expression or sex characteristics;"
+    },
+    {
+     "id": "YP10.ASO.27.G",
+     "n": "G",
+     "text_en": "Ensure the participation of individuals and organisations working on human rights issues related to sexual orientation, gender identity, gender expression or sex characteristics in public and political decision-making processes that affect them."
+    }
+   ],
+   "instrument": "YP10",
+   "text_fa": null,
+   "fa_status": "pending"
+  }
+ ]
+}

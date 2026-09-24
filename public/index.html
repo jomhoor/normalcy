@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>normalcy — سنجه‌ی حقوق بشر</title>
+  <meta name="description" content="متن کامل اسناد بین‌المللی حقوق بشر، بند به بند و با شناسه‌ی پایدار؛ و سنجش متن‌ها با آن‌ها. International human-rights law, provision by provision, as the benchmark for texts." />
+  <meta name="theme-color" content="#F4F6F7" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preload" href="fonts/Shabnam.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="nav" id="nav">
+    <div class="wrap">
+      <a class="brand" href="#/">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B9DF5"/><stop offset="1" stop-color="#0EBB90"/></linearGradient></defs>
+          <circle cx="12" cy="12" r="10" fill="none" stroke="url(#g)" stroke-width="2"/>
+          <path d="M6 12.5h12M12 6.5v11" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="12" cy="12.5" r="2.2" fill="url(#g)"/>
+        </svg>
+        <span>normalcy <small data-i18n="tagline"></small></span>
+      </a>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+      <nav class="links" id="links">
+        <a href="#/" data-route="home" data-i18n="nav_home"></a>
+        <a href="#/library" data-route="library" data-i18n="nav_library"></a>
+        <a href="#/check" data-route="check" data-i18n="nav_check"></a>
+        <a href="#/audits" data-route="audits" data-i18n="nav_audits"></a>
+        <button class="lang" id="langBtn" type="button"></button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="wrap"><p class="loading">…</p></main>
+
+  <footer>
+    <div class="wrap">
+      <div>
+        <div class="brand-line">normalcy</div>
+        <p data-i18n="footer_sources"></p>
+        <p class="small" id="footVersion"></p>
+      </div>
+      <div class="flinks">
+        <a href="https://github.com/jomhoor/normalcy" rel="noopener">GitHub</a>
+        <a href="https://github.com/Atlasiran/constitutions" rel="noopener" data-i18n="foot_corpus"></a>
+        <a href="https://atlasiran.org" rel="noopener" data-i18n="foot_atlas"></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

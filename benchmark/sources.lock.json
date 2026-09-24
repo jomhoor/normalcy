@@ -1,0 +1,62 @@
+{
+ "UDHR": {
+  "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+  "sha256": "c8db3522f3453bd177ae093aa8649307ec3ca3f3ef5ad6cd67f107702a5f2ccd"
+ },
+ "ICCPR": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/ccpr.pdf",
+  "sha256": "c63fbe7781e8ecd7cdaf50344199995841037911f3cef8a0964c4b4c8909a6a2"
+ },
+ "ICESCR": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/cescr.pdf",
+  "sha256": "0abe16ff21a9562309d493e1d171fef031996cf65d91891099b3715606f3ce7c"
+ },
+ "GENOCIDE": {
+  "url": "https://treaties.un.org/doc/Treaties/1951/01/19510112%2008-12%20PM/Ch_IV_1p.pdf",
+  "sha256": "4467f63f13d5298ed48ada540f7d7edfaeee437dccc9c8d770bd709857ee7605"
+ },
+ "CAT": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/cat.pdf",
+  "sha256": "436e14d030d022bf798bfbe671eccda329bd4940098afeab516c166fb2f7476c"
+ },
+ "ICERD": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/cerd.pdf",
+  "sha256": "8b45a64077d80af66754eec10d4d56cfe654bc6f1b6435dde46000c8398573c5"
+ },
+ "CRC": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/crc.pdf",
+  "sha256": "10b90d8fd7cefcdd749e0a5943cc6127c48618b29c4f5cf6d293569f26c4e9fa"
+ },
+ "CEDAW": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/cedaw.pdf",
+  "sha256": "35ca8dd24ab0c7f6b59ecf74e03ab30dc1f69ddb0235374ed840965970b6c163"
+ },
+ "CRPD": {
+  "url": "https://www.un.org/disabilities/documents/convention/convoptprot-e.pdf",
+  "sha256": "d1620f3472d16444f7498652f024ff63863110b211b3e717d6b137178781b6b1"
+ },
+ "CED": {
+  "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/disappearance-convention.pdf",
+  "sha256": "05fdb6de58039c79494f3652f82dcda74e5c3e6e6107aa7054f18179d92750c3"
+ },
+ "ROME": {
+  "url": "https://legal.un.org/icc/statute/english/rome_statute(e).pdf",
+  "sha256": "2a91567555fa352803ad20b525a9dee8bc515ae6cb14b93302a1a57aeed374ea"
+ },
+ "YP": {
+  "url": "https://yogyakartaprinciples.org/wp-content/uploads/2016/08/principles_en.pdf",
+  "sha256": "8dba449e1f53ef69b476891d141901132916cbbcc9230efec3def939b8fda2c8"
+ },
+ "YP10": {
+  "url": "https://yogyakartaprinciples.org/wp-content/uploads/2017/11/A5_yogyakartaWEB-2.pdf",
+  "sha256": "8d6a3c39fe78e68c978fa1645fed6ec4c50ef2b9c54739ceae5d2369ec61f05a"
+ },
+ "VC-PARTIES": {
+  "url": "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2020)032-e",
+  "sha256": "21433fe61e8460f0d73b1dae57e9c94e608f6fa2f57e96ca14acb20ae3900c9d"
+ },
+ "VC-ASSOC": {
+  "url": "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2014)046-e",
+  "sha256": "dcc5199870c8ad34f0efc51ee45485298635b0de15fcabba472a8bacd3dc1365"
+ }
+}

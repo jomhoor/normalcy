@@ -1,0 +1,196 @@
+{
+ "instrument": {
+  "id": "VC-ASSOC",
+  "tier": 2,
+  "kind": "guidelines",
+  "adopted": "2014-12",
+  "en": "OSCE/ODIHR–Venice Commission Joint Guidelines on Freedom of Association",
+  "fa": "رهنمودهای مشترک ODIHR و کمیسیون ونیز درباره آزادی انجمن‌ها",
+  "version": "CDL-AD(2014)046 — Section B, Principles 1–11",
+  "source_url": "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2014)046-e",
+  "source_sha256": "dcc5199870c8ad34f0efc51ee45485298635b0de15fcabba472a8bacd3dc1365",
+  "fa_status": "pending",
+  "fa_source_url": null,
+  "applies": "associations",
+  "n_provisions": 11,
+  "n_citable": 22
+ },
+ "provisions": [
+  {
+   "id": "VC-ASSOC.1",
+   "number": 1,
+   "heading": "Presumption in favour of the lawful formation, objectives and activities of associations",
+   "text_en": "26. There shall be a presumption in favour of the lawfulness of the establishment of associations and of their objectives and activities, regardless of any formalities applicable for establishment.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.1.26",
+     "n": 26,
+     "text_en": "There shall be a presumption in favour of the lawfulness of the establishment of associations and of their objectives and activities, regardless of any formalities applicable for establishment."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.2",
+   "number": 2,
+   "heading": "The state’s duty to respect, protect and facilitate the exercise of the right to freedom of association",
+   "text_en": "27. The state shall not interfere with the rights and freedoms of associations and of persons exercising their right to freedom of association. It shall protect them from interference by non-state actors. The state shall also facilitate the exercise of freedom of association by creating an enabling environment in which associations can operate. This may include simplifying regulatory requirements, ensuring that those requirements are not unduly burdensome, facilitating access to resources and taking positive measures to overcome specific challenges confronting disadvantaged or vulnerable persons or groups.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.2.27",
+     "n": 27,
+     "text_en": "The state shall not interfere with the rights and freedoms of associations and of persons exercising their right to freedom of association. It shall protect them from interference by non-state actors. The state shall also facilitate the exercise of freedom of association by creating an enabling environment in which associations can operate. This may include simplifying regulatory requirements, ensuring that those requirements are not unduly burdensome, facilitating access to resources and taking positive measures to overcome specific challenges confronting disadvantaged or vulnerable persons or groups."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.3",
+   "number": 3,
+   "heading": "Freedom of establishment and membership",
+   "text_en": "28. All persons, natural and legal, national and non-national and groups of such persons, shall be free to establish an association, with or without legal personality. Everyone shall be free to decide whether or not to join or remain a member of an association. No one shall be compelled to belong to an association or be sanctioned for belonging or not belonging to an association. Associations shall be free to determine their rules for membership, subject only to the principle of non-discrimination.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.3.28",
+     "n": 28,
+     "text_en": "All persons, natural and legal, national and non-national and groups of such persons, shall be free to establish an association, with or without legal personality. Everyone shall be free to decide whether or not to join or remain a member of an association. No one shall be compelled to belong to an association or be sanctioned for belonging or not belonging to an association. Associations shall be free to determine their rules for membership, subject only to the principle of non-discrimination."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.4",
+   "number": 4,
+   "heading": "Freedom to determine objectives and activities, including the scope of operations",
+   "text_en": "29. Founders and members of associations shall be free in the determination of the objectives and activities of their associations, within the limits provided for by laws that comply with international standards. In pursuing their objectives and in conducting their activities, associations shall be free from interference with their internal management, organization and affairs. Associations have the freedom to determine the scope of their operations, meaning that they can determine whether or not they wish to operate locally, regionally, nationally or internationally. Associations shall also be free to be members of other associations, federations and confederations, whether national or international.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.4.29",
+     "n": 29,
+     "text_en": "Founders and members of associations shall be free in the determination of the objectives and activities of their associations, within the limits provided for by laws that comply with international standards. In pursuing their objectives and in conducting their activities, associations shall be free from interference with their internal management, organization and affairs. Associations have the freedom to determine the scope of their operations, meaning that they can determine whether or not they wish to operate locally, regionally, nationally or internationally. Associations shall also be free to be members of other associations, federations and confederations, whether national or international."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.5",
+   "number": 5,
+   "heading": "Equal treatment and non-discrimination",
+   "text_en": "30. Legislation and policy concerning associations shall be uniformly applied and must not discriminate against any person or group of persons on any grounds, such as age, birth, colour, gender, gender identity, health condition, immigration or residency status, language, national, ethnic or social origin, physical or mental disability, political or other opinion, property, race, religion or belief, sexual orientation or other status. No person or group of persons wishing to form an association shall be unduly advantaged or disadvantaged over another person or group of persons. Membership or non-membership in an association shall not constitute grounds for the discriminatory treatment of persons.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.5.30",
+     "n": 30,
+     "text_en": "Legislation and policy concerning associations shall be uniformly applied and must not discriminate against any person or group of persons on any grounds, such as age, birth, colour, gender, gender identity, health condition, immigration or residency status, language, national, ethnic or social origin, physical or mental disability, political or other opinion, property, race, religion or belief, sexual orientation or other status. No person or group of persons wishing to form an association shall be unduly advantaged or disadvantaged over another person or group of persons. Membership or non-membership in an association shall not constitute grounds for the discriminatory treatment of persons."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.6",
+   "number": 6,
+   "heading": "Freedom of expression and opinion",
+   "text_en": "31. Associations shall have the right to freedom of expression and opinion through their objectives and activities. This is in addition to the individual right of the members of associations to freedom of expression and opinion. Associations shall have the right to participate in matters of political and public debate, regardless of whether the position taken is in accord with government policy or advocates a change in the law.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.6.31",
+     "n": 31,
+     "text_en": "Associations shall have the right to freedom of expression and opinion through their objectives and activities. This is in addition to the individual right of the members of associations to freedom of expression and opinion. Associations shall have the right to participate in matters of political and public debate, regardless of whether the position taken is in accord with government policy or advocates a change in the law."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.7",
+   "number": 7,
+   "heading": "Freedom to seek, receive and use resources",
+   "text_en": "32. Associations shall have the freedom to seek, receive and use financial, material and human resources, whether domestic, foreign or international, for the pursuit of their activities. In particular, states shall not restrict or block the access of associations to resources on the grounds of the nationality or the country of origin of their source, nor stigmatize those who receive such resources. This freedom shall be subject only to the requirements in laws that are generally applicable to customs, foreign exchange, the prevention of money laundering and terrorism, as well as those concerning transparency and the funding of elections and political parties, to the extent that these requirements are themselves consistent with international human rights standards.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.7.32",
+     "n": 32,
+     "text_en": "Associations shall have the freedom to seek, receive and use financial, material and human resources, whether domestic, foreign or international, for the pursuit of their activities. In particular, states shall not restrict or block the access of associations to resources on the grounds of the nationality or the country of origin of their source, nor stigmatize those who receive such resources. This freedom shall be subject only to the requirements in laws that are generally applicable to customs, foreign exchange, the prevention of money laundering and terrorism, as well as those concerning transparency and the funding of elections and political parties, to the extent that these requirements are themselves consistent with international human rights standards."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.8",
+   "number": 8,
+   "heading": "Good administration of legislation, policies and practices concerning associations",
+   "text_en": "33. The implementation of legislation, policies and practices relevant to associations shall be undertaken by regulatory authorities, including administrative bodies, that act in an impartial and timely manner and that are free from political and other influence. Regulatory authorities shall also ensure that the public has relevant information as to their procedures and functioning, which shall be easy to understand and comply with. The scope of the powers of regulatory authorities shall be clearly defined in law, and all staff employed by them shall be appropriately qualified and properly supervised. The decisions and acts of regulatory authorities shall be open to independent review. The staff of regulatory authorities shall perform their tasks diligently, and any failings shall be rectified and abuses sanctioned. Associations shall be consulted in a meaningful way about the introduction and implementation of any legislation, policies and practices that concern their operations. Legislation, policies and practices shall be kept under review in order to facilitate the exercise of freedom of association in the ever changing environment in which associations operate.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.8.33",
+     "n": 33,
+     "text_en": "The implementation of legislation, policies and practices relevant to associations shall be undertaken by regulatory authorities, including administrative bodies, that act in an impartial and timely manner and that are free from political and other influence. Regulatory authorities shall also ensure that the public has relevant information as to their procedures and functioning, which shall be easy to understand and comply with. The scope of the powers of regulatory authorities shall be clearly defined in law, and all staff employed by them shall be appropriately qualified and properly supervised. The decisions and acts of regulatory authorities shall be open to independent review. The staff of regulatory authorities shall perform their tasks diligently, and any failings shall be rectified and abuses sanctioned. Associations shall be consulted in a meaningful way about the introduction and implementation of any legislation, policies and practices that concern their operations. Legislation, policies and practices shall be kept under review in order to facilitate the exercise of freedom of association in the ever changing environment in which associations operate."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.9",
+   "number": 9,
+   "heading": "Legality and legitimacy of restrictions",
+   "text_en": "34. Any restriction on the right to freedom of association and on the rights of associations, including sanctions, shall be in strict compliance with international standards. In particular, any restriction shall be prescribed by law and must have a legitimate aim. Furthermore, the law concerned must be precise, certain and foreseeable, in particular in the case of provisions that grant discretion to state authorities. It shall also be adopted through a democratic process that ensures public participation and review, and shall be made widely accessible. The only legitimate aims recognized by international standards for restrictions are national security or public safety, public order (ordre public), the protection of public health or morals and the protection of the rights and freedoms of others. The scope of these legitimate aims shall be narrowly interpreted.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.9.34",
+     "n": 34,
+     "text_en": "Any restriction on the right to freedom of association and on the rights of associations, including sanctions, shall be in strict compliance with international standards. In particular, any restriction shall be prescribed by law and must have a legitimate aim. Furthermore, the law concerned must be precise, certain and foreseeable, in particular in the case of provisions that grant discretion to state authorities. It shall also be adopted through a democratic process that ensures public participation and review, and shall be made widely accessible. The only legitimate aims recognized by international standards for restrictions are national security or public safety, public order (ordre public), the protection of public health or morals and the protection of the rights and freedoms of others. The scope of these legitimate aims shall be narrowly interpreted."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.10",
+   "number": 10,
+   "heading": "Proportionality of restrictions",
+   "text_en": "35. Any restriction on the right to freedom of association and on the rights of associations, including sanctions, must be necessary in a democratic society and, thus, proportional to their legitimate aim. The principle of necessity in a democratic society requires that there be a fair balance between the interests of persons exercising the right to freedom of association, associations themselves and the interests of society as a whole. The need for restrictions shall be carefully weighed, therefore, and shall be based on compelling evidence. The least intrusive option shall always be chosen. A restriction shall always be narrowly construed and applied and shall never completely extinguish the right nor encroach on its essence. In particular, any prohibition or dissolution of an association shall always be a measure of last resort, such as when an association has engaged in conduct that creates an imminent threat of violence or other grave violation of the law, and shall never be used to address minor infractions. All restrictions must be based on the particular circumstances of the case, and no blanket restrictions shall be applied.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.10.35",
+     "n": 35,
+     "text_en": "Any restriction on the right to freedom of association and on the rights of associations, including sanctions, must be necessary in a democratic society and, thus, proportional to their legitimate aim. The principle of necessity in a democratic society requires that there be a fair balance between the interests of persons exercising the right to freedom of association, associations themselves and the interests of society as a whole. The need for restrictions shall be carefully weighed, therefore, and shall be based on compelling evidence. The least intrusive option shall always be chosen. A restriction shall always be narrowly construed and applied and shall never completely extinguish the right nor encroach on its essence. In particular, any prohibition or dissolution of an association shall always be a measure of last resort, such as when an association has engaged in conduct that creates an imminent threat of violence or other grave violation of the law, and shall never be used to address minor infractions. All restrictions must be based on the particular circumstances of the case, and no blanket restrictions shall be applied."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  },
+  {
+   "id": "VC-ASSOC.11",
+   "number": 11,
+   "heading": "Right to an effective remedy for the violation of rights",
+   "text_en": "36. Associations, their founders and members and all persons seeking to exercise their right to freedom of association shall have access to effective remedies in order to challenge or seek review of decisions affecting the exercise of their rights. This means providing associations and all relevant persons with the right to bring suit or to appeal against and obtain judicial review of any actions or inactions of the authorities that affect their rights, including those actions concerning the establishment of associations and their compliance with charter or other legal requirements. To ensure effective remedy, it is imperative for the judicial procedures, including appeal and review, to be in accordance with fair trial standards. Furthermore, the procedures shall be clear and affordable. Remedies shall be timely and shall include adequate reparation, including compensation for moral and pecuniary loss.",
+   "paras": [
+    {
+     "id": "VC-ASSOC.11.36",
+     "n": 36,
+     "text_en": "Associations, their founders and members and all persons seeking to exercise their right to freedom of association shall have access to effective remedies in order to challenge or seek review of decisions affecting the exercise of their rights. This means providing associations and all relevant persons with the right to bring suit or to appeal against and obtain judicial review of any actions or inactions of the authorities that affect their rights, including those actions concerning the establishment of associations and their compliance with charter or other legal requirements. To ensure effective remedy, it is imperative for the judicial procedures, including appeal and review, to be in accordance with fair trial standards. Furthermore, the procedures shall be clear and affordable. Remedies shall be timely and shall include adequate reparation, including compensation for moral and pecuniary loss."
+    }
+   ],
+   "instrument": "VC-ASSOC",
+   "text_fa": null,
+   "fa_status": "pending"
+  }
+ ]
+}

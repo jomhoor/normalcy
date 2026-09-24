@@ -1,5 +1,6 @@
 TODO.md
 .dev.vars
-wrangler.toml
 node_modules/
 .wrangler/
+benchmark/.cache/
+benchmark/.venv/
