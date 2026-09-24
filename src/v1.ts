@@ -189,7 +189,9 @@ async function collect(job: Job, env: Env): Promise<void> {
     const hash = entry.custom_id;
     const r = entry.result;
     if (r.type !== "succeeded") {
-      outcome.set(hash, { error: r.type === "errored" ? `errored: ${r.error.error.type}` : r.type });
+      outcome.set(hash, {
+        error: r.type === "errored" ? `errored: ${r.error.error.type}: ${r.error.error.message}` : r.type,
+      });
       continue;
     }
     const msg = r.message;

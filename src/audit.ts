@@ -63,6 +63,8 @@ export interface AuditResult {
 export const RUBRICS = generated.rubrics as unknown as Record<string, Rubric>;
 const BENCHMARK_IDS = new Set<string>(benchmark.ids);
 const VERDICTS: Verdict[] = ["guaranteed", "restricted_clawback", "contradicted", "silent"];
+// Bump when the output schema or the request shape changes: it is part of the cache key.
+const FORMAT = "findings-list-1";
 
 export const MAX_SEGMENTS = 2000;
 export const MAX_DOC_CHARS = 600_000;
@@ -95,40 +97,38 @@ async function sha256(text: string): Promise<string> {
 // The document id and title are left out, so identical text is audited once.
 export function auditHash(rubric: Rubric, doc: AuditDocument): Promise<string> {
   const content = doc.segments.map((s) => [s.id, s.label ?? "", s.text.normalize("NFC")]);
-  return sha256(JSON.stringify([rubric.version, benchmark.version, MODEL, content]));
+  return sha256(JSON.stringify([rubric.version, FORMAT, benchmark.version, MODEL, content]));
 }
 
-function schema(rubric: Rubric) {
-  const ids = rubric.rights.map((r) => r.id);
+// A flat list, one finding per checklist item. (An object with one required
+// property per right is rejected by the API as "Schema is too complex".)
+// Coverage and right IDs are checked in validate().
+function schema() {
   return {
     type: "object",
     properties: {
-      rights: {
-        type: "object",
-        properties: Object.fromEntries(ids.map((id) => [id, { $ref: "#/$defs/finding" }])),
-        required: ids,
-        additionalProperties: false,
+      findings: {
+        type: "array",
+        items: {
+          type: "object",
+          properties: {
+            right: { type: "string" },
+            verdict: { type: "string", enum: VERDICTS },
+            segments: { type: "array", items: { type: "string" } },
+            provisions: { type: "array", items: { type: "string" } },
+            quote: { type: "string" },
+            note_en: { type: "string" },
+            note_fa: { type: "string" },
+          },
+          required: ["right", "verdict", "segments", "provisions", "quote", "note_en", "note_fa"],
+          additionalProperties: false,
+        },
       },
       summary_en: { type: "string" },
       summary_fa: { type: "string" },
     },
-    required: ["rights", "summary_en", "summary_fa"],
+    required: ["findings", "summary_en", "summary_fa"],
     additionalProperties: false,
-    $defs: {
-      finding: {
-        type: "object",
-        properties: {
-          verdict: { type: "string", enum: VERDICTS },
-          segments: { type: "array", items: { type: "string" } },
-          provisions: { type: "array", items: { type: "string" } },
-          quote: { type: "string" },
-          note_en: { type: "string" },
-          note_fa: { type: "string" },
-        },
-        required: ["verdict", "segments", "provisions", "quote", "note_en", "note_fa"],
-        additionalProperties: false,
-      },
-    },
   };
 }
 
@@ -148,7 +148,7 @@ export function buildParams(rubric: Rubric, doc: AuditDocument): Anthropic.Messa
     model: MODEL,
     max_tokens: 64000,
     thinking: { type: "adaptive" },
-    output_config: { format: { type: "json_schema", schema: schema(rubric) } },
+    output_config: { format: { type: "json_schema", schema: schema() } },
     // Instructions + checklist + benchmark texts are identical for every document
     // audited with this guide: a stable prefix, cached for the length of a batch.
     system: [
@@ -158,7 +158,7 @@ export function buildParams(rubric: Rubric, doc: AuditDocument): Anthropic.Messa
     messages: [
       {
         role: "user",
-        content: `${title}Audit this document against every item in the checklist.\n\n<document>\n${body}\n</document>`,
+        content: `${title}Audit this document against every item in the checklist: one finding per item, with its checklist ID in "right".\n\n<document>\n${body}\n</document>`,
       },
     ],
   };
@@ -180,16 +180,23 @@ function fold(s: string): string {
 export function validate(
   rubric: Rubric,
   doc: AuditDocument,
-  raw: { rights: Record<string, Omit<RightFinding, "check" | "problems">>; summary_en: string; summary_fa: string }
+  raw: {
+    findings: (Omit<RightFinding, "check" | "problems"> & { right: string })[];
+    summary_en: string;
+    summary_fa: string;
+  }
 ): Pick<AuditResult, "rights" | "summary_en" | "summary_fa" | "rejected" | "warnings"> {
   const segments = new Map(doc.segments.map((s) => [s.id, s.text]));
+  // First finding per right; duplicates and IDs outside the checklist are dropped
+  const byRight = new Map<string, Omit<RightFinding, "check" | "problems">>();
+  for (const { right, ...f } of raw.findings) if (!byRight.has(right)) byRight.set(right, f);
   let folded: string | null = null;
   const rights: Record<string, RightFinding> = {};
   let rejected = 0;
   let warnings = 0;
 
   for (const right of rubric.rights) {
-    const f = raw.rights[right.id];
+    const f = byRight.get(right.id);
     const problems: string[] = [];
     let check: RightFinding["check"] = "ok";
     if (!f) {
