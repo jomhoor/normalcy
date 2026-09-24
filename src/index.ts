@@ -271,7 +271,15 @@ export default {
         });
       }
 
-      const result = await checkCompliance(post, env.ANTHROPIC_API_KEY);
+      let result;
+      try {
+        result = await checkCompliance(post, env.ANTHROPIC_API_KEY);
+      } catch (err) {
+        return new Response(JSON.stringify({ error: (err as Error).message }), {
+          status: 502,
+          headers: { "Content-Type": "application/json" },
+        });
+      }
       return new Response(JSON.stringify(result, null, 2), {
         status: 200,
         headers: { "Content-Type": "application/json" },

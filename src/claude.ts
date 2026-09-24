@@ -25,11 +25,19 @@ The post may be written in Persian, Arabic, English, or a mix. Evaluate the full
 
 Your response language must match the language of the post being evaluated. If the post is in Persian, respond in Persian. If in Arabic, respond in Arabic. If in English, respond in English. If mixed, use the dominant language.
 
-Respond ONLY with a valid JSON object in this exact format, no extra text:
-{
-  "verdict": "compliant" or "non_compliant",
-  "reason": "Detailed breakdown in the same language as the post. If non-compliant, reference specific convention names and articles. If compliant, briefly confirm what was checked and why it passes."
-}`;
+In "reason", give a detailed breakdown in the same language as the post. If non-compliant, reference specific convention names and articles. If compliant, briefly confirm what was checked and why it passes.`;
+
+const MODEL = "claude-opus-5";
+
+const VERDICT_SCHEMA = {
+  type: "object",
+  properties: {
+    verdict: { type: "string", enum: ["compliant", "non_compliant"] },
+    reason: { type: "string" },
+  },
+  required: ["verdict", "reason"],
+  additionalProperties: false,
+};
 
 export async function checkCompliance(
   post: PostObj,
@@ -43,28 +51,27 @@ Post Header: ${post.post.header}
 Post Body: ${post.post.body}
 Language: ${post.post.language}`;
 
-  const message = await client.messages.create({
-    model: "claude-sonnet-4-5",
-    max_tokens: 1024,
+  const message = await client.beta.messages.create({
+    model: MODEL,
+    max_tokens: 16000,
+    thinking: { type: "adaptive" },
+    output_config: { format: { type: "json_schema", schema: VERDICT_SCHEMA } },
+    // Re-run on Anthropic's recommended fallback model if a safety classifier declines.
+    betas: ["server-side-fallback-2026-07-01"],
+    fallbacks: "default",
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userMessage }],
   });
 
-  const text =
-    message.content[0].type === "text" ? message.content[0].text : "";
-
-  let parsed: { verdict: "compliant" | "non_compliant"; reason: string };
-
-  try {
-    // Strip possible markdown code fences if Claude wraps the JSON
-    const cleaned = text.replace(/^```json\n?/, "").replace(/\n?```$/, "").trim();
-    parsed = JSON.parse(cleaned);
-  } catch {
-    parsed = {
-      verdict: "non_compliant",
-      reason: `Claude response could not be parsed. Raw response: ${text}`,
-    };
+  if (message.stop_reason !== "end_turn") {
+    throw new Error(`Compliance check did not complete (stop_reason: ${message.stop_reason})`);
   }
+
+  const text = message.content.find((block) => block.type === "text");
+  if (!text || text.type !== "text") {
+    throw new Error("Compliance check returned no text block");
+  }
+  const parsed: { verdict: "compliant" | "non_compliant"; reason: string } = JSON.parse(text.text);
 
   return {
     objID: post.objID,
