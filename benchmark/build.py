@@ -422,6 +422,17 @@ PARSERS = {"articles": parse_articles, "udhr_html": parse_udhr_html, "manual": p
 
 # ---------------------------------------------------------------- main
 
+def benchmark_version(instruments):
+    """Hash of the authoritative English text and the IDs only. Persian translations
+    (text_fa, fa_status) are display text: adding or correcting them must not
+    change the version, which keys every cached audit."""
+    en = [[{"id": p["id"], "number": p.get("number"), "heading": p.get("heading"),
+            "text_en": p["text_en"],
+            "paras": [{"id": q["id"], "text_en": q["text_en"]} for q in p.get("paras") or []]}
+           for p in provs] for provs in instruments]
+    return hashlib.sha256(json.dumps(en, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+
+
 def main():
     relock = "--relock" in sys.argv
     lock = json.load(open(LOCK)) if os.path.exists(LOCK) else {}
@@ -462,9 +473,9 @@ def main():
     ids = sorted(i for f in os.listdir(os.path.join(OUT, "provisions"))
                  for p in json.load(open(os.path.join(OUT, "provisions", f), encoding="utf-8"))["provisions"]
                  for i in [p["id"]] + [q["id"] for q in p.get("paras", [])])
-    version = hashlib.sha256(json.dumps(
+    version = benchmark_version(
         [json.load(open(os.path.join(OUT, "provisions", f"{m['id']}.json"), encoding="utf-8"))["provisions"]
-         for m in index], ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+         for m in index])
     json.dump({"version": version, "instruments": index},
               open(os.path.join(OUT, "instruments.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)

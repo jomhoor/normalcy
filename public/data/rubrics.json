@@ -1,9 +1,9 @@
 {
- "benchmark": "f02fba91459fd567",
+ "benchmark": "f04ecff03b434da0",
  "rubrics": {
   "audit-constitution": {
    "name": "audit-constitution",
-   "version": "audit-constitution-3da8d57fd80c",
+   "version": "audit-constitution-16fda2964fda",
    "en": "Constitutional rights audit",
    "fa": "ارزیابی حقوق در قانون اساسی",
    "applies_to": [
@@ -14,7 +14,7 @@
     "ideology",
     "treatise"
    ],
-   "benchmark": "f02fba91459fd567",
+   "benchmark": "f04ecff03b434da0",
    "instructions": "You audit a founding document (a constitution, a draft constitution, or a political charter or programme that describes how a state should be organised) against international human-rights law.\n\nThe benchmark is the set of provisions supplied below, quoted verbatim with stable IDs. It is the only reference point. Never treat any national constitution, national law or religious code as a standard; they are only ever the object of assessment.\n\nThe document is supplied as numbered segments (<segment id=\"...\">). A segment is an article when the document's articles could be identified, otherwise a page. The text comes from PDF extraction or OCR and may contain broken characters or misordered lines; read through the noise, and say so in the note when it prevents a finding.\n\nFor every right in the checklist, give exactly one verdict:\n- guaranteed: the document explicitly protects the right, at a level consistent with the cited provisions.\n- restricted_clawback: the document names the right but takes it back, for example by making it subject to \"the law\", \"Islamic standards\", \"public morals\", \"national interests\" or a similar open-ended condition, by limiting it to citizens or to a group, or by restricting it more than the cited provisions allow.\n- contradicted: the document goes against the right, for example by establishing discrimination, allowing a prohibited punishment, or giving an office power to override the right.\n- silent: the document does not address the right. Silence counts: it is a finding, not a gap to fill with assumptions.\n\nRules:\n- Judge only what the text says. Do not credit intentions, preambles that the operative text does not carry out, or rights the author might add later.\n- A general limitation clause that applies to all rights (for example \"all rights are exercised within the framework of Islamic standards\") makes each right it reaches restricted_clawback, and you cite that segment for each of them.\n- In segments, cite the segment IDs your verdict rests on. For silent, cite none unless a segment is relevant to the silence (for example a clause that mentions the subject without granting the right).\n- In provisions, cite the benchmark provision IDs the verdict rests on, using only IDs shown in square brackets in the benchmark below. Prefer paragraph IDs (such as ICCPR.19.3) over article IDs when one paragraph is decisive.\n- In quote, copy the decisive words from the document exactly as they appear in the segment (at most about 30 words). Leave it empty for silent.\n- Write note_en in English and note_fa in Persian: one to three plain sentences on what the document says and why that verdict follows. Name the clawback wording when there is one.\n- In summary_en and summary_fa, give a short overall assessment: the main strengths, the main clawbacks and contradictions, and the most significant silences.",
    "rights": [
     {
@@ -343,13 +343,13 @@
   },
   "audit-org": {
    "name": "audit-org",
-   "version": "audit-org-b65bf2092e3e",
+   "version": "audit-org-31ac6d5105c9",
    "en": "Organisational bylaws audit",
    "fa": "ارزیابی اساسنامه سازمانی",
    "applies_to": [
     "bylaws"
    ],
-   "benchmark": "f02fba91459fd567",
+   "benchmark": "f04ecff03b434da0",
    "instructions": "You audit the bylaws (internal rules) of a political party, coalition or civil-society organisation against international human-rights law and the OSCE/ODIHR–Venice Commission guidelines on political parties and on freedom of association.\n\nThe benchmark is the set of provisions supplied below, quoted verbatim with stable IDs. It is the only reference point. The guidelines are non-binding good practice addressed mainly to states; apply them to the organisation's own rules only where they speak to internal organisation (membership, internal democracy, equal treatment within the organisation, accountability and finances). Never treat any national law or religious code as a standard.\n\nThe document is supplied as numbered segments (<segment id=\"...\">). A segment is an article when the document's articles could be identified, otherwise a page. The text comes from PDF extraction or OCR and may contain broken characters or misordered lines; read through the noise, and say so in the note when it prevents a finding.\n\nFor every item in the checklist, give exactly one verdict:\n- guaranteed: the bylaws explicitly provide it, at a level consistent with the cited provisions.\n- restricted_clawback: the bylaws provide it but take it back, for example by leaving it to the discretion of the leadership, by making it subject to an open-ended condition, or by limiting it to a group.\n- contradicted: the bylaws go against it, for example by excluding members on a prohibited ground, concentrating unchecked power in one office, or allowing expulsion without a hearing.\n- silent: the bylaws do not address it. Silence counts: it is a finding, not a gap to fill with assumptions.\n\nRules:\n- Judge only what the text says. Do not credit intentions or practice that the text does not establish.\n- In segments, cite the segment IDs your verdict rests on. For silent, cite none unless a segment is relevant to the silence.\n- In provisions, cite the benchmark provision IDs the verdict rests on, using only IDs shown in square brackets in the benchmark below. Prefer paragraph IDs when one paragraph is decisive.\n- In quote, copy the decisive words from the document exactly as they appear in the segment (at most about 30 words). Leave it empty for silent.\n- Write note_en in English and note_fa in Persian: one to three plain sentences on what the bylaws say and why that verdict follows.\n- In summary_en and summary_fa, give a short overall assessment of the organisation's internal democracy and its commitment to human rights.",
    "rights": [
     {
